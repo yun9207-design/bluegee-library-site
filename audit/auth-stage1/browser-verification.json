@@ -1,0 +1,90 @@
+{
+  "checkedAt": "2026-10-01T07:58:04.335Z",
+  "realSupabaseVerified": false,
+  "mode": "Isolated protocol fixture with the real bundled SDK; not live Supabase",
+  "mobile": [
+    {
+      "state": "unconfigured-login",
+      "width": 320,
+      "documentWidth": 320
+    },
+    {
+      "state": "unconfigured-login",
+      "width": 390,
+      "documentWidth": 390
+    },
+    {
+      "state": "unconfigured-login",
+      "width": 768,
+      "documentWidth": 768
+    },
+    {
+      "state": "unconfigured-login",
+      "width": 1440,
+      "documentWidth": 1440
+    },
+    {
+      "state": "login",
+      "width": 320,
+      "documentWidth": 320
+    },
+    {
+      "state": "login",
+      "width": 390,
+      "documentWidth": 390
+    },
+    {
+      "state": "login",
+      "width": 768,
+      "documentWidth": 768
+    },
+    {
+      "state": "login",
+      "width": 1440,
+      "documentWidth": 1440
+    },
+    {
+      "state": "signed-in-library",
+      "width": 320,
+      "documentWidth": 320
+    },
+    {
+      "state": "signed-in-library",
+      "width": 390,
+      "documentWidth": 390
+    },
+    {
+      "state": "signed-in-library",
+      "width": 768,
+      "documentWidth": 768
+    },
+    {
+      "state": "signed-in-library",
+      "width": 1440,
+      "documentWidth": 1440
+    }
+  ],
+  "requests": {
+    "password": 3,
+    "user": 8,
+    "refresh": 1,
+    "logout": 2
+  },
+  "brokenLocalAssets": [],
+  "javascriptErrors": [],
+  "unconfiguredPublicLibrary": true,
+  "invalidCredentials": true,
+  "loginRedirectAndEmail": true,
+  "reloadSession": true,
+  "signedInDetails": [
+    "001",
+    "050",
+    "080"
+  ],
+  "refreshSession": true,
+  "logoutErrorMatchesLocalSession": true,
+  "logoutAndCrossTab": true,
+  "publicReaderAfterLogout": true,
+  "passed": true,
+  "fixtureRemoved": true
+}

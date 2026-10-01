@@ -16,4 +16,4 @@ export default [{
     'no-unreachable': 'error', 'no-dupe-keys': 'error', 'no-constant-condition': 'error',
     'no-empty': 'error', 'use-isnan': 'error', 'valid-typeof': 'error',
   },
-}, { files: ['eslint.config.mjs'], languageOptions: { sourceType: 'module' } }];
+}, { files: ['eslint.config.mjs', 'src/auth.js'], languageOptions: { sourceType: 'module' } }];

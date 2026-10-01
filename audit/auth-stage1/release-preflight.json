@@ -1,0 +1,22 @@
+{
+  "checkedAt": "2026-10-01T09:54:39.006Z",
+  "stage": "Auth Production release preflight",
+  "localLiveSmoke": {
+    "source": "user confirmation",
+    "passwordLoginCount": 1,
+    "login": true,
+    "emailDisplayed": true,
+    "reloadSession": true,
+    "logout": true
+  },
+  "additionalPasswordLoginsPerformedByAgent": 0,
+  "productionLoginTestRequested": false,
+  "publicConfigOnly": true,
+  "productionEnvironmentNames": [
+    "SUPABASE_URL",
+    "SUPABASE_PUBLISHABLE_KEY"
+  ],
+  "envScope": "production",
+  "authHealthHTTPStatus": 200,
+  "publicGuidesStillPublic": true
+}

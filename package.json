@@ -15,13 +15,19 @@
     "build:check": "node scripts/build-catalog.cjs --check",
     "test": "node --test tests/catalog.test.cjs",
     "test:browser": "node tests/e2e/catalog-browser.cjs",
-    "dev": "node scripts/serve.cjs"
+    "dev": "node scripts/serve.cjs",
+    "test:auth": "node --test tests/auth.test.cjs",
+    "test:auth:browser": "node tests/e2e/auth-browser.cjs"
   },
   "devDependencies": {
     "@types/node": "24.19.0",
     "ajv": "8.20.0",
+    "esbuild": "0.28.2",
     "eslint": "10.11.0",
     "playwright": "1.63.0",
     "typescript": "7.0.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "2.117.2"
   }
 }

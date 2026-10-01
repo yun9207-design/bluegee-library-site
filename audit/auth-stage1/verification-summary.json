@@ -1,0 +1,33 @@
+{
+  "checkedAt": "2026-10-01T08:02:14.251Z",
+  "localOnly": true,
+  "pushed": false,
+  "deployed": false,
+  "liveSupabaseVerified": false,
+  "authBrowserPassed": true,
+  "authFixtureRemoved": true,
+  "catalogBrowserPassed": true,
+  "count": 80,
+  "categories": {
+    "outboard": 49,
+    "deep-dive": 10,
+    "microphone": 21
+  },
+  "details": 80,
+  "guides": 80,
+  "chapters": 2087,
+  "searchChecks": 11,
+  "mobileChecks": 36,
+  "brokenLocalAssets": 0,
+  "originalGuidesUnchanged": 80,
+  "masterUnchanged": true,
+  "unitTests": {
+    "catalog": 9,
+    "authConfig": 5
+  },
+  "lint": "passed",
+  "typecheck": "passed",
+  "build": "passed",
+  "buildCheck": "passed",
+  "validation": "passed"
+}

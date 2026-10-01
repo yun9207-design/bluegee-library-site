@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-01T08:00:02.340Z",
+  "baselineCommit": "784d4170421271787a6e14fd9bd2928bb1a0efb0",
+  "masterUnchanged": true,
+  "originalGuideCount": 80,
+  "unchangedGuides": 80,
+  "originalDistFileCount": 91,
+  "changedExistingFiles": [
+    "index.html",
+    "product.html"
+  ],
+  "expectedHeaderChangesOnly": true,
+  "catalogueCoreReaderStylesUnchanged": true
+}

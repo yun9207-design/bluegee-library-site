@@ -2,3 +2,9 @@ node_modules/
 .sites-runtime/
 *.tar.gz
 *.zip
+.env
+.env.*
+!.env.example
+dist/auth-config.js
+
+.vercel

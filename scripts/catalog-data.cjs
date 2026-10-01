@@ -4,6 +4,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { Ajv } = require('ajv');
 const { createCatalog } = require('../src/catalog-core.js');
+const { authShell, renderAuthOutputs } = require('./auth-build.cjs');
 /** @typedef {import('../src/catalog-types').CatalogSource} CatalogSource */
 /** @typedef {import('../src/catalog-types').RuntimeCatalog} RuntimeCatalog */
 /** @typedef {import('../src/catalog-types').Chapter} Chapter */
@@ -131,7 +132,7 @@ function escapeHTML(value) {
 /** Produce outputs without rewriting or moving any guide. @param {RuntimeCatalog} data @returns {Map<string,string>} */
 function renderOutputs(data) {
   const library = createCatalog(data);
-  let home = fs.readFileSync(path.join(ROOT, 'src/index.template.html'), 'utf8');
+  let home = authShell(fs.readFileSync(path.join(ROOT, 'src/index.template.html'), 'utf8'));
   const categories = library.categories.map(category => `<a class="category-link" data-category="${escapeHTML(category.id)}" href="?category=${escapeHTML(category.id)}"><span><strong>${escapeHTML(category.label)}</strong><small>${escapeHTML(category.description)}</small></span><b>${library.counts[category.id]}</b></a>`).join('\n');
   home = home.replace('{{libraryTotal}}', String(library.products.length)).replace('{{categoryLinks}}', categories);
   ensure(!/\{\{[^}]+\}\}/u.test(home), 'Unresolved index template token');
@@ -142,9 +143,10 @@ function renderOutputs(data) {
     ['index.html', home], ['catalog.js', catalogue], ['products.json', JSON.stringify(data, null, 2) + '\n'],
     ['catalog-core.js', fs.readFileSync(path.join(ROOT, 'src/catalog-core.js'), 'utf8')],
     ['app.js', fs.readFileSync(path.join(ROOT, 'src/app.js'), 'utf8')],
-    ['product.html', fs.readFileSync(path.join(ROOT, 'src/product.template.html'), 'utf8')],
+    ['product.html', authShell(fs.readFileSync(path.join(ROOT, 'src/product.template.html'), 'utf8'))],
     ['product.js', fs.readFileSync(path.join(ROOT, 'src/product.js'), 'utf8')],
     ['product.css', fs.readFileSync(path.join(ROOT, 'src/product.css'), 'utf8')],
+    ...renderAuthOutputs(),
   ]);
 }
 

@@ -1,0 +1,20 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>로그인 — BlueGEE Audio Library</title><meta name="description" content="BlueGEE Audio Library 계정 로그인. 공개 가이드는 로그인 없이 이용할 수 있습니다.">
+<link rel="stylesheet" href="styles.css">{{authAssets}}
+</head><body>
+<a class="skip-link" href="#main">본문 바로가기</a>
+<header class="site-header"><div class="header-inner"><a class="brand" href="index.html"><span class="brand-name">BlueGEE<span class="brand-dot">.</span></span><span class="brand-sub">AUDIO LIBRARY</span></a><nav class="main-nav" aria-label="주 메뉴"><a href="index.html">라이브러리</a><a href="index.html?category=outboard">아웃보드</a><a href="index.html?category=deep-dive">딥다이브</a><a href="index.html?category=microphone">마이크</a></nav>{{accountArea}}</div></header>
+<main id="main" class="library-main login-main"><a class="login-back" href="index.html">← Library로 돌아가기</a>
+<section class="login-panel" aria-labelledby="login-title"><p class="eyebrow">BLUEGEE AUDIO LIBRARY</p><h1 id="login-title">로그인</h1><p class="login-description">계정으로 로그인하세요.<br>공개 가이드는 로그인 없이도 읽을 수 있습니다.</p>
+<p id="login-notice" class="auth-notice" role="status" aria-live="polite">로그인 연결을 확인하고 있습니다.</p>
+<p id="login-error" class="auth-error" role="alert" hidden></p>
+<form id="login-form"><fieldset id="login-controls" disabled><legend class="sr-only">이메일과 비밀번호</legend>
+<label for="login-email">이메일</label><input id="login-email" name="email" type="email" autocomplete="username" required maxlength="254" inputmode="email" autocapitalize="none" spellcheck="false">
+<label for="login-password">비밀번호</label><input id="login-password" name="password" type="password" autocomplete="current-password" required>
+<button id="login-submit" type="submit">로그인</button></fieldset></form>
+<div id="login-already" hidden><p>이미 로그인되어 있습니다.</p><a class="login-library" href="index.html">Library 열기 →</a></div>
+<noscript><p>로그인하려면 JavaScript를 켜 주세요. 공개 가이드는 기존 주소로 계속 이용할 수 있습니다.</p></noscript>
+</section></main>
+<footer class="site-footer"><div><b>BlueGEE Audio Library</b><p>독립적인 오디오 엔지니어링 교육 자료입니다. 각 가이드의 출처와 적용 범위를 함께 확인하세요.</p><small>© 2026 BlueGEE Audio</small></div><span>HTML 가이드 · PDF 판은 추후 제공</span></footer>
+</body></html>
