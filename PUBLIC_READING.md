@@ -31,4 +31,6 @@ where product_id ~ '^audio-(00[1-9]|0[1-7][0-9]|080)$';
 
 Production 익명 검사에서 전체 **80/80 API 200**, 원문 SHA-256 **80/80 일치**, 기존 가이드 URL **80/80 200**, 2,087개 목차 보존을 확인했다. 실제 계정 로그인 요청은 0회다. 운영 browser에서 로그인 없이 Pultec 전체 본문과 목차가 표시됐다. reader의 소개로 돌아가기 URL도 실제 product ID로 생성하도록 기존 placeholder 처리를 수정했다.
 
+상품 상세의 읽기 버튼은 ‘가이드 읽기’로 표시한다. 기존 ‘권한 확인 후 읽기/열람 권한 필요’ 안내를 제거하여 현재 공개 열람 상태와 맞췄다. 실제 private 권한 안내는 해당 DB flag가 꺼졌을 때 reader가 표시한다.
+
 공개 API 80종의 익명 열람·원문 SHA-256·기존 URL, 대표 browser의 원문·목차·모바일을 확인한다. 공개 flag=false의 거부, HEAD, 잘못된 상품, 무결성 오류와 기존 private entitlement 검사를 함께 확인한다. 실계정 로그인 반복 검증은 하지 않는다. 수행 숫자는 `audit/public-reading/verification.json`에 기록한다.

@@ -101,11 +101,11 @@ async function initialize() {
       openGuide(body.html);
     } catch { if (current === version) { lock('가이드에 연결하지 못했습니다. 잠시 후 다시 시도해 주세요.'); } }
   }
-  element('gate-retry').addEventListener('click', () => { authorize().catch(() => lock('권한 확인에 실패했습니다.')); });
+  element('gate-retry').addEventListener('click', () => { authorize().catch(() => lock('가이드를 불러오지 못했습니다.')); });
   // Recheck entitlement on return to the page, and revoke already-open frames promptly.
-  document.addEventListener('visibilitychange', () => { if (!document.hidden && readerOpen) { authorize(true).catch(() => lock('권한 확인에 실패했습니다.')); } });
-  window.addEventListener('pageshow', event => { if (event.persisted) { lock('열람 권한을 다시 확인하고 있습니다.'); authorize().catch(() => lock('권한 확인에 실패했습니다.')); } });
-  setInterval(() => { if (readerOpen && !document.hidden) { authorize(true).catch(() => lock('권한 확인에 실패했습니다.')); } }, 60000);
+  document.addEventListener('visibilitychange', () => { if (!document.hidden && readerOpen) { authorize(true).catch(() => lock('가이드를 불러오지 못했습니다.')); } });
+  window.addEventListener('pageshow', event => { if (event.persisted) { lock('가이드 내용을 다시 불러오고 있습니다.'); authorize().catch(() => lock('가이드를 불러오지 못했습니다.')); } });
+  setInterval(() => { if (readerOpen && !document.hidden) { authorize(true).catch(() => lock('가이드를 불러오지 못했습니다.')); } }, 60000);
   await authorize();
 }
 initialize().catch(() => lock('가이드 연결에 실패했습니다.'));
