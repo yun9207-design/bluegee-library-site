@@ -28,7 +28,7 @@ async function listen(server){await new Promise(resolve=>server.listen(0,'127.0.
     if(url.pathname==='/auth/v1/user'){response.end(JSON.stringify(user));return;}
     const id=(url.searchParams.get('product_id')??'').slice(3);
     if(url.pathname==='/rest/v1/library_entitlements'){response.end(JSON.stringify(grants.has(id)?[{access_type:'html',granted_at:'2026-01-01',expires_at:null}]:[]));return;}
-    if(url.pathname==='/rest/v1/library_guide_contents'){response.end(JSON.stringify(grants.has(id)&&originals.has(id)?[originals.get(id)]:[]));return;}
+    if(url.pathname==='/rest/v1/library_guide_contents'){response.end(JSON.stringify(url.searchParams.has('public_readable')?[]:grants.has(id)&&originals.has(id)?[originals.get(id)]:[]));return;}
     response.writeHead(404);response.end('{}');
   });
   const project=await listen(upstream);

@@ -1,5 +1,7 @@
 # 보안 범위 — 전체 80종 Entitlement
 
+**2026-10-02 현재 운영 상태:** 사용자 요청으로 80종의 `public_readable` 설정을 켜 로그인 없는 전체 열람을 허용한다. 현재 본문은 공개 상태이며 아래의 무권한 차단 설명은 `public_readable=false`일 때의 보호 모드 기록이다. RLS·관리자 전용 쓰기·기존 entitlement·Auth는 유지한다. 원문을 공개 Git/static 파일로 되돌리지 않았다. [PUBLIC_READING.md](PUBLIC_READING.md)에 현재 경계와 재잠금 방법을 기록했다.
+
 작성일: 2026-10-01.
 
 **현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.**

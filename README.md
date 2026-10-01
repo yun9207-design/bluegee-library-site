@@ -1,5 +1,7 @@
 # BlueGEE Audio Library
 
+**2026-10-02 운영 변경:** 사용자의 요청으로 현재 80종 전체 가이드는 로그인 없이 공개 열람한다. 본문은 기존 DB/API에서 제공하며 공개 Git/static에 재등록하지 않았다. 기존 로그인·entitlement는 나중에 판매를 시작할 때 사용할 수 있도록 보존한다. 현재 공개 설정과 되돌리는 방법은 [PUBLIC_READING.md](PUBLIC_READING.md)를 따른다. 아래 이전 보호 기록은 당시 구조를 설명한다.
+
 80종 오디오 엔지니어링 전문 가이드의 정적 Library다. 마스터는 `content/products.json`, 화면 소스는 `src/`, Vercel 배포 출력은 `dist/`다. Next.js 앱이 아니다.
 
 현재 상품 분류는 Outboard 49 / Engineer Deep Dive 10 / Microphone 21이다. 050 U47은 Classic 시리즈의 Microphone 분류를 유지한다. 기존 80개 URL과 2,087개 목차를 보존한다. 전체 80종의 기존 가이드 URL은 본문 대신 공통 권한 확인 화면을 제공하며 소개·미리보기·목차는 공개다. 운영 빌드는 `dist`를 사용한다.

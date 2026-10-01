@@ -1,0 +1,19 @@
+{
+  "date": "2026-10-02",
+  "ownerRequested": "80 full guides readable without login at the existing Production domain",
+  "dbAnonymousReadableGuides": 80,
+  "dbAnonymousWritePrivileges": false,
+  "dbPublicFlagOffVisibleGuides": 0,
+  "privateModePreserved": true,
+  "catalogueProducts": 80,
+  "chapters": 2087,
+  "automatedTests": { "passed": 22, "failed": 0 },
+  "privateFallbackBrowser": { "guides": ["audio-001", "audio-051", "audio-080"], "passed": true },
+  "lint": "passed",
+  "typecheck": "passed",
+  "build": "passed",
+  "buildCheck": { "passed": true, "generatedFiles": 94 },
+  "realAccountLoginRequests": 0,
+  "fullBodiesReintroducedToGitOrStatic": 0,
+  "productionVerification": "post-deploy receipt is kept outside Git in _maintenance/2026-10-02-public-reading"
+}

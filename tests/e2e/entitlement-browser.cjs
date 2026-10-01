@@ -31,7 +31,7 @@ async function start(server) {
     if (url.pathname === '/auth/v1/logout') { response.writeHead(204); response.end(); return; }
     if (url.pathname === '/auth/v1/user') { response.end(JSON.stringify(user)); return; }
     if (url.pathname === '/rest/v1/library_entitlements') { response.end(JSON.stringify(entitled ? [{access_type:'html',granted_at:'2026-01-01',expires_at:null}] : [])); return; }
-    if (url.pathname === '/rest/v1/library_guide_contents') { response.end(JSON.stringify(entitled ? [stored] : [])); return; }
+    if (url.pathname === '/rest/v1/library_guide_contents') { response.end(JSON.stringify(url.searchParams.has('public_readable') ? [] : entitled ? [stored] : [])); return; }
     response.writeHead(404); response.end('{}');
   });
   const project = await start(upstream);

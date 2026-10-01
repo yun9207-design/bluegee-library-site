@@ -54,16 +54,39 @@ window.addEventListener('message', event => {
   if (metadata.chapters.some(ch => ch.id === anchor)) { history.replaceState(null, '', '#' + encodeURIComponent(anchor)); }
 });
 window.addEventListener('hashchange', selectHash);
-element('reader-close').addEventListener('click', () => lock('가이드를 닫았습니다. 다시 열려면 권한을 확인하세요.'));
+element('reader-close').addEventListener('click', () => lock('가이드를 닫았습니다. 다시 불러오기를 누르면 열립니다.'));
 
 async function initialize() {
   if (!config?.configured || !config.url || !config.publishableKey) { lock('가이드 연결을 준비 중입니다. 잠시 후 다시 확인해 주세요.'); return; }
-  const client = createClient(config.url, config.publishableKey, { auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: false, storageKey: 'bluegee-audio-auth-' + new URL(config.url).hostname } });
+  const projectUrl = config.url;
+  const publishableKey = config.publishableKey;
+  /** @type {ReturnType<typeof createClient>|null} */
+  let client = null;
+  function accountClient() {
+    if (!client) {
+      client = createClient(projectUrl, publishableKey, { auth: { persistSession: true, autoRefreshToken: true, detectSessionInUrl: false, storageKey: 'bluegee-audio-auth-' + new URL(projectUrl).hostname } });
+      client.auth.onAuthStateChange((event, session) => {
+        if (event === 'SIGNED_OUT' || (event !== 'INITIAL_SESSION' && !session)) { lock('로그인 후 이 가이드의 열람 권한을 확인하세요.', true); }
+      });
+    }
+    return client;
+  }
   /** @param {boolean} [checkOnly] */
   async function authorize(checkOnly = false) {
     const current = ++version;
     try {
-      const { data, error } = await client.auth.getSession();
+      // Public mode never requires a session or a password login. RLS is the source of truth.
+      const publicResponse = await fetch('/api/guide?id=' + encodeURIComponent(metadata.productId) + '&public=1', { method: checkOnly ? 'HEAD' : 'GET', cache: 'no-store', credentials: 'omit' });
+      if (current !== version) { return; }
+      if (publicResponse.ok) {
+        if (checkOnly) { return; }
+        const body = await publicResponse.json();
+        if (current !== version) { return; }
+        if (body.productId !== metadata.productId || typeof body.html !== 'string') { throw new Error('Invalid content'); }
+        openGuide(body.html); return;
+      }
+      if (![401, 403].includes(publicResponse.status)) { lock('가이드를 불러오지 못했습니다. 잠시 후 다시 시도해 주세요.'); return; }
+      const { data, error } = await accountClient().auth.getSession();
       if (current !== version) { return; }
       if (error || !data.session) { lock('로그인 후 이 가이드의 열람 권한을 확인하세요.', true); return; }
       const response = await fetch('/api/guide?id=' + encodeURIComponent(metadata.productId), { method: checkOnly ? 'HEAD' : 'GET', headers: { Authorization: 'Bearer ' + data.session.access_token }, cache: 'no-store', credentials: 'omit' });
@@ -78,9 +101,6 @@ async function initialize() {
       openGuide(body.html);
     } catch { if (current === version) { lock('가이드에 연결하지 못했습니다. 잠시 후 다시 시도해 주세요.'); } }
   }
-  client.auth.onAuthStateChange((event, session) => {
-    if (event === 'SIGNED_OUT' || (event !== 'INITIAL_SESSION' && !session)) { lock('로그인 후 이 가이드의 열람 권한을 확인하세요.', true); }
-  });
   element('gate-retry').addEventListener('click', () => { authorize().catch(() => lock('권한 확인에 실패했습니다.')); });
   // Recheck entitlement on return to the page, and revoke already-open frames promptly.
   document.addEventListener('visibilitychange', () => { if (!document.hidden && readerOpen) { authorize(true).catch(() => lock('권한 확인에 실패했습니다.')); } });
