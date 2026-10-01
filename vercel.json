@@ -8,7 +8,7 @@
     "api/guide.js": { "maxDuration": 30 }
   },
   "headers": [
-    { "source": "/guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html", "headers": [
+    { "source": "/guides/:path*", "headers": [
       { "key": "Cache-Control", "value": "private, no-store, max-age=0" },
       { "key": "X-Frame-Options", "value": "SAMEORIGIN" }
     ] }

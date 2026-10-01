@@ -1,5 +1,7 @@
 # Supabase Auth 1단계 — 정적 사이트
 
+현재 Auth 코드는 동결했다. 아래는 최초 Auth 구현/검증 기록이다. 이후 별도 Entitlement 레이어로 80종 전체 본문을 보호하며 현재 보안 경계와 운영 절차는 [ALL_GUIDES_PROTECTION.md](ALL_GUIDES_PROTECTION.md)와 [SECURITY.md](SECURITY.md)를 따른다. 로그인 검증을 반복하지 않는다.
+
 작성일: 2026-10-01. 기준 배포 commit: `784d4170421271787a6e14fd9bd2928bb1a0efb0`. 초기 구현은 로컬에서 자동 검증했다. 실제 공개 설정을 연결한 뒤 사용자가 로컬 실계정 로그인 1회, 이메일 표시, 새로고침 세션 유지, 로그아웃 성공을 확인했다. 추가 로그인 검증은 하지 않는다. 이번 릴리즈는 GitHub main과 Vercel Production으로 배포하고 비로그인 자동 smoke test만 수행한다.
 
 **현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.**

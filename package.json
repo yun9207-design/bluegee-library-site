@@ -19,7 +19,9 @@
     "test:auth": "node --test tests/auth.test.cjs",
     "test:auth:browser": "node tests/e2e/auth-browser.cjs",
     "test:entitlement": "node --test tests/entitlement.test.cjs",
-    "test:entitlement:browser": "node tests/e2e/entitlement-browser.cjs"
+    "test:entitlement:browser": "node tests/e2e/entitlement-browser.cjs",
+    "test:protection": "node --test tests/all-guides-protection.test.cjs",
+    "test:protection:browser": "node tests/e2e/all-guides-protection.cjs"
   },
   "devDependencies": {
     "@types/node": "24.19.0",

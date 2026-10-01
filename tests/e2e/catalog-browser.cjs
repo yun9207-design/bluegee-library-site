@@ -220,7 +220,7 @@ async function serve(directory) {
           assert.equal(await guidePage.locator('#protected-reader').isVisible(), false);
           assert.equal(await guidePage.locator('#audio-guide-config').count(), 1);
           assert.deepEqual(jsErrors, []);
-          report.guides.push({ number: product.number, chapters: product.chapterCount, lockedPilot: true, jsErrors });
+          report.guides.push({ number: product.number, chapters: product.chapterCount, locked: true, jsErrors });
           guidePage.off('pageerror', onError);
           continue;
         }
@@ -245,21 +245,11 @@ async function serve(directory) {
     await Promise.all(Array.from({ length: 4 }, guideWorker));
     const reader = await context.newPage();
     await reader.goto(new URL('reader.html?id=002&chapter=tab-history', server.base).href);
-    await reader.waitForFunction(() => window.AudioGuide);
+    await reader.locator('#guide-gate').waitFor({state:'visible'});
     assert.ok(reader.url().endsWith(library.getProduct('002').htmlPath + '#tab-history'));
-    await reader.locator('#audio-guide-next').click();
-    assert.notEqual(new URL(reader.url()).hash, '#tab-history');
-    await reader.locator('#audio-guide-search').fill('광학');
-    assert.ok(await reader.locator('.audio-guide-link:visible').count() > 0);
-    await reader.locator('#audio-guide-search').fill('');
-    await reader.locator('#audio-guide-read').click();
-    assert.equal(await reader.locator('#audio-guide-read').getAttribute('aria-pressed'), 'true');
-    await reader.reload(); await reader.waitForFunction(() => window.AudioGuide);
-    assert.equal(await reader.locator('#audio-guide-read').getAttribute('aria-pressed'), 'true');
+    assert.equal(await reader.locator('#protected-reader').isVisible(),false);
+    await reader.reload(); await reader.locator('#guide-gate').waitFor({state:'visible'});
     await reader.setViewportSize({ width: 390, height: 844 });
-    await reader.locator('#audio-guide-toggle').click();
-    await reader.locator('.audio-guide-link').nth(4).click();
-    assert.equal(await reader.locator('#audio-guide-toggle').getAttribute('aria-expanded'), 'false');
     assert.equal(await reader.evaluate(() => document.documentElement.scrollWidth <= innerWidth + 1), true);
     await reader.screenshot({ path: path.join(output, 'reader-390.png'), animations: 'disabled' });
     await reader.close();

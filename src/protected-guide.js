@@ -38,6 +38,13 @@ frame.addEventListener('load', () => {
   if (!readerOpen) { return; }
   const home = frame.contentDocument?.getElementById('audio-guide-home');
   if (home) { home.setAttribute('href', '/index.html'); home.setAttribute('target', '_top'); }
+  // Cross-guide links open the common outer reader, rather than nesting lock frames.
+  for (const link of frame.contentDocument?.querySelectorAll('a[href]') ?? []) {
+    const href = link.getAttribute('href') ?? '';
+    if (!href || href.startsWith('#')) { continue; }
+    const target = new URL(href, location.href);
+    if (target.origin === location.origin && ((target.pathname.startsWith('/guides/') && target.pathname.endsWith('.html')) || target.pathname === '/reader.html')) { link.setAttribute('target', '_top'); }
+  }
   selectHash();
 });
 window.addEventListener('message', event => {

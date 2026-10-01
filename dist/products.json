@@ -343,6 +343,7 @@
           "heading": "17. Podcast / Voiceover (스피치)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -524,6 +525,7 @@
           "heading": "Jim Lawrence의 영감: 레이더, 광학 센서, 그리고 라디오 방송국"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -703,6 +705,7 @@
           "heading": "3. Aggressive Rock Bass  &  Vocal"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -908,6 +911,7 @@
           "heading": "Bus  &  Mastering (Drum Room, Mix Bus, Lat/Vert Master)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -1076,6 +1080,7 @@
           "heading": "Mastering — 초정밀 다이내믹 결속  제안 시작점"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -1249,6 +1254,7 @@
           "heading": "Bass — 일렉트릭, 신스, 어쿠스틱 베이스 운용"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -1442,6 +1448,7 @@
           "heading": "마스터링 엔지니어를 위한 초정밀 캘리브레이션 프로토콜"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -1630,6 +1637,7 @@
           "heading": "Piano, Keys  &  Synth Processing 제안 시작점"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -1816,6 +1824,7 @@
           "heading": "15 Mastering — API 5500 Dual EQ의 레인지 멀티플라이어"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -2013,6 +2022,7 @@
           "heading": "14 Piano · Synth · Strings · Brass"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -2207,6 +2217,7 @@
           "heading": "EMT 창립자와 독일 방송기술 연구소의 협력 OFFICIAL / EMT-ENDORSED"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -2393,6 +2404,7 @@
           "heading": "Guitar · Piano · Synth 마스터 가이드"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -2583,6 +2595,7 @@
           "heading": "Warm Vintage Rhodes Electric Piano"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -2779,6 +2792,7 @@
           "heading": "15 Modern Mix Bus Application (4 Master Styles)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -2945,6 +2959,7 @@
           "heading": "Ampex ATR-102 — 마스터링 테이프 판단"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -3153,6 +3168,7 @@
           "heading": "4. Gentle Mastering Sub-Bus"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -3362,6 +3378,7 @@
           "heading": "1. Stereo Link (마스터링 및 믹스 버스 기본)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -3569,6 +3586,7 @@
           "heading": "Waves · Abbey Road TG Mastering Chain Manual"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -3759,6 +3777,7 @@
           "heading": "3. Grand Piano (Pop Mix Polish)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -3945,6 +3964,7 @@
           "heading": "4. Acoustic Grand Piano (Stereo Pair)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -4134,6 +4154,7 @@
           "heading": "Grand Piano Dynamic Leveler"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -4327,6 +4348,7 @@
           "heading": "Mix Bus Gentle Opto Glue Chain"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -4501,6 +4523,7 @@
           "heading": "Bass  &  Guitar Recipes (5선)  제안 시작점"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -4684,6 +4707,7 @@
           "heading": "SHADOW HILLS MASTERING COMPRESSOR MASTER GUIDE"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -4880,6 +4904,7 @@
           "heading": "Vocal Spoken / Rap Presence (랩/내레이션 발음 전달력)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -5042,6 +5067,7 @@
           "heading": "Guitar (기타 8대 공식  &  실전 레시피)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -5208,6 +5234,7 @@
           "heading": "기타 마스터 레시피 (Guitar Master Recipes - 8선)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -5374,6 +5401,7 @@
           "heading": "Guitar  &  Keys Recipes (6종)  제안 시작점S"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -5573,6 +5601,7 @@
           "heading": "1. 역사적 기원: FM 방송 프리엠퍼시스 보호"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -5739,6 +5768,7 @@
           "heading": "6개 베이스 DI  &  앰프 레시피"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -5940,6 +5970,7 @@
           "heading": "03. Standard와 Mastering의 필터를 분리"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -6146,6 +6177,7 @@
           "heading": "5. Brass / Horn Section (호방한 브라스 펀치)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -6328,6 +6360,7 @@
           "heading": "14 Bass  &  Guitar Recipes (7종)  제안 시작점"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -6514,6 +6547,7 @@
           "heading": "5. Grand Piano (Spaced Pair / ORTF)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -6694,6 +6728,7 @@
           "heading": "베이스 실전 레시피 6선 (Bass Tone Shaping)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -6881,6 +6916,7 @@
           "heading": "12 Mastering Recipes (마스터링 실전 레시피 8종) 제안 시작점"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -7068,6 +7104,7 @@
           "heading": "Grand Piano Classical / Jazz (Stereo Pair)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -7259,6 +7296,7 @@
           "heading": "Acoustic Grand Piano"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -7401,6 +7439,7 @@
       "createdAt": null,
       "updatedAt": null,
       "keywordSources": [],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -7567,6 +7606,7 @@
           "heading": "5. Digital Stage Piano (Nord Piano / Yamaha CP)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -7757,6 +7797,7 @@
           "heading": "10. Dynamic Broadcast / Voiceover (Radio Ready)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -7957,6 +7998,7 @@
           "heading": "32. Mastering Mix Bus Gentle Density  &  Depth"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -8167,6 +8209,7 @@
           "heading": "06. Broadcast  &  Podcasting Speech"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -8354,6 +8397,7 @@
           "heading": "06. Voiceover  &  Podcast Master (방송/성우 나레이션)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -8561,6 +8605,7 @@
           "heading": "07. Broadcast Spoken Word / Podcast  제안 시작점"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -8748,6 +8793,7 @@
           "heading": "15 Bus · Mix (8 가지 마스터 및 서브믹스 버스 레시피)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -8925,6 +8971,7 @@
           "heading": "03. Bass 삽입 게인의 과도한 단정 제거"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -9112,6 +9159,7 @@
           "heading": "Stereo TLA Pair → Digital Peak Limiter (Mastering / Bus Finishing)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -9299,6 +9347,7 @@
           "heading": "15 Bus  &  Mastering Master Recipes (10 Sets)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -9712,6 +9761,7 @@
           "heading": "🎹 11. Analog Synth / Electric Piano (Rhodes) D"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -9865,6 +9915,7 @@
           "heading": "MYTH 14: 어택이 10ms로 느리기 때문에 빠른 보컬 피크를 잡지 못한다."
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -10041,6 +10092,7 @@
           "heading": "17 Engineer  &  Session Cases (16선 검증 데이터베이스)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -10206,6 +10258,7 @@
           "heading": "왜 보컬과 피아노에서 특별한가?"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -10429,6 +10482,7 @@
           "heading": "Broadcast Lead Vocal Channel Strip"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -10643,6 +10697,7 @@
           "heading": "3. 5500 1U 마스터링 랙"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -10789,6 +10844,7 @@
       "createdAt": null,
       "updatedAt": null,
       "keywordSources": [],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -11006,6 +11062,7 @@
           "heading": "05. Mastering·M/S는 특정 버전의 기능"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -11144,6 +11201,7 @@
       "createdAt": null,
       "updatedAt": null,
       "keywordSources": [],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -11331,6 +11389,7 @@
           "heading": "RS124는 최종 마스터링/커팅 룸에서만 사용되었다?"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -11520,6 +11579,7 @@
           "heading": "16. 피아노 · 현악기"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "c01",
@@ -11732,6 +11792,7 @@
           "heading": "Broadcast  &  Voiceover (Commercial / Narration / Podcast)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -11911,6 +11972,7 @@
           "heading": "14 Brass  &  Woodwind Placement Matrix"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -12096,6 +12158,7 @@
           "heading": "14. Brass  &  Woodwinds (High SPL Tracking)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -12284,6 +12347,7 @@
           "heading": "금관 및 목관 악기  Trumpet, Trombone, Saxophone, Flute"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -12482,6 +12546,7 @@
           "heading": "Trumpet / Brass"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "v4-start",
@@ -12690,6 +12755,7 @@
           "heading": "오디오북 및 성우 나레이션 (Voiceover / ADR)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -12880,6 +12946,7 @@
           "heading": "15 Brass  &  High-SPL Instruments  Trumpet, Trombone, Floor Tom  &  Snare Bottom"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -13076,6 +13143,7 @@
           "heading": "02 탄생과 역사  Birth  &  Broadcast Lineage"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -13262,6 +13330,7 @@
           "heading": "13 Brass · Horns  트럼펫, 트롬본, 색소폰의 고음압 제어"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-01",
@@ -13458,6 +13527,7 @@
           "heading": "보컬 및 방송 스피치  Broadcasting History D"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -13654,6 +13724,7 @@
           "heading": "12 Broadcast · Speech  Podcasts, Voiceover  &  European Oratory"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -13850,6 +13921,7 @@
           "heading": "1960년대 방송 엔지니어링의 도전 과제"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-01",
@@ -14056,6 +14128,7 @@
           "heading": "3. Jazz Club / Broadcast Vocal  A"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",
@@ -14252,6 +14325,7 @@
           "heading": "11 Vocal  &  Broadcast Engineering (보컬 및 방송 수음 기법)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -14458,6 +14532,7 @@
           "heading": "1. BBC의 요구: Type A의 한계와 새로운 방송 마이크의 필요성"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-01",
@@ -14634,6 +14709,7 @@
           "heading": "12. 브라스  &  관악기 딥다이브 (Trumpet / Trombone / Horns)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-01",
@@ -14810,6 +14886,7 @@
           "heading": "13 Brass  &  Woodwinds Deep Dive (관악기 마이킹)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -14998,6 +15075,7 @@
           "heading": "14. Brass  &  Woodwinds Recording"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "overview",
@@ -15166,6 +15244,7 @@
           "heading": "13 Grand Piano (콘서트 그랜드 레코딩)"
         }
       ],
+      "access": "entitlement",
       "chapters": [
         {
           "id": "tab-overview",

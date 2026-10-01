@@ -92,8 +92,8 @@ function validateAndEnrich(raw, directory = path.join(ROOT, 'dist')) {
     ensure(product.status !== 'published' || product.htmlPath || product.pdfPath, `${product.id}: published product needs an available HTML/PDF`);
     let config = null;
     if (product.access === 'entitlement') {
-      ensure(product.id === 'audio-050', 'This pilot may protect only audio-050');
       ensure(product.chapters && product.chapters.length > 0, 'Protected guide needs its public chapter metadata');
+      ensure(product.pdfPath === null, 'Protected PDF files require separate private delivery; do not publish a PDF path');
     }
     if (product.htmlPath) {
       ensure(product.htmlPath.endsWith('.html'), `${product.id}: htmlPath must end in .html`);
@@ -121,6 +121,7 @@ function validateAndEnrich(raw, directory = path.join(ROOT, 'dist')) {
   for (const original of legacy) {
     const product = products.find(item => item.id === original.id);
     ensure(product && product.number === original.number && product.htmlPath === original.htmlPath && product.status === 'published', `Protected legacy URL missing/changed: ${original.id}`);
+    ensure(product.access === 'entitlement', `Protected legacy guide cannot become a public original: ${original.id}`);
   }
   return { ...data, products };
 }

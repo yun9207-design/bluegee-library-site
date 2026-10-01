@@ -1,0 +1,41 @@
+{
+  "scope": "Isolated real SDK/common API/original bodies; no live login, no U47 repeat",
+  "guides": [
+    {
+      "id": "audio-001",
+      "publicDetail": true,
+      "anonymousBlocked": true,
+      "noRightsBlocked": true,
+      "fullOriginal": true,
+      "chapters": 24,
+      "deepLink": true,
+      "mobile": true,
+      "home": true
+    },
+    {
+      "id": "audio-051",
+      "publicDetail": true,
+      "anonymousBlocked": true,
+      "noRightsBlocked": true,
+      "fullOriginal": true,
+      "chapters": 27,
+      "deepLink": true,
+      "mobile": true,
+      "home": true
+    },
+    {
+      "id": "audio-080",
+      "publicDetail": true,
+      "anonymousBlocked": true,
+      "noRightsBlocked": true,
+      "fullOriginal": true,
+      "chapters": 26,
+      "deepLink": true,
+      "mobile": true,
+      "home": true
+    }
+  ],
+  "errors": [],
+  "passwordRequests": 0,
+  "passed": true
+}

@@ -1,5 +1,7 @@
 # 카탈로그 유지관리 — 새 오디오 가이드 하나 추가하기
 
+**현재 80종 전체 본문은 비공개 DB에 있다.** 신규 보호 가이드에는 아래 초기 공개 HTML 복사 절차를 사용하지 않는다. [ALL_GUIDES_PROTECTION.md](ALL_GUIDES_PROTECTION.md)의 신규 081 이후 등록 절차를 먼저 따른다. 상품 소개/목차만 마스터와 public 경로에 등록하며 원문은 Git 밖에서 관리한다.
+
 작성일: 2026-10-01. 상품 마스터·자동 카탈로그·상품 상세 소개 화면의 유지관리 안내다. 현재 공개 상품은 80종이다. 카탈로그·상세 화면은 이후 안정 commit `784d4170421271787a6e14fd9bd2928bb1a0efb0`으로 배포됐으며, Auth 1단계는 실제 공개 설정과 로컬 실계정 1회 확인을 마쳤고 기존 main → Vercel Production 배포 구조를 사용한다.
 
 ## 1. 어디를 수정하나요?
@@ -259,8 +261,8 @@ keywords는 text[] 또는 별도 태그 관계로, 날짜 null은 그대로 null
 상품 원본과 추가 절차는 그대로다. 로그인은 상품 수·검색·분류·원본 URL을 바꾸지 않으며 로그인하지 않아도 공개 가이드를 읽을 수 있다. 빌드는 기존 카탈로그 8개에 로그인/SDK/스타일/공개 설정 4개를 더한 12개 파일을 생성한다. `dist/auth-config.js`는 Git에서 제외한 빌드 생성물이고 직접 수정하지 않는다. SDK 연결값은 상품 마스터에 넣지 않는다. 설정과 테스트 방법은 [AUTH_IMPLEMENTATION.md](AUTH_IMPLEMENTATION.md)를 따른다.
 
 **현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.**
-# U47 보호 파일럿 유지관리
+# 전체 보호 전의 U47 파일럿 기록
 
-`audio-050`만 마스터의 `access:"entitlement"`를 사용한다. 기존 27개 장의 제목·ID를 `chapters` 필드로 보존하고 URL·분류·시리즈는 변경하지 않는다. 다른 상품의 신규 등록 절차는 기존 방법을 따른다.
+파일럿 당시 `audio-050`만 마스터의 `access:"entitlement"`를 사용했다. 현재는 80종 전체가 같은 access/chapters 구조를 사용한다. 050의 기존 분류·시리즈와 모든 URL은 그대로다.
 
-보호 상품의 전체 원문을 `dist/`, root `guides/`, JSON, migration, 테스트 fixture나 Git에 넣지 않는다. `npm run build`가 잠금 화면을 생성한다. 현재 파일럿 외의 상품을 entitlement로 바꾸면 빌드가 실패한다. 원문 업데이트는 관리자가 private DB 자산과 SHA-256/바이트 수를 함께 갱신하고, 목차가 바뀔 때만 마스터와 root 잠금 사본을 함께 재생성한다. 상세 절차와 grant/확장 경계는 [ENTITLEMENT_IMPLEMENTATION.md](ENTITLEMENT_IMPLEMENTATION.md)를 따른다.
+보호 상품의 전체 원문을 `dist/`, root `guides/`, JSON, migration, 테스트 fixture나 Git에 넣지 않는다. `npm run build`가 잠금 화면을 생성한다. 기존 80개 access를 public으로 바꾸면 빌드가 실패한다. 원문 업데이트는 관리자가 private DB 자산과 SHA-256/바이트 수를 함께 갱신하고, 목차가 바뀔 때만 마스터와 root 잠금 사본을 함께 재생성한다. 신규 081 이후에는 앞선 공개 HTML 복사 절차 대신 [ALL_GUIDES_PROTECTION.md](ALL_GUIDES_PROTECTION.md)의 **빌드와 유지관리** 절차를 따른다. 공통 API가 마스터를 읽으므로 별도 상품 코드를 만들지 않는다.

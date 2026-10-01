@@ -1,4 +1,8 @@
-# U47 Entitlement 파일럿 — 2026-10-01
+# Entitlement 구현 기록
+
+**현재 상태: 80종 전체 보호로 확장했다.** 현재 구현·DB·검증·등록 절차는 [ALL_GUIDES_PROTECTION.md](ALL_GUIDES_PROTECTION.md), 과거 공개 이력 정리는 [PUBLIC_CONTENT_HISTORY_CLEANUP.md](PUBLIC_CONTENT_HISTORY_CLEANUP.md)를 따른다. 아래는 확장 전 U47 파일럿의 당시 기록이며 현재 나머지 79종이 공개라는 뜻이 아니다.
+
+## U47 Entitlement 파일럿 기록 — 2026-10-01
 
 보호 대상은 `audio-050` 한 종이다. Auth 기준 commit은 `878c848f51e21da27db75d0ddace82b17e8d3fd4`이며 `src/auth.js`와 로그인 흐름은 변경하지 않는다. 050은 Microphone 분류 / Classic Studio Gear 시리즈를 유지한다. 나머지 79개 가이드는 공개 상태다.
 

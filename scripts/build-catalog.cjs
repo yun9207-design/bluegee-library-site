@@ -3,7 +3,7 @@ const fs = require('node:fs');
 const path = require('node:path');
 const { ROOT, loadMaster, renderOutputs } = require('./catalog-data.cjs');
 try {
-  // Validate before writing. Only U47 is intentionally replaced with a public lock shell.
+  // Validate before writing. Protected guides contain public lock shells only.
   const outputs = renderOutputs(loadMaster());
   const check = process.argv.includes('--check');
   for (const [name, content] of outputs) {
@@ -16,7 +16,7 @@ try {
       fs.writeFileSync(target, content, 'utf8');
     }
   }
-  console.log(`${check ? 'Verified' : 'Built'} ${outputs.size} generated files; only the audio-050 pilot uses a lock shell.`);
+  console.log(`${check ? 'Verified' : 'Built'} ${outputs.size} generated files; protected guides use metadata-only lock shells.`);
 } catch (error) {
   console.error(error instanceof Error ? error.message : error);
   process.exitCode = 1;

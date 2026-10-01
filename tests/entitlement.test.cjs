@@ -127,20 +127,20 @@ test('Authorization/data failures, revocation races and corruption fail closed',
   }
 });
 
-test('No other product, URL token, or write method can bypass the pilot route', async () => {
+test('Unknown products, URL tokens, or write methods cannot bypass the common route', async () => {
   const f = await fixture();
   try {
-    for (const [url, method, expected] of [['?id=audio-001','GET',404], ['?id=../audio-050','GET',404], ['?id=audio-050&access_token=x','GET',400], ['?id=audio-050','POST',405]]) {
+    for (const [url, method, expected] of [['?id=audio-999','GET',404], ['?id=../audio-050','GET',404], ['?id=audio-050&access_token=x','GET',400], ['?id=audio-050','POST',405]]) {
       assert.equal((await fetch(f.base + '/api/guide' + url, { method: String(method), headers: { Authorization: 'Bearer ' + jwt } })).status, Number(expected));
     }
     assert.deepEqual(f.paths, []);
   } finally { await f.close(); }
 });
 
-test('Public U47 URLs contain only the lock shell; all 80 entries and 2,087 TOCs remain', () => {
+test('All public guide URLs contain only lock shells; all 80 entries and 2,087 TOCs remain', () => {
   const data = loadMaster();
   assert.equal(data.products.length, 80);
-  assert.deepEqual(data.products.filter(p => p.access === 'entitlement').map(p => p.id), ['audio-050']);
+  assert.equal(data.products.filter(p => p.access === 'entitlement').length, 80);
   assert.equal(data.products.reduce((n,p) => n + p.chapters.length, 0), 2087);
   const u47 = data.products.find(p => p.id === 'audio-050'); assert.ok(u47?.htmlPath);
   const shell = renderProtectedShell(u47);
@@ -150,4 +150,8 @@ test('Public U47 URLs contain only the lock shell; all 80 entries and 2,087 TOCs
   assert.ok(!shell.includes('class="audio-guide-chapter') && shell.length < 20000);
   assert.equal(u47.chapters.length, 27);
   assert.equal(u47.category, 'microphone'); assert.equal(u47.series, 'classic-studio-gear');
+  for (const product of data.products) {
+    assert.ok(product.htmlPath);
+    for (const prefix of ['', 'dist/']) { assert.equal(fs.readFileSync(path.join(ROOT, prefix + product.htmlPath), 'utf8'), renderProtectedShell(product)); }
+  }
 });
