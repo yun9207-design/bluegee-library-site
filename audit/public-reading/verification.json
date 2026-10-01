@@ -15,5 +15,15 @@
   "buildCheck": { "passed": true, "generatedFiles": 94 },
   "realAccountLoginRequests": 0,
   "fullBodiesReintroducedToGitOrStatic": 0,
-  "productionVerification": "post-deploy receipt is kept outside Git in _maintenance/2026-10-02-public-reading"
+  "productionVerification": {
+    "passed": true,
+    "url": "https://bluegee-library-site.vercel.app/",
+    "anonymousFullGuides": 80,
+    "originalHashesMatched": 80,
+    "existingGuideUrls200": 80,
+    "publicHeadStatus": 200,
+    "unknownProductStatus": 404,
+    "realAccountLoginRequests": 0,
+    "receipt": "_maintenance/2026-10-02-public-reading/production-verification.json (outside Git)"
+  }
 }

@@ -28,6 +28,7 @@ test('80 protected public shells preserve original URLs, descriptions, 2,087 TOC
     for (const prefix of ['','dist/']) { assert.equal(fs.readFileSync(path.join(ROOT,prefix+p.htmlPath),'utf8').replace(/\r\n/gu,'\n'),shell); }
     assert.ok(!shell.includes('class="audio-guide-chapter') && !shell.includes('html_gzip_base64'));
     assert.ok(shell.includes(p.id));
+    assert.ok(!shell.includes('{{productId}}'));
   }
   const u47=data.products.find(p=>p.id==='audio-050');
   assert.equal(u47?.category,'microphone');

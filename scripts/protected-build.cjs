@@ -14,7 +14,7 @@ function renderProtectedShell(product) {
   return fs.readFileSync(path.join(ROOT, 'src/protected-guide.template.html'), 'utf8')
     .replaceAll('{{title}}', escapeHTML(product.title))
     .replace('{{number}}', product.number)
-    .replace('{{productId}}', product.id)
+    .replaceAll('{{productId}}', product.id)
     .replace('{{chapterCount}}', String(product.chapters.length))
     .replace('{{chapterAnchors}}', product.chapters.map(ch => `<li id="${escapeHTML(ch.id)}">${escapeHTML(ch.title)}</li>`).join('\n'))
     .replace('{{guideConfig}}', JSON.stringify(metadata).replace(/</gu, '\\u003c'));

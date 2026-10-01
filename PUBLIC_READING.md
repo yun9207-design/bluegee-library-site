@@ -29,4 +29,6 @@ where product_id ~ '^audio-(00[1-9]|0[1-7][0-9]|080)$';
 
 로컬 API/카탈로그/보호 모드 자동검사 **22/22**, 기존 보호 모드 browser 대표 001/051/080, lint/typecheck/build/94개 build check를 통과했다. 실제 anon DB 역할로 공개 행 **80개**, 쓰기 권한 없음, 공개 flag를 끈 rollback 검사에서는 **0개**를 확인했다.
 
+Production 익명 검사에서 전체 **80/80 API 200**, 원문 SHA-256 **80/80 일치**, 기존 가이드 URL **80/80 200**, 2,087개 목차 보존을 확인했다. 실제 계정 로그인 요청은 0회다. 운영 browser에서 로그인 없이 Pultec 전체 본문과 목차가 표시됐다. reader의 소개로 돌아가기 URL도 실제 product ID로 생성하도록 기존 placeholder 처리를 수정했다.
+
 공개 API 80종의 익명 열람·원문 SHA-256·기존 URL, 대표 browser의 원문·목차·모바일을 확인한다. 공개 flag=false의 거부, HEAD, 잘못된 상품, 무결성 오류와 기존 private entitlement 검사를 함께 확인한다. 실계정 로그인 반복 검증은 하지 않는다. 수행 숫자는 `audit/public-reading/verification.json`에 기록한다.
