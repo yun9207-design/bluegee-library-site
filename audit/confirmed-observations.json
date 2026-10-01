@@ -1,0 +1,99 @@
+{
+  "checkedAt": "2026-10-01T04:28:29.438Z",
+  "external": [
+    {
+      "url": "https://apiaudio.com/product.php?id=106",
+      "status": 404,
+      "finalUrl": "https://apiaudio.com/product.php?id=106",
+      "title": "Page not found - API: Automated Processes, Inc.",
+      "method": "GET"
+    },
+    {
+      "url": "https://apiaudio.com/product/2520-op-amp/",
+      "status": 404,
+      "finalUrl": "https://apiaudio.com/product/2520-op-amp/",
+      "title": "Page not found - API: Automated Processes, Inc.",
+      "method": "GET"
+    },
+    {
+      "url": "https://chandlerlimited.com/documentation/",
+      "status": 404,
+      "finalUrl": "https://chandlerlimited.com/documentation/",
+      "title": "Page not found &#8211; Chandler Limited",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.uaudio.com/products/teletronix-la-2a-classic-leveling-amplifier",
+      "status": 200,
+      "finalUrl": "https://www.uaudio.com/products/teletronix-la-2a-classic-leveling-amplifier",
+      "title": "\n  Teletronix LA-2A Classic Leveling Amplifier &ndash; Universal Audio\n",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.softube.com/user-manuals/fet-compressor-mk-ii",
+      "status": 200,
+      "finalUrl": "https://www.softube.com/user-manuals/fet-compressor-mk-ii",
+      "title": "FET Compressor Mk II - Softube",
+      "method": "GET"
+    },
+    {
+      "url": "https://www.soundonsound.com/reviews/manley-variable-mu",
+      "status": 410,
+      "finalUrl": "https://www.soundonsound.com/reviews/manley-variable-mu",
+      "title": "Sound On Sound - Page or URL not found",
+      "method": "GET"
+    }
+  ],
+  "drawer": {
+    "activeId": "audio-guide-search",
+    "open": false,
+    "inputParent": "audio-guide-header",
+    "tocRect": {
+      "x": -300,
+      "y": 110,
+      "width": 300,
+      "height": 734,
+      "top": 110,
+      "right": 0,
+      "bottom": 844,
+      "left": -300
+    },
+    "inputRect": {
+      "x": 14,
+      "y": 59.25,
+      "width": 362,
+      "height": 39.5,
+      "top": 59.25,
+      "right": 376,
+      "bottom": 98.75,
+      "left": 14
+    },
+    "tocStyle": {
+      "display": "flex",
+      "transform": "matrix(1, 0, 0, 1, -300, 0)",
+      "visibility": "visible"
+    },
+    "inputStyle": {
+      "display": "inline-block",
+      "visibility": "visible",
+      "position": "static"
+    },
+    "inputInToc": false
+  },
+  "chapterFocus": {
+    "activeClass": "audio-guide-link",
+    "activeRect": {
+      "x": -286,
+      "y": 380.4375,
+      "width": 271,
+      "height": 65.375,
+      "top": 380.4375,
+      "right": -15,
+      "bottom": 445.8125,
+      "left": -286
+    },
+    "open": false,
+    "tocAriaHidden": null,
+    "tocInert": false
+  }
+}

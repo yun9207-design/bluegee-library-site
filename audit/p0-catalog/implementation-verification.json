@@ -1,0 +1,48 @@
+{
+  "checkedAt": "2026-10-01",
+  "master": "content/products.json",
+  "products": 80,
+  "categories": {
+    "outboard": 49,
+    "microphone": 21,
+    "deep-dive": 10
+  },
+  "series": {
+    "classic-studio-gear": 50,
+    "engineer-deep-dive": 10,
+    "microphone-master-library": 20
+  },
+  "allRequiredFieldsPresent": true,
+  "missingDates": true,
+  "pdfAndCoverUnknown": true,
+  "oldGuideFilesUnchanged": 80,
+  "unchangedStylesAndReader": true,
+  "changedExistingDistFiles": [
+    "app.js",
+    "catalog.js",
+    "index.html"
+  ],
+  "addedDistFiles": [
+    "catalog-core.js",
+    "products.json"
+  ],
+  "removedDistFiles": [],
+  "temporary081Absent": true,
+  "fixture081BrowserResult": {
+    "number": "081",
+    "total": 81,
+    "outboard": 50,
+    "searchResults": 1,
+    "detailLookup": true,
+    "readLink": true,
+    "isolatedFixture": true
+  },
+  "temporaryFixtureRemoved": true,
+  "lint": "passed ESLint",
+  "typecheck": "passed TypeScript noEmit strict checkJs",
+  "build": "passed with generated-output consistency check",
+  "unitTests": "7 passed",
+  "browserTests": "80 guides /2087 chapters /11search queries /4home widths passed",
+  "pushed": false,
+  "deployed": false
+}

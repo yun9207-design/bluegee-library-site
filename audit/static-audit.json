@@ -1,0 +1,132 @@
+{
+  "auditDate": "2026-10-01",
+  "scope": "read-only deployed static audio catalogue; audit artifacts are not runtime data",
+  "registeredGuides": 80,
+  "guideFiles": 80,
+  "distFiles": 86,
+  "distBytes": 16240406,
+  "chapterCount": 2087,
+  "seriesCounts": {
+    "classic-studio-gear": 50,
+    "engineer-deep-dive": 10,
+    "microphone-master-library": 20
+  },
+  "equipmentCategoryCounts": {
+    "outboard": 49,
+    "microphone": 21,
+    "deep-dive": 10
+  },
+  "equipmentTypeCounts": {
+    "EQ": 12,
+    "Compressor": 23,
+    "Preamp / EQ": 4,
+    "Reverb": 3,
+    "Delay": 1,
+    "Tape": 2,
+    "Channel Strip": 4,
+    "Preamp": 3,
+    "Transient": 1,
+    "Harmonizer": 2,
+    "DI": 1,
+    "Saturation": 2,
+    "Preamp / Channel Strip": 1,
+    "Tube Condenser": 6,
+    "FET Condenser": 3,
+    "Dynamic": 5,
+    "Ribbon": 5,
+    "SDC": 2
+  },
+  "missingNumbers": [],
+  "duplicateCatalogueNumbers": [],
+  "duplicateCatalogueUrls": [],
+  "identicalDistFiles": [],
+  "localLinkReferences": 11129,
+  "brokenLocalReferences": [
+    {
+      "source": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "tag": "a",
+      "attribute": "href",
+      "value": "#tab-bluegee",
+      "target": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "fileExists": true,
+      "fragmentExists": false
+    },
+    {
+      "source": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "tag": "a",
+      "attribute": "href",
+      "value": "#tab-bluegee",
+      "target": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "fileExists": true,
+      "fragmentExists": false
+    },
+    {
+      "source": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "tag": "a",
+      "attribute": "href",
+      "value": "#tab-bluegee",
+      "target": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "fileExists": true,
+      "fragmentExists": false
+    }
+  ],
+  "uniqueExternalUrls": 560,
+  "externalUrlsExhaustivelyNetworkChecked": false,
+  "guideMetaDescriptionCount": 80,
+  "guideCanonicalCount": 0,
+  "guideOpenGraphCount": 0,
+  "guideJsonLdCount": 0,
+  "guideMultipleH1Count": 72,
+  "homepageGuideAnchorsInRawHtml": 0,
+  "largestGuides": [
+    {
+      "number": "050",
+      "bytes": 342139
+    },
+    {
+      "number": "009",
+      "bytes": 289593
+    },
+    {
+      "number": "033",
+      "bytes": 275416
+    },
+    {
+      "number": "002",
+      "bytes": 274028
+    },
+    {
+      "number": "052",
+      "bytes": 269702
+    },
+    {
+      "number": "037",
+      "bytes": 262856
+    },
+    {
+      "number": "070",
+      "bytes": 261542
+    },
+    {
+      "number": "029",
+      "bytes": 259202
+    },
+    {
+      "number": "022",
+      "bytes": 256366
+    },
+    {
+      "number": "021",
+      "bytes": 251686
+    }
+  ],
+  "catalogBytes": 156198,
+  "guideCorruptMetaDescriptionNumbers": [],
+  "uniqueExternalAnchorUrls": 556,
+  "resourceHintUrls": [
+    "https://fonts.googleapis.com",
+    "https://fonts.gstatic.com"
+  ],
+  "externalHeadAttemptedCount": 560,
+  "externalAuditCoverage": "HEAD attempted for all560 URLs;556 are outbound anchors;6GET confirmations;status is not content/fact validation"
+}

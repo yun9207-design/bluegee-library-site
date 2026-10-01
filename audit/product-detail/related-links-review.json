@@ -1,0 +1,244 @@
+{
+  "basis": "Explicit same model, revision or named equipment family, reviewed from existing guide titles. No personalized or scored recommendations.",
+  "groups": [
+    [
+      "001",
+      "055"
+    ],
+    [
+      "002",
+      "052"
+    ],
+    [
+      "003",
+      "039",
+      "051"
+    ],
+    [
+      "004",
+      "059"
+    ],
+    [
+      "008",
+      "032",
+      "033",
+      "053"
+    ],
+    [
+      "009",
+      "035",
+      "056"
+    ],
+    [
+      "010",
+      "019",
+      "054"
+    ],
+    [
+      "017",
+      "058"
+    ],
+    [
+      "021",
+      "057"
+    ],
+    [
+      "050",
+      "068"
+    ]
+  ],
+  "changes": [
+    {
+      "id": "audio-001",
+      "title": "Pultec EQP-1A",
+      "relatedIds": [
+        "audio-055"
+      ]
+    },
+    {
+      "id": "audio-055",
+      "title": "Pultec Family Deep Dive",
+      "relatedIds": [
+        "audio-001"
+      ]
+    },
+    {
+      "id": "audio-002",
+      "title": "Teletronix LA-2A",
+      "relatedIds": [
+        "audio-052"
+      ]
+    },
+    {
+      "id": "audio-052",
+      "title": "LA-2A Revision War",
+      "relatedIds": [
+        "audio-002"
+      ]
+    },
+    {
+      "id": "audio-003",
+      "title": "1176 FET Limiter",
+      "relatedIds": [
+        "audio-039",
+        "audio-051"
+      ]
+    },
+    {
+      "id": "audio-039",
+      "title": "1176 Revision Guide",
+      "relatedIds": [
+        "audio-003",
+        "audio-051"
+      ]
+    },
+    {
+      "id": "audio-051",
+      "title": "1176 Revision War",
+      "relatedIds": [
+        "audio-003",
+        "audio-039"
+      ]
+    },
+    {
+      "id": "audio-004",
+      "title": "Fairchild 660 / 670",
+      "relatedIds": [
+        "audio-059"
+      ]
+    },
+    {
+      "id": "audio-059",
+      "title": "Fairchild 660 / 670 War",
+      "relatedIds": [
+        "audio-004"
+      ]
+    },
+    {
+      "id": "audio-008",
+      "title": "Neve 1073 / 1084",
+      "relatedIds": [
+        "audio-032",
+        "audio-033",
+        "audio-053"
+      ]
+    },
+    {
+      "id": "audio-032",
+      "title": "Neve 1084",
+      "relatedIds": [
+        "audio-008",
+        "audio-033",
+        "audio-053"
+      ]
+    },
+    {
+      "id": "audio-033",
+      "title": "Neve 1081",
+      "relatedIds": [
+        "audio-008",
+        "audio-032",
+        "audio-053"
+      ]
+    },
+    {
+      "id": "audio-053",
+      "title": "Neve Family War",
+      "relatedIds": [
+        "audio-008",
+        "audio-032",
+        "audio-033"
+      ]
+    },
+    {
+      "id": "audio-009",
+      "title": "API 550A / 550B / 5500",
+      "relatedIds": [
+        "audio-035",
+        "audio-056"
+      ]
+    },
+    {
+      "id": "audio-035",
+      "title": "API 560",
+      "relatedIds": [
+        "audio-009",
+        "audio-056"
+      ]
+    },
+    {
+      "id": "audio-056",
+      "title": "API EQ War",
+      "relatedIds": [
+        "audio-009",
+        "audio-035"
+      ]
+    },
+    {
+      "id": "audio-010",
+      "title": "SSL 4000 E / G EQ",
+      "relatedIds": [
+        "audio-019",
+        "audio-054"
+      ]
+    },
+    {
+      "id": "audio-019",
+      "title": "SSL E-Series Channel Strip",
+      "relatedIds": [
+        "audio-010",
+        "audio-054"
+      ]
+    },
+    {
+      "id": "audio-054",
+      "title": "SSL EQ War",
+      "relatedIds": [
+        "audio-010",
+        "audio-019"
+      ]
+    },
+    {
+      "id": "audio-017",
+      "title": "Manley Variable Mu",
+      "relatedIds": [
+        "audio-058"
+      ]
+    },
+    {
+      "id": "audio-058",
+      "title": "Manley Variable Mu Deep Dive",
+      "relatedIds": [
+        "audio-017"
+      ]
+    },
+    {
+      "id": "audio-021",
+      "title": "Empirical Labs Distressor EL8 / EL8-X",
+      "relatedIds": [
+        "audio-057"
+      ]
+    },
+    {
+      "id": "audio-057",
+      "title": "Distressor Deep Dive",
+      "relatedIds": [
+        "audio-021"
+      ]
+    },
+    {
+      "id": "audio-050",
+      "title": "Neumann U 47",
+      "relatedIds": [
+        "audio-068"
+      ]
+    },
+    {
+      "id": "audio-068",
+      "title": "Neumann U 47 fet",
+      "relatedIds": [
+        "audio-050"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,726 @@
+[
+  {
+    "id": "audio-001",
+    "brand": "Pultec",
+    "matchedInBody": [
+      "Pultec"
+    ],
+    "title": "Pultec EQP-1A",
+    "source": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  },
+  {
+    "id": "audio-002",
+    "brand": "Teletronix",
+    "matchedInBody": [
+      "Teletronix"
+    ],
+    "title": "Teletronix LA-2A",
+    "source": "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html"
+  },
+  {
+    "id": "audio-003",
+    "brand": "UREI / Universal Audio",
+    "matchedInBody": [
+      "UREI",
+      "Universal Audio"
+    ],
+    "title": "1176 FET Limiter",
+    "source": "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  },
+  {
+    "id": "audio-004",
+    "brand": "Fairchild",
+    "matchedInBody": [
+      "Fairchild"
+    ],
+    "title": "Fairchild 660 / 670",
+    "source": "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  },
+  {
+    "id": "audio-005",
+    "brand": "SSL",
+    "matchedInBody": [
+      "SSL"
+    ],
+    "title": "SSL Bus Compressor",
+    "source": "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  },
+  {
+    "id": "audio-006",
+    "brand": "dbx",
+    "matchedInBody": [
+      "dbx"
+    ],
+    "title": "dbx 160",
+    "source": "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-007",
+    "brand": "API",
+    "matchedInBody": [
+      "API"
+    ],
+    "title": "API 2500 / 2500+",
+    "source": "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-008",
+    "brand": "Neve",
+    "matchedInBody": [
+      "Neve"
+    ],
+    "title": "Neve 1073 / 1084",
+    "source": "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-009",
+    "brand": "API",
+    "matchedInBody": [
+      "API"
+    ],
+    "title": "API 550A / 550B / 5500",
+    "source": "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-010",
+    "brand": "SSL",
+    "matchedInBody": [
+      "SSL"
+    ],
+    "title": "SSL 4000 E / G EQ",
+    "source": "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-011",
+    "brand": "EMT",
+    "matchedInBody": [
+      "EMT"
+    ],
+    "title": "EMT 140 Plate Reverb",
+    "source": "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-012",
+    "brand": "Lexicon",
+    "matchedInBody": [
+      "Lexicon"
+    ],
+    "title": "Lexicon 224",
+    "source": "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-013",
+    "brand": "Roland",
+    "matchedInBody": [
+      "Roland"
+    ],
+    "title": "Roland RE-201 Space Echo",
+    "source": "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-014",
+    "brand": "Studer",
+    "matchedInBody": [
+      "Studer"
+    ],
+    "title": "Studer A800",
+    "source": "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-015",
+    "brand": "Ampex",
+    "matchedInBody": [
+      "Ampex"
+    ],
+    "title": "Ampex ATR-102",
+    "source": "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-016",
+    "brand": "Neve",
+    "matchedInBody": [
+      "Neve"
+    ],
+    "title": "Neve 33609",
+    "source": "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-017",
+    "brand": "Manley",
+    "matchedInBody": [
+      "Manley"
+    ],
+    "title": "Manley Variable Mu",
+    "source": "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-018",
+    "brand": "Chandler Limited",
+    "matchedInBody": [
+      "Chandler Limited"
+    ],
+    "title": "Chandler TG1",
+    "source": "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-019",
+    "brand": "SSL",
+    "matchedInBody": [
+      "SSL"
+    ],
+    "title": "SSL E-Series Channel Strip",
+    "source": "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-020",
+    "brand": "API",
+    "matchedInBody": [
+      "API"
+    ],
+    "title": "API 512c / 312",
+    "source": "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-021",
+    "brand": "Empirical Labs",
+    "matchedInBody": [
+      "Empirical Labs"
+    ],
+    "title": "Empirical Labs Distressor EL8 / EL8-X",
+    "source": "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-022",
+    "brand": "Tube-Tech",
+    "matchedInBody": [
+      "Tube-Tech"
+    ],
+    "title": "Tube-Tech CL 1B",
+    "source": "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-023",
+    "brand": "Neve",
+    "matchedInBody": [
+      "Neve"
+    ],
+    "title": "Neve 2254 / 2264",
+    "source": "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-024",
+    "brand": "Shadow Hills",
+    "matchedInBody": [
+      "Shadow Hills"
+    ],
+    "title": "Shadow Hills Mastering Compressor",
+    "source": "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-025",
+    "brand": "SPL",
+    "matchedInBody": [
+      "SPL"
+    ],
+    "title": "SPL Transient Designer",
+    "source": "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-026",
+    "brand": "Eventide",
+    "matchedInBody": [
+      "Eventide"
+    ],
+    "title": "Eventide H3000",
+    "source": "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-027",
+    "brand": "Eventide",
+    "matchedInBody": [
+      "Eventide"
+    ],
+    "title": "Eventide H910 / H949",
+    "source": "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-028",
+    "brand": "AMS",
+    "matchedInBody": [
+      "AMS"
+    ],
+    "title": "AMS RMX16",
+    "source": "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-029",
+    "brand": "Teletronix / UREI",
+    "matchedInBody": [
+      "Teletronix",
+      "UREI"
+    ],
+    "title": "Teletronix / UREI LA-3A",
+    "source": "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-030",
+    "brand": "Avalon",
+    "matchedInBody": [
+      "Avalon"
+    ],
+    "title": "Avalon VT-737SP",
+    "source": "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-031",
+    "brand": "Manley",
+    "matchedInBody": [
+      "Manley"
+    ],
+    "title": "Manley Massive Passive",
+    "source": "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-032",
+    "brand": "Neve",
+    "matchedInBody": [
+      "Neve"
+    ],
+    "title": "Neve 1084",
+    "source": "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-033",
+    "brand": "Neve",
+    "matchedInBody": [
+      "Neve"
+    ],
+    "title": "Neve 1081",
+    "source": "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-034",
+    "brand": "API",
+    "matchedInBody": [
+      "API"
+    ],
+    "title": "API 3124 / 3124+ / 3124V",
+    "source": "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-035",
+    "brand": "API",
+    "matchedInBody": [
+      "API"
+    ],
+    "title": "API 560",
+    "source": "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-036",
+    "brand": "Chandler Limited",
+    "matchedInBody": [
+      "Chandler Limited"
+    ],
+    "title": "Chandler Curve Bender",
+    "source": "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-037",
+    "brand": "Universal Audio",
+    "matchedInBody": [
+      "Universal Audio"
+    ],
+    "title": "Universal Audio 610 / 2-610",
+    "source": "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-038",
+    "brand": "Universal Audio",
+    "matchedInBody": [
+      "Universal Audio"
+    ],
+    "title": "Universal Audio 6176",
+    "source": "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-039",
+    "brand": "UREI / Universal Audio",
+    "matchedInBody": [
+      "UREI",
+      "Universal Audio"
+    ],
+    "title": "1176 Revision Guide",
+    "source": "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-040",
+    "brand": "Avalon",
+    "matchedInBody": [
+      "Avalon"
+    ],
+    "title": "Avalon U5",
+    "source": "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-041",
+    "brand": "Manley",
+    "matchedInBody": [
+      "Manley"
+    ],
+    "title": "Manley VOXBOX",
+    "source": "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-042",
+    "brand": "Thermionic Culture",
+    "matchedInBody": [
+      "Thermionic Culture"
+    ],
+    "title": "Thermionic Culture Vulture",
+    "source": "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-043",
+    "brand": "Empirical Labs",
+    "matchedInBody": [
+      "Empirical Labs"
+    ],
+    "title": "Empirical Labs FATSO EL7 / EL7X",
+    "source": "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-044",
+    "brand": "Focusrite",
+    "matchedInBody": [
+      "Focusrite"
+    ],
+    "title": "Focusrite ISA 110 / ISA 430",
+    "source": "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-045",
+    "brand": "Drawmer",
+    "matchedInBody": [
+      "Drawmer"
+    ],
+    "title": "Drawmer 1960",
+    "source": "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-046",
+    "brand": "Trident",
+    "matchedInBody": [
+      "Trident"
+    ],
+    "title": "Trident A-Range",
+    "source": "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-047",
+    "brand": "Helios",
+    "matchedInBody": [
+      "Helios"
+    ],
+    "title": "Helios Type 69",
+    "source": "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-048",
+    "brand": "Summit Audio",
+    "matchedInBody": [
+      "Summit Audio"
+    ],
+    "title": "Summit Audio TLA-100A",
+    "source": "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-049",
+    "brand": "GML",
+    "matchedInBody": [
+      "GML"
+    ],
+    "title": "GML 8200",
+    "source": "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-050",
+    "brand": "Neumann",
+    "matchedInBody": [
+      "Neumann"
+    ],
+    "title": "Neumann U 47",
+    "source": "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-051",
+    "brand": "UREI / Universal Audio",
+    "matchedInBody": [
+      "UREI",
+      "Universal Audio"
+    ],
+    "title": "1176 Revision War",
+    "source": "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-052",
+    "brand": "Teletronix",
+    "matchedInBody": [
+      "Teletronix"
+    ],
+    "title": "LA-2A Revision War",
+    "source": "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-053",
+    "brand": "Neve",
+    "matchedInBody": [
+      "Neve"
+    ],
+    "title": "Neve Family War",
+    "source": "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-054",
+    "brand": "SSL",
+    "matchedInBody": [
+      "SSL"
+    ],
+    "title": "SSL EQ War",
+    "source": "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-055",
+    "brand": "Pultec",
+    "matchedInBody": [
+      "Pultec"
+    ],
+    "title": "Pultec Family Deep Dive",
+    "source": "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-056",
+    "brand": "API",
+    "matchedInBody": [
+      "API"
+    ],
+    "title": "API EQ War",
+    "source": "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-057",
+    "brand": "Empirical Labs",
+    "matchedInBody": [
+      "Empirical Labs"
+    ],
+    "title": "Distressor Deep Dive",
+    "source": "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-058",
+    "brand": "Manley",
+    "matchedInBody": [
+      "Manley"
+    ],
+    "title": "Manley Variable Mu Deep Dive",
+    "source": "guides/deep-dive/058_BLUEGEE_MANLEY_VARIABLE_MU_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-059",
+    "brand": "Fairchild",
+    "matchedInBody": [
+      "Fairchild"
+    ],
+    "title": "Fairchild 660 / 670 War",
+    "source": "guides/deep-dive/059_BLUEGEE_FAIRCHILD_660_670_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-060",
+    "brand": "EMI",
+    "matchedInBody": [
+      "EMI"
+    ],
+    "title": "Abbey Road RS124 Serial War",
+    "source": "guides/deep-dive/060_BLUEGEE_ABBEY_ROAD_RS124_SERIAL_WAR_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-061",
+    "brand": "Neumann",
+    "matchedInBody": [
+      "Neumann"
+    ],
+    "title": "Neumann U 67",
+    "source": "guides/microphone/061_BLUEGEE_NEUMANN_U67_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-062",
+    "brand": "Neumann",
+    "matchedInBody": [
+      "Neumann"
+    ],
+    "title": "Neumann U 87 / U 87 Ai",
+    "source": "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-063",
+    "brand": "Neumann",
+    "matchedInBody": [
+      "Neumann"
+    ],
+    "title": "Neumann M 49 / M 49 V",
+    "source": "guides/microphone/063_BLUEGEE_NEUMANN_M49_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-064",
+    "brand": "AKG",
+    "matchedInBody": [
+      "AKG"
+    ],
+    "title": "AKG C12 / C12 VR",
+    "source": "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-065",
+    "brand": "Telefunken",
+    "matchedInBody": [
+      "Telefunken"
+    ],
+    "title": "Telefunken ELA M 251 / 251E",
+    "source": "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-066",
+    "brand": "AKG",
+    "matchedInBody": [
+      "AKG"
+    ],
+    "title": "AKG C414 Family",
+    "source": "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-067",
+    "brand": "Sony",
+    "matchedInBody": [
+      "Sony"
+    ],
+    "title": "Sony C-800G",
+    "source": "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-068",
+    "brand": "Neumann",
+    "matchedInBody": [
+      "Neumann"
+    ],
+    "title": "Neumann U 47 fet",
+    "source": "guides/microphone/068_BLUEGEE_NEUMANN_U47_FET_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-069",
+    "brand": "Shure",
+    "matchedInBody": [
+      "Shure"
+    ],
+    "title": "Shure SM7 / SM7A / SM7B",
+    "source": "guides/microphone/069_BLUEGEE_SHURE_SM7_SM7B_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-070",
+    "brand": "Shure",
+    "matchedInBody": [
+      "Shure"
+    ],
+    "title": "Shure SM57",
+    "source": "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-071",
+    "brand": "Sennheiser",
+    "matchedInBody": [
+      "Sennheiser"
+    ],
+    "title": "Sennheiser MD 421",
+    "source": "guides/microphone/071_BLUEGEE_SENNHEISER_MD421_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-072",
+    "brand": "Sennheiser",
+    "matchedInBody": [
+      "Sennheiser"
+    ],
+    "title": "Sennheiser MD 441-U",
+    "source": "guides/microphone/072_BLUEGEE_SENNHEISER_MD441_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-073",
+    "brand": "Electro-Voice",
+    "matchedInBody": [
+      "Electro-Voice"
+    ],
+    "title": "Electro-Voice RE20",
+    "source": "guides/microphone/073_BLUEGEE_ELECTRO_VOICE_RE20_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-074",
+    "brand": "RCA",
+    "matchedInBody": [
+      "RCA"
+    ],
+    "title": "RCA 44-BX",
+    "source": "guides/microphone/074_BLUEGEE_RCA_44BX_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-075",
+    "brand": "RCA",
+    "matchedInBody": [
+      "RCA"
+    ],
+    "title": "RCA 77-DX",
+    "source": "guides/microphone/075_BLUEGEE_RCA_77DX_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-076",
+    "brand": "Coles",
+    "matchedInBody": [
+      "Coles"
+    ],
+    "title": "Coles 4038",
+    "source": "guides/microphone/076_BLUEGEE_COLES_4038_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-077",
+    "brand": "Royer",
+    "matchedInBody": [
+      "Royer"
+    ],
+    "title": "Royer R-121",
+    "source": "guides/microphone/077_BLUEGEE_ROYER_R121_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-078",
+    "brand": "Beyerdynamic",
+    "matchedInBody": [
+      "Beyerdynamic"
+    ],
+    "title": "Beyerdynamic M 160",
+    "source": "guides/microphone/078_BLUEGEE_BEYERDYNAMIC_M160_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-079",
+    "brand": "AKG",
+    "matchedInBody": [
+      "AKG"
+    ],
+    "title": "AKG C451 / CK1",
+    "source": "guides/microphone/079_BLUEGEE_AKG_C451_CK1_MASTER_GUIDE_v4.html"
+  },
+  {
+    "id": "audio-080",
+    "brand": "Neumann",
+    "matchedInBody": [
+      "Neumann"
+    ],
+    "title": "Neumann KM 84",
+    "source": "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html"
+  }
+]

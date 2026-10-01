@@ -1,0 +1,1406 @@
+{
+  "checkedAt": "2026-10-01T06:56:30.365Z",
+  "scope": "Product introduction + existing catalogue/reader regression; local only, no deployment",
+  "count": 80,
+  "categories": {
+    "outboard": 49,
+    "deep-dive": 10,
+    "microphone": 21
+  },
+  "search": [
+    {
+      "query": "LA-2A",
+      "count": 2
+    },
+    {
+      "query": "la2a",
+      "count": 2
+    },
+    {
+      "query": "LA 2A",
+      "count": 2
+    },
+    {
+      "query": "Neve",
+      "count": 6
+    },
+    {
+      "query": "Chandler Limited",
+      "count": 2
+    },
+    {
+      "query": "microphone",
+      "count": 21
+    },
+    {
+      "query": "Tube Condenser",
+      "count": 6
+    },
+    {
+      "query": "진공관",
+      "count": 6
+    },
+    {
+      "query": "니브 프리앰프",
+      "count": 4
+    },
+    {
+      "query": "Neumann 보컬 진공관",
+      "count": 3
+    },
+    {
+      "query": "존재하지않는상품xyz",
+      "count": 0
+    }
+  ],
+  "guides": [
+    {
+      "number": "001",
+      "chapters": 24,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "002",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "003",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "004",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "005",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "006",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "007",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "008",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "009",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "010",
+      "chapters": 28,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "011",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "012",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "013",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "014",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "015",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "016",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "017",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "018",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "019",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "020",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "021",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "022",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "023",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "024",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "025",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "026",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "027",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "028",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "029",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "030",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "031",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "032",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "033",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "034",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "035",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "036",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "037",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "038",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "039",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "040",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "041",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "042",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "043",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "044",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "045",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "046",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "047",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "048",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "049",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "050",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "051",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "052",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "053",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "054",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "055",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "056",
+      "chapters": 28,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "057",
+      "chapters": 28,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "058",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "059",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "060",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "061",
+      "chapters": 27,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "062",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "063",
+      "chapters": 25,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "064",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "065",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "066",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "067",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "068",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "069",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "070",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "071",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "072",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "073",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "074",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "075",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "076",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "077",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "078",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "079",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    },
+    {
+      "number": "080",
+      "chapters": 26,
+      "failedChapters": [],
+      "sidebars": 1,
+      "iframes": 0,
+      "jsErrors": []
+    }
+  ],
+  "details": [
+    {
+      "number": "001",
+      "chapters": 24,
+      "related": 1,
+      "previous": null,
+      "next": "002"
+    },
+    {
+      "number": "002",
+      "chapters": 25,
+      "related": 1,
+      "previous": "001",
+      "next": "003"
+    },
+    {
+      "number": "003",
+      "chapters": 25,
+      "related": 2,
+      "previous": "002",
+      "next": "004"
+    },
+    {
+      "number": "004",
+      "chapters": 26,
+      "related": 1,
+      "previous": "003",
+      "next": "005"
+    },
+    {
+      "number": "005",
+      "chapters": 25,
+      "related": 0,
+      "previous": "004",
+      "next": "006"
+    },
+    {
+      "number": "006",
+      "chapters": 25,
+      "related": 0,
+      "previous": "005",
+      "next": "007"
+    },
+    {
+      "number": "007",
+      "chapters": 25,
+      "related": 0,
+      "previous": "006",
+      "next": "008"
+    },
+    {
+      "number": "008",
+      "chapters": 25,
+      "related": 3,
+      "previous": "007",
+      "next": "009"
+    },
+    {
+      "number": "009",
+      "chapters": 25,
+      "related": 2,
+      "previous": "008",
+      "next": "010"
+    },
+    {
+      "number": "010",
+      "chapters": 28,
+      "related": 2,
+      "previous": "009",
+      "next": "011"
+    },
+    {
+      "number": "011",
+      "chapters": 26,
+      "related": 0,
+      "previous": "010",
+      "next": "012"
+    },
+    {
+      "number": "012",
+      "chapters": 27,
+      "related": 0,
+      "previous": "011",
+      "next": "013"
+    },
+    {
+      "number": "013",
+      "chapters": 26,
+      "related": 0,
+      "previous": "012",
+      "next": "014"
+    },
+    {
+      "number": "014",
+      "chapters": 26,
+      "related": 0,
+      "previous": "013",
+      "next": "015"
+    },
+    {
+      "number": "015",
+      "chapters": 26,
+      "related": 0,
+      "previous": "014",
+      "next": "016"
+    },
+    {
+      "number": "016",
+      "chapters": 26,
+      "related": 0,
+      "previous": "015",
+      "next": "017"
+    },
+    {
+      "number": "017",
+      "chapters": 26,
+      "related": 1,
+      "previous": "016",
+      "next": "018"
+    },
+    {
+      "number": "018",
+      "chapters": 26,
+      "related": 0,
+      "previous": "017",
+      "next": "019"
+    },
+    {
+      "number": "019",
+      "chapters": 26,
+      "related": 2,
+      "previous": "018",
+      "next": "020"
+    },
+    {
+      "number": "020",
+      "chapters": 26,
+      "related": 0,
+      "previous": "019",
+      "next": "021"
+    },
+    {
+      "number": "021",
+      "chapters": 25,
+      "related": 1,
+      "previous": "020",
+      "next": "022"
+    },
+    {
+      "number": "022",
+      "chapters": 25,
+      "related": 0,
+      "previous": "021",
+      "next": "023"
+    },
+    {
+      "number": "023",
+      "chapters": 25,
+      "related": 0,
+      "previous": "022",
+      "next": "024"
+    },
+    {
+      "number": "024",
+      "chapters": 26,
+      "related": 0,
+      "previous": "023",
+      "next": "025"
+    },
+    {
+      "number": "025",
+      "chapters": 25,
+      "related": 0,
+      "previous": "024",
+      "next": "026"
+    },
+    {
+      "number": "026",
+      "chapters": 26,
+      "related": 0,
+      "previous": "025",
+      "next": "027"
+    },
+    {
+      "number": "027",
+      "chapters": 26,
+      "related": 0,
+      "previous": "026",
+      "next": "028"
+    },
+    {
+      "number": "028",
+      "chapters": 26,
+      "related": 0,
+      "previous": "027",
+      "next": "029"
+    },
+    {
+      "number": "029",
+      "chapters": 26,
+      "related": 0,
+      "previous": "028",
+      "next": "030"
+    },
+    {
+      "number": "030",
+      "chapters": 27,
+      "related": 0,
+      "previous": "029",
+      "next": "031"
+    },
+    {
+      "number": "031",
+      "chapters": 27,
+      "related": 0,
+      "previous": "030",
+      "next": "032"
+    },
+    {
+      "number": "032",
+      "chapters": 26,
+      "related": 3,
+      "previous": "031",
+      "next": "033"
+    },
+    {
+      "number": "033",
+      "chapters": 26,
+      "related": 3,
+      "previous": "032",
+      "next": "034"
+    },
+    {
+      "number": "034",
+      "chapters": 26,
+      "related": 0,
+      "previous": "033",
+      "next": "035"
+    },
+    {
+      "number": "035",
+      "chapters": 26,
+      "related": 2,
+      "previous": "034",
+      "next": "036"
+    },
+    {
+      "number": "036",
+      "chapters": 26,
+      "related": 0,
+      "previous": "035",
+      "next": "037"
+    },
+    {
+      "number": "037",
+      "chapters": 27,
+      "related": 0,
+      "previous": "036",
+      "next": "038"
+    },
+    {
+      "number": "038",
+      "chapters": 26,
+      "related": 0,
+      "previous": "037",
+      "next": "039"
+    },
+    {
+      "number": "039",
+      "chapters": 26,
+      "related": 2,
+      "previous": "038",
+      "next": "040"
+    },
+    {
+      "number": "040",
+      "chapters": 27,
+      "related": 0,
+      "previous": "039",
+      "next": "041"
+    },
+    {
+      "number": "041",
+      "chapters": 27,
+      "related": 0,
+      "previous": "040",
+      "next": "042"
+    },
+    {
+      "number": "042",
+      "chapters": 27,
+      "related": 0,
+      "previous": "041",
+      "next": "043"
+    },
+    {
+      "number": "043",
+      "chapters": 26,
+      "related": 0,
+      "previous": "042",
+      "next": "044"
+    },
+    {
+      "number": "044",
+      "chapters": 26,
+      "related": 0,
+      "previous": "043",
+      "next": "045"
+    },
+    {
+      "number": "045",
+      "chapters": 26,
+      "related": 0,
+      "previous": "044",
+      "next": "046"
+    },
+    {
+      "number": "046",
+      "chapters": 26,
+      "related": 0,
+      "previous": "045",
+      "next": "047"
+    },
+    {
+      "number": "047",
+      "chapters": 26,
+      "related": 0,
+      "previous": "046",
+      "next": "048"
+    },
+    {
+      "number": "048",
+      "chapters": 26,
+      "related": 0,
+      "previous": "047",
+      "next": "049"
+    },
+    {
+      "number": "049",
+      "chapters": 27,
+      "related": 0,
+      "previous": "048",
+      "next": "050"
+    },
+    {
+      "number": "050",
+      "chapters": 27,
+      "related": 1,
+      "previous": "049",
+      "next": "051"
+    },
+    {
+      "number": "051",
+      "chapters": 27,
+      "related": 2,
+      "previous": "050",
+      "next": "052"
+    },
+    {
+      "number": "052",
+      "chapters": 27,
+      "related": 1,
+      "previous": "051",
+      "next": "053"
+    },
+    {
+      "number": "053",
+      "chapters": 27,
+      "related": 3,
+      "previous": "052",
+      "next": "054"
+    },
+    {
+      "number": "054",
+      "chapters": 27,
+      "related": 2,
+      "previous": "053",
+      "next": "055"
+    },
+    {
+      "number": "055",
+      "chapters": 27,
+      "related": 1,
+      "previous": "054",
+      "next": "056"
+    },
+    {
+      "number": "056",
+      "chapters": 28,
+      "related": 2,
+      "previous": "055",
+      "next": "057"
+    },
+    {
+      "number": "057",
+      "chapters": 28,
+      "related": 1,
+      "previous": "056",
+      "next": "058"
+    },
+    {
+      "number": "058",
+      "chapters": 26,
+      "related": 1,
+      "previous": "057",
+      "next": "059"
+    },
+    {
+      "number": "059",
+      "chapters": 26,
+      "related": 1,
+      "previous": "058",
+      "next": "060"
+    },
+    {
+      "number": "060",
+      "chapters": 26,
+      "related": 0,
+      "previous": "059",
+      "next": "061"
+    },
+    {
+      "number": "061",
+      "chapters": 27,
+      "related": 0,
+      "previous": "060",
+      "next": "062"
+    },
+    {
+      "number": "062",
+      "chapters": 26,
+      "related": 0,
+      "previous": "061",
+      "next": "063"
+    },
+    {
+      "number": "063",
+      "chapters": 25,
+      "related": 0,
+      "previous": "062",
+      "next": "064"
+    },
+    {
+      "number": "064",
+      "chapters": 26,
+      "related": 0,
+      "previous": "063",
+      "next": "065"
+    },
+    {
+      "number": "065",
+      "chapters": 26,
+      "related": 0,
+      "previous": "064",
+      "next": "066"
+    },
+    {
+      "number": "066",
+      "chapters": 26,
+      "related": 0,
+      "previous": "065",
+      "next": "067"
+    },
+    {
+      "number": "067",
+      "chapters": 26,
+      "related": 0,
+      "previous": "066",
+      "next": "068"
+    },
+    {
+      "number": "068",
+      "chapters": 26,
+      "related": 1,
+      "previous": "067",
+      "next": "069"
+    },
+    {
+      "number": "069",
+      "chapters": 26,
+      "related": 0,
+      "previous": "068",
+      "next": "070"
+    },
+    {
+      "number": "070",
+      "chapters": 26,
+      "related": 0,
+      "previous": "069",
+      "next": "071"
+    },
+    {
+      "number": "071",
+      "chapters": 26,
+      "related": 0,
+      "previous": "070",
+      "next": "072"
+    },
+    {
+      "number": "072",
+      "chapters": 26,
+      "related": 0,
+      "previous": "071",
+      "next": "073"
+    },
+    {
+      "number": "073",
+      "chapters": 26,
+      "related": 0,
+      "previous": "072",
+      "next": "074"
+    },
+    {
+      "number": "074",
+      "chapters": 26,
+      "related": 0,
+      "previous": "073",
+      "next": "075"
+    },
+    {
+      "number": "075",
+      "chapters": 26,
+      "related": 0,
+      "previous": "074",
+      "next": "076"
+    },
+    {
+      "number": "076",
+      "chapters": 26,
+      "related": 0,
+      "previous": "075",
+      "next": "077"
+    },
+    {
+      "number": "077",
+      "chapters": 26,
+      "related": 0,
+      "previous": "076",
+      "next": "078"
+    },
+    {
+      "number": "078",
+      "chapters": 26,
+      "related": 0,
+      "previous": "077",
+      "next": "079"
+    },
+    {
+      "number": "079",
+      "chapters": 26,
+      "related": 0,
+      "previous": "078",
+      "next": "080"
+    },
+    {
+      "number": "080",
+      "chapters": 26,
+      "related": 0,
+      "previous": "079",
+      "next": null
+    }
+  ],
+  "detailWidths": [
+    {
+      "number": "001",
+      "width": 320,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "001",
+      "width": 390,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "001",
+      "width": 768,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "001",
+      "width": 1440,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "050",
+      "width": 320,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "050",
+      "width": 390,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "050",
+      "width": 768,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "050",
+      "width": 1440,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "060",
+      "width": 320,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "060",
+      "width": 390,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "060",
+      "width": 768,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "060",
+      "width": 1440,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "061",
+      "width": 320,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "061",
+      "width": 390,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "061",
+      "width": 768,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "061",
+      "width": 1440,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "080",
+      "width": 320,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "080",
+      "width": 390,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "080",
+      "width": 768,
+      "collapsedAndExpanded": true
+    },
+    {
+      "number": "080",
+      "width": 1440,
+      "collapsedAndExpanded": true
+    }
+  ],
+  "homeWidths": [
+    {
+      "width": 320,
+      "documentWidth": 320
+    },
+    {
+      "width": 390,
+      "documentWidth": 390
+    },
+    {
+      "width": 768,
+      "documentWidth": 768
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440
+    }
+  ],
+  "fixture081": {
+    "number": "081",
+    "total": 81,
+    "outboard": 50,
+    "searchResults": 1,
+    "detailLookup": true,
+    "detailScreen": true,
+    "editorialFields": true,
+    "safelyRendered": true,
+    "missingMetadataHandled": true,
+    "navigation": true,
+    "readLink": true,
+    "isolatedFixture": true
+  },
+  "listDetailNavigation": {
+    "searchContextRestored": true,
+    "previousNext": true,
+    "originalRead": true
+  },
+  "invalidIdHandled": true,
+  "tocReadLink": true,
+  "readerCompatibility": true,
+  "masterUnchangedAfterFixture": true,
+  "guideFilesUnchanged": true,
+  "passed": true,
+  "fixtureRemoved": true
+}

@@ -1,0 +1,4883 @@
+{
+  "checkedAt": "2026-10-01T04:22:50.308Z",
+  "base": "https://bluegee-library-site.vercel.app/",
+  "http": [
+    {
+      "path": "app.js",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "catalog.js",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/058_BLUEGEE_MANLEY_VARIABLE_MU_DEEP_DIVE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/059_BLUEGEE_FAIRCHILD_660_670_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/deep-dive/060_BLUEGEE_ABBEY_ROAD_RS124_SERIAL_WAR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/061_BLUEGEE_NEUMANN_U67_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/063_BLUEGEE_NEUMANN_M49_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/068_BLUEGEE_NEUMANN_U47_FET_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/069_BLUEGEE_SHURE_SM7_SM7B_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/071_BLUEGEE_SENNHEISER_MD421_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/072_BLUEGEE_SENNHEISER_MD441_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/073_BLUEGEE_ELECTRO_VOICE_RE20_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/074_BLUEGEE_RCA_44BX_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/075_BLUEGEE_RCA_77DX_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/076_BLUEGEE_COLES_4038_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/077_BLUEGEE_ROYER_R121_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/078_BLUEGEE_BEYERDYNAMIC_M160_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/079_BLUEGEE_AKG_C451_CK1_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "index.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "reader.html",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/html; charset=utf-8",
+        "content-encoding": null,
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "reader.js",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "application/javascript; charset=utf-8",
+        "content-encoding": null,
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "MISS",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    },
+    {
+      "path": "styles.css",
+      "status": 200,
+      "sameAsLocal": true,
+      "headers": {
+        "content-type": "text/css; charset=utf-8",
+        "content-encoding": "br",
+        "cache-control": "public, max-age=0, must-revalidate",
+        "x-vercel-cache": "HIT",
+        "server": "Vercel",
+        "x-robots-tag": null
+      }
+    }
+  ],
+  "missing": [
+    {
+      "path": "robots.txt",
+      "status": 404
+    },
+    {
+      "path": "sitemap.xml",
+      "status": 404
+    },
+    {
+      "path": "not-a-real-guide.html",
+      "status": 404
+    },
+    {
+      "path": ".openai/hosting.json",
+      "status": 404
+    }
+  ],
+  "search": [
+    {
+      "query": "",
+      "count": 80,
+      "ids": [
+        "001",
+        "002",
+        "003",
+        "004",
+        "005",
+        "006",
+        "007",
+        "008",
+        "009",
+        "010",
+        "011",
+        "012",
+        "013",
+        "014",
+        "015",
+        "016",
+        "017",
+        "018",
+        "019",
+        "020",
+        "021",
+        "022",
+        "023",
+        "024",
+        "025",
+        "026",
+        "027",
+        "028",
+        "029",
+        "030",
+        "031",
+        "032",
+        "033",
+        "034",
+        "035",
+        "036",
+        "037",
+        "038",
+        "039",
+        "040",
+        "041",
+        "042",
+        "043",
+        "044",
+        "045",
+        "046",
+        "047",
+        "048",
+        "049",
+        "050",
+        "051",
+        "052",
+        "053",
+        "054",
+        "055",
+        "056",
+        "057",
+        "058",
+        "059",
+        "060",
+        "061",
+        "062",
+        "063",
+        "064",
+        "065",
+        "066",
+        "067",
+        "068",
+        "069",
+        "070",
+        "071",
+        "072",
+        "073",
+        "074",
+        "075",
+        "076",
+        "077",
+        "078",
+        "079",
+        "080"
+      ]
+    },
+    {
+      "query": "LA-2A",
+      "count": 2,
+      "ids": [
+        "002",
+        "052"
+      ]
+    },
+    {
+      "query": "la2a",
+      "count": 2,
+      "ids": [
+        "002",
+        "052"
+      ]
+    },
+    {
+      "query": "Neve",
+      "count": 6,
+      "ids": [
+        "008",
+        "016",
+        "023",
+        "032",
+        "033",
+        "053"
+      ]
+    },
+    {
+      "query": "마이크",
+      "count": 21,
+      "ids": [
+        "050",
+        "061",
+        "062",
+        "063",
+        "064",
+        "065",
+        "066",
+        "067",
+        "068",
+        "069",
+        "070",
+        "071",
+        "072",
+        "073",
+        "074",
+        "075",
+        "076",
+        "077",
+        "078",
+        "079",
+        "080"
+      ]
+    },
+    {
+      "query": "보컬용 진공관 마이크",
+      "count": 0,
+      "ids": []
+    },
+    {
+      "query": "록드럼 컴프레서",
+      "count": 0,
+      "ids": []
+    },
+    {
+      "query": "Neve 계열 프리앰프",
+      "count": 0,
+      "ids": []
+    }
+  ],
+  "searchAfterReload": "",
+  "homeWidths": [
+    {
+      "width": 320,
+      "documentWidth": 320,
+      "overflow": false,
+      "guideCount": 80
+    },
+    {
+      "width": 390,
+      "documentWidth": 390,
+      "overflow": false,
+      "guideCount": 80
+    },
+    {
+      "width": 768,
+      "documentWidth": 768,
+      "overflow": false,
+      "guideCount": 80
+    },
+    {
+      "width": 1440,
+      "documentWidth": 1440,
+      "overflow": false,
+      "guideCount": 80
+    }
+  ],
+  "homeA11y": {
+    "skipLink": true,
+    "searchLabel": "가이드 검색",
+    "landmarks": {
+      "main": 1,
+      "nav": 2
+    },
+    "numberColor": "rgb(125, 137, 152)",
+    "numberFont": "13px",
+    "numberBackground": "rgba(0, 0, 0, 0)",
+    "mainNavCurrent": 1
+  },
+  "categoryCurrent": [
+    "라이브러리"
+  ],
+  "withoutJs": {
+    "homepageGuides": 0,
+    "homepageGuideLinks": 0
+  },
+  "docs": [
+    {
+      "id": "001",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "PULTEC EQP‑1A MASTER MANUAL"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "002",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "TELETRONIX LA‑2A MASTER REFERENCE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "003",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "1176 FET LIMITER MASTER GUIDE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "004",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "FAIRCHILD 660 / 670시간보다 신호의 이력, 너비보다 중심의 안정."
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "005",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SSL BUS COMPRESSOR MASTER GUIDE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "006",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "dbx 160 COMPRESSOR MASTER GUIDE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "007",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "API 2500 / 2500+ MASTER GUIDE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "008",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "NEVE 1073 PREAMP & EQ MASTER GUIDE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "009",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "API 550A & 550B EQ MASTER GUIDE"
+        ],
+        "mainLandmarks": 2,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "010",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SSL 4000 E / G EQ곡선의 이름보다, 바뀌는 조건을 확인하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "011",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "EMT 140 · Plate Reverb금속판의 밀도와, 보컬 앞뒤의 간격을 따로 듣다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "012",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Lexicon 224프로그램을 바꾸기 전에, 값의 의미부터 확인하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "013",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Roland RE-201 · Space Echo헤드 조합, 반복, 스프링을 따로 조절하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "014",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Studer A800 · Multichannel Tape테이프와 Cal Level의 차이를 듣다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "015",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Ampex ATR-102 · Master Tape색채와 레벨, 버전 차이를 구분하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "016",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neve 33609 · Compressor / Limiter모델을 확인하고, 두 제어를 따로 듣다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "017",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Manley Variable Mu · Studio Reference노브의 기능과 청취 판단을 분리하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "018",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Chandler TG1 · Limiter / Compressor비슷한 이름보다, 실제 모델과 반응을 확인하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "019",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SSL E-SERIES CHANNEL STRIPEQ·다이내믹스·라우팅을 분리해서 판단하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "020",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "API 512c / 312입력 경로와 레벨의 경계를 구분하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "021",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "DISTRESSOR EL8 / EL8-XRatio·검출기·배음을 따로 듣는 다이내믹스 실습"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "022",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "TUBE-TECH CL 1B타이밍 모드와 출력 레벨을 분리해서 읽다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "023",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "NEVE 2254 / 2264공통 이름보다 모델·검출 경로를 먼저 확인하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "024",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SHADOW HILLS두 단계의 감쇄와 출력 색채를 따로 비교하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "025",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SPL TRANSIENT DESIGNER어택의 크기와 잔향의 길이를 분리해 판단하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "026",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "EVENTIDE H3000모델·알고리즘·패치를 구분해 공간을 설계하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "027",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "EVENTIDE H910 / H949피치·지연·접합을 구분해 더블링을 설계하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "028",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "AMS RMX16프로그램 이름보다 실제 제어와 꼬리를 확인하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "029",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "TELETRONIX LA-3A같은 노브 이름, 다른 모델의 경계."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "030",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "AVALON VT-737SP순서·검출·게인을 구별하는 채널 스트립."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "031",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Manley Massive Passive병렬 밴드의 상호작용을, 정확한 버전과 함께 듣다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "032",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neve 1084 Preamp / EQ감도·필터·모델 차이를 먼저 맞추는 1084 실습."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "033",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neve 1081 Preamp / EQ네 밴드의 역할과, 실제 프리앰프·EQ 플러그인의 경계."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "034",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "API 3124 / 3124+ / 3124V네 채널을 안정적으로 녹음하고, Gain·LEVEL·Tap을 구분하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "035",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "API 560 Graphic EQ열 개의 페이더, 실제 곡선과 출력 레벨을 함께 읽다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "036",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Chandler Curve Bender밴드 이름과 리비전부터 정확하게 맞추다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "037",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Universal Audio 610 / 2-610입력·GAIN·LEVEL, 같은 노브처럼 다루지 않다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "038",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Universal Audio 6176BP·1:1·ALL과 JOIN/SPLIT을 정확히 나누다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "039",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "1176 Revision Master Guide패널 색보다 회로 계보, 같은 노브보다 같은 비교 조건."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "040",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Avalon U5 DI / Preamp출력 구조와 자료별 사양을 나누고, 직접 비교로 톤을 결정하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "041",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Manley VOXBOX같은 이름, 다른 입출력과 조작 범위."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "042",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Thermionic Culture VultureBias 전류, 출력관 구동, 모델별 모드를 분리하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "043",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Empirical Labs FATSO EL7 / EL7XWarmth의 숫자와 실제 감쇄를 구분하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "044",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Focusrite ISA 110 / ISA 430이름을 계승해도, 조작과 단자는 다릅니다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "045",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Drawmer 1960번호가 같은 Release, 시간이 다른 이유."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "046",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Trident A-Range선택 주파수부터 다시 맞추는 콘솔 EQ."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "047",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Helios Type 69같은 이름의 다른 조작을 구분하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "048",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Summit Audio TLA-100A노브의 목표와 실제 관찰값을 나누다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "049",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "GML 8200 Parametric EQ정밀한 EQ, 정확한 조작과 근거부터."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "050",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neumann U 47전설보다 먼저, 모델·거리·실제 기록."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "051",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "1176 Revision War외관의 이름보다 비교 조건을 먼저 맞추다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "052",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "LA-2A Revision War색상 대신 모델·신호 이력·관찰 조건을 비교하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "053",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neve Family — 1073 · 1084 · 1081 · 31102이름의 서열 대신 밴드·필터·입력 경로를 비교하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "054",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SSL EQ War — Brown · Orange · Black · PinkEQ 카드, 채널 스트립, 플러그인의 숫자를 섞지 않다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "055",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Pultec Family — EQP · MEQ · HLF노브 숫자가 아니라 실제 역할과 비교 조건으로 연결하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "056",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "API EQ Family — 550A · 550B · 560 · 5500모델을 고르고, 실제 선택값으로 비교하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "057",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Distressor Deep Dive — EL8 · EL8-X · EL8-XXX1:1의 예외, 두 가지 HP, 세 가지 링크를 구별하다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "058",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Manley Variable Mu Deep Dive리비전·진공관·LINK·M/S를 같은 사양처럼 섞지 않는다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "059",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Fairchild 660 / 670 War원형 하드웨어와 현대 플러그인의 추가 기능을 분리한다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "060",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Abbey Road RS124 Serial WarSerial 캐릭터·Studio/Cutter·플러그인 확장을 같은 사실 수준으로 묶지 않는다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "061",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "062",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neumann U 87 · U 87 Ai같은 이름의 계보, 다른 전원과 비교 조건."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "063",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Neumann M 49 · M 49 V원격 지향성보다 먼저, 전원과 서비스 설정."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "064",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "AKG C12 · C12 VR같은 C12 이름, 다른 사료와 조작 범위."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "065",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "TELEFUNKEN ELA M 251 / 251E같은 251 이름 아래, 다른 튜브와 증거."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "066",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "AKG C414 Family빈티지 계보와 현행 XLS·XLII의 공식 사양을 분리한다."
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "067",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SONY C-800GSTUDIO TUBE CONDENSER"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "068",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "NEUMANN U 47 fet"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "069",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SHURE SM7 / SM7A / SM7B / SM7dB"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "070",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SHURE SM57 MASTER GUIDE"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "071",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SENNHEISER MD 421"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "072",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 331,
+          "overflow": true,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "SENNHEISER MD 441-U"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "073",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "Electro-Voice RE20 Master Technical Guide"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "074",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "RCA 44-BX Velocity Ribbon Microphone"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "075",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "RCA 77-DX"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "076",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "COLES 4038"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "077",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "ROYER R-121"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "078",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "BEYERDYNAMIC M 160"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "079",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "AKG C451 / CK1 Master Guide"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    },
+    {
+      "id": "080",
+      "widths": [
+        {
+          "width": 320,
+          "documentWidth": 320,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 390,
+          "documentWidth": 390,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 768,
+          "documentWidth": 768,
+          "overflow": false,
+          "headerHeight": 110,
+          "toggleVisible": true
+        },
+        {
+          "width": 1440,
+          "documentWidth": 1440,
+          "overflow": false,
+          "headerHeight": 86,
+          "toggleVisible": false
+        }
+      ],
+      "semantics": {
+        "visibleH1": [
+          "NEUMANN KM 84"
+        ],
+        "mainLandmarks": 1,
+        "unlabelledInputs": [],
+        "images": 0,
+        "imagesWithoutAlt": 0
+      },
+      "errors": []
+    }
+  ],
+  "drawerOpen": {
+    "activeId": "audio-guide-toggle",
+    "open": true,
+    "expanded": "true"
+  },
+  "drawerClosed": {
+    "activeId": "audio-guide-search",
+    "open": false,
+    "expanded": "false",
+    "activeRectLeft": 14
+  },
+  "chapterKeyboard": {
+    "activeId": "",
+    "activeClass": "audio-guide-link",
+    "open": false,
+    "hash": "#tab-history"
+  },
+  "chapterHistory": {
+    "before": 2,
+    "after": 2
+  },
+  "guide002Overflow": [
+    {
+      "width": 320,
+      "failedChapters": []
+    },
+    {
+      "width": 390,
+      "failedChapters": []
+    },
+    {
+      "width": 768,
+      "failedChapters": []
+    }
+  ],
+  "readerRedirect": {
+    "url": "https://bluegee-library-site.vercel.app/guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html#tab-history",
+    "correct": true
+  },
+  "performance": [
+    {
+      "id": "home",
+      "profile": "one cold desktop Edge sample / viewport390 / RTT150ms / down1.6Mbps / CPU4x; not real-user CWV",
+      "fcp": 21608,
+      "lcp": 21608,
+      "domContentLoaded": 21629.099999997765,
+      "load": 21847.89999999851,
+      "transferSize": 2302,
+      "decodedBodySize": 4053,
+      "requests": 3
+    },
+    {
+      "id": "009",
+      "profile": "one cold desktop Edge sample / viewport390 / RTT150ms / down1.6Mbps / CPU4x; not real-user CWV",
+      "fcp": 21372,
+      "lcp": 22372,
+      "domContentLoaded": 23907.39999999851,
+      "load": 23925.39999999851,
+      "transferSize": 83478,
+      "decodedBodySize": 289593,
+      "requests": 0
+    },
+    {
+      "id": "051",
+      "profile": "one cold desktop Edge sample / viewport390 / RTT150ms / down1.6Mbps / CPU4x; not real-user CWV",
+      "fcp": 21940,
+      "lcp": 21940,
+      "domContentLoaded": 23682.900000002235,
+      "load": 23711.60000000149,
+      "transferSize": 68207,
+      "decodedBodySize": 249784,
+      "requests": 0
+    },
+    {
+      "id": "061",
+      "profile": "one cold desktop Edge sample / viewport390 / RTT150ms / down1.6Mbps / CPU4x; not real-user CWV",
+      "fcp": 21592,
+      "lcp": 21592,
+      "domContentLoaded": 21988.099999997765,
+      "load": 21996.89999999851,
+      "transferSize": 17769,
+      "decodedBodySize": 58497,
+      "requests": 0
+    },
+    {
+      "id": "073",
+      "profile": "one cold desktop Edge sample / viewport390 / RTT150ms / down1.6Mbps / CPU4x; not real-user CWV",
+      "fcp": 21932,
+      "lcp": 21932,
+      "domContentLoaded": 21958.39999999851,
+      "load": 21971.89999999851,
+      "transferSize": 41406,
+      "decodedBodySize": 171452,
+      "requests": 0
+    }
+  ],
+  "errors": []
+}

@@ -1,0 +1,27 @@
+{
+  "name": "bluegee-library-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Static audio guide catalogue generated from one product master.",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "lint": "eslint src scripts tests eslint.config.mjs",
+    "typecheck": "tsc --noEmit",
+    "type-check": "npm run typecheck",
+    "validate": "node scripts/validate-catalog.cjs",
+    "build": "node scripts/build-catalog.cjs",
+    "build:check": "node scripts/build-catalog.cjs --check",
+    "test": "node --test tests/catalog.test.cjs",
+    "test:browser": "node tests/e2e/catalog-browser.cjs",
+    "dev": "node scripts/serve.cjs"
+  },
+  "devDependencies": {
+    "@types/node": "24.19.0",
+    "ajv": "8.20.0",
+    "eslint": "10.11.0",
+    "playwright": "1.63.0",
+    "typescript": "7.0.2"
+  }
+}

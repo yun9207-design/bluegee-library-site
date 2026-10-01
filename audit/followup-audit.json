@@ -1,0 +1,530 @@
+{
+  "checkedAt": "2026-10-01T04:24:41.687Z",
+  "performance": [
+    {
+      "id": "home",
+      "profile": "unthrottled same-context navigation; lab sample only",
+      "fcp": null,
+      "ttfb": 20870.099999997765,
+      "fetchStart": 6.199999999254942,
+      "requestStart": 20866.29999999702,
+      "responseStart": 20870.099999997765,
+      "responseEnd": 20881,
+      "domContentLoaded": 20924.89999999851,
+      "load": 20997.099999997765,
+      "transferSize": 2302,
+      "encodedBodySize": 2002,
+      "decodedBodySize": 4053
+    },
+    {
+      "id": "009",
+      "profile": "unthrottled same-context navigation; lab sample only",
+      "fcp": null,
+      "ttfb": 7.699999999254942,
+      "fetchStart": 1.5,
+      "requestStart": 3.099999997764826,
+      "responseStart": 7.699999999254942,
+      "responseEnd": 13.899999998509884,
+      "domContentLoaded": 542.0999999977648,
+      "load": 544.2999999970198,
+      "transferSize": 83478,
+      "encodedBodySize": 83178,
+      "decodedBodySize": 289593
+    },
+    {
+      "id": "050",
+      "profile": "unthrottled same-context navigation; lab sample only",
+      "fcp": null,
+      "ttfb": 7.600000001490116,
+      "fetchStart": 1.4000000022351742,
+      "requestStart": 3.199999999254942,
+      "responseStart": 7.600000001490116,
+      "responseEnd": 17.600000001490116,
+      "domContentLoaded": 112.80000000074506,
+      "load": 115.30000000074506,
+      "transferSize": 84525,
+      "encodedBodySize": 84225,
+      "decodedBodySize": 342139
+    },
+    {
+      "id": "061",
+      "profile": "unthrottled same-context navigation; lab sample only",
+      "fcp": null,
+      "ttfb": 7.300000000745058,
+      "fetchStart": 1.5,
+      "requestStart": 2.399999998509884,
+      "responseStart": 7.300000000745058,
+      "responseEnd": 12.5,
+      "domContentLoaded": 76.69999999925494,
+      "load": 77.89999999850988,
+      "transferSize": 17769,
+      "encodedBodySize": 17469,
+      "decodedBodySize": 58497
+    },
+    {
+      "id": "073",
+      "profile": "unthrottled same-context navigation; lab sample only",
+      "fcp": null,
+      "ttfb": 6.799999997019768,
+      "fetchStart": 1.2999999970197678,
+      "requestStart": 2.2999999970197678,
+      "responseStart": 6.799999997019768,
+      "responseEnd": 12.5,
+      "domContentLoaded": 99.09999999776483,
+      "load": 100.09999999776483,
+      "transferSize": 41406,
+      "encodedBodySize": 41106,
+      "decodedBodySize": 171452
+    }
+  ],
+  "broken001Visible": [],
+  "overflow072": [
+    {
+      "index": 0,
+      "chapterId": "overview",
+      "documentWidth": 331,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "등급\n출처 성격\n검증 기준 및 신뢰도 설명\n\n\n\n\nGRADE A\nSennheiser 공식 문서/카탈로그\nSennheiser 공식 제품 페이지, 서비스 매뉴얼, Quick Guide",
+          "right": 331.34375,
+          "width": 296.34375
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "등급\n출처 성격\n검증 기준 및 신뢰도 설명",
+          "right": 330.84375,
+          "width": 295.34375
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "등급\n출처 성격\n검증 기준 및 신뢰도 설명",
+          "right": 330.84375,
+          "width": 295.34375
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "검증 기준 및 신뢰도 설명",
+          "right": 330.84375,
+          "width": 107.609375
+        },
+        {
+          "tag": "TBODY",
+          "class": "",
+          "text": "GRADE A\nSennheiser 공식 문서/카탈로그\nSennheiser 공식 제품 페이지, 서비스 매뉴얼, Quick Guide(2022), DrumMic 공식 가이드라인\n\n\nG",
+          "right": 330.84375,
+          "width": 295.34375
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "GRADE A\nSennheiser 공식 문서/카탈로그\nSennheiser 공식 제품 페이지, 서비스 매뉴얼, Quick Guide(2022), DrumMic 공식 가이드라인",
+          "right": 330.84375,
+          "width": 295.34375
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "chapterId": "history",
+      "documentWidth": 399,
+      "offenders": [
+        {
+          "tag": "DIV",
+          "class": "card",
+          "text": "계보 및 리비전 변천사 (Revisions Timeline)\n\n\n\n모델명\n생산 시기\n커넥터 및 주요 특징\n출처\n\n\n\n\nMD 441 (Original)\n1971 ~ 1970s\n3-p",
+          "right": 399.03125,
+          "width": 385.03125
+        },
+        {
+          "tag": "H3",
+          "class": "",
+          "text": "계보 및 리비전 변천사 (Revisions Timeline)",
+          "right": 378.03125,
+          "width": 343.03125
+        },
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "모델명\n생산 시기\n커넥터 및 주요 특징\n출처\n\n\n\n\nMD 441 (Original)\n1971 ~ 1970s\n3-pin DIN (Kleintuchel 또는 Großtuchel), 실",
+          "right": 378.03125,
+          "width": 343.03125
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "모델명\n생산 시기\n커넥터 및 주요 특징\n출처",
+          "right": 377.53125,
+          "width": 342.03125
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "모델명\n생산 시기\n커넥터 및 주요 특징\n출처",
+          "right": 377.53125,
+          "width": 342.03125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "커넥터 및 주요 특징",
+          "right": 323.5625,
+          "width": 125.53125
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "chapterId": "capsule",
+      "documentWidth": 380,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "측정 항목\nSennheiser 공식 규격값\n엔지니어링 세부 의미\n출처\n\n\n\n\n트랜스듀서 원리\nDynamic Moving Coil\n외부 전원(팬텀 파워) 불필요, 자가 노이즈(Sel",
+          "right": 379.828125,
+          "width": 344.828125
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "측정 항목\nSennheiser 공식 규격값\n엔지니어링 세부 의미\n출처",
+          "right": 379.328125,
+          "width": 343.828125
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "측정 항목\nSennheiser 공식 규격값\n엔지니어링 세부 의미\n출처",
+          "right": 379.328125,
+          "width": 343.828125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "엔지니어링 세부 의미",
+          "right": 325.359375,
+          "width": 96.765625
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "출처",
+          "right": 379.328125,
+          "width": 53.96875
+        },
+        {
+          "tag": "TBODY",
+          "class": "",
+          "text": "트랜스듀서 원리\nDynamic Moving Coil\n외부 전원(팬텀 파워) 불필요, 자가 노이즈(Self-noise)가 열잡음 수준으로 극히 낮음\nA\n\n\n주파수 응답 범위\n30 H",
+          "right": 379.328125,
+          "width": 343.828125
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "chapterId": "pattern",
+      "documentWidth": 343,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "적용 시나리오\n일반 카디오이드 (예: SM57, MD 421)\nMD 441-U 슈퍼카디오이드\n마이크 각도 셋업 룰\n\n\n\n\n스네어 탑 (Snare Top)\n하이햇이 90° 측면에 위",
+          "right": 342.71875,
+          "width": 307.71875
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "적용 시나리오\n일반 카디오이드 (예: SM57, MD 421)\nMD 441-U 슈퍼카디오이드\n마이크 각도 셋업 룰",
+          "right": 342.21875,
+          "width": 306.71875
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "적용 시나리오\n일반 카디오이드 (예: SM57, MD 421)\nMD 441-U 슈퍼카디오이드\n마이크 각도 셋업 룰",
+          "right": 342.21875,
+          "width": 306.71875
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "마이크 각도 셋업 룰",
+          "right": 342.21875,
+          "width": 66.171875
+        },
+        {
+          "tag": "TBODY",
+          "class": "",
+          "text": "스네어 탑 (Snare Top)\n하이햇이 90° 측면에 위치 시 -6dB 감쇄. 블리드 상당수 유입\n마이크를 살짝 비틀어 125° 널 각도를 하이햇에 조준\n하이햇 유입이 -25dB",
+          "right": 342.21875,
+          "width": 306.71875
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "스네어 탑 (Snare Top)\n하이햇이 90° 측면에 위치 시 -6dB 감쇄. 블리드 상당수 유입\n마이크를 살짝 비틀어 125° 널 각도를 하이햇에 조준\n하이햇 유입이 -25dB",
+          "right": 342.21875,
+          "width": 306.71875
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "chapterId": "response",
+      "documentWidth": 514,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "Bass Switch\nBrilliance\n100 Hz 응답\n1 kHz (기준)\n8 kHz~10 kHz 응답\n가장 추천하는 실전 소스 매칭\n\n\n\n\nM (Music)\n0 (Flat)\n",
+          "right": 513.828125,
+          "width": 478.828125
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "Bass Switch\nBrilliance\n100 Hz 응답\n1 kHz (기준)\n8 kHz~10 kHz 응답\n가장 추천하는 실전 소스 매칭",
+          "right": 513.328125,
+          "width": 477.828125
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "Bass Switch\nBrilliance\n100 Hz 응답\n1 kHz (기준)\n8 kHz~10 kHz 응답\n가장 추천하는 실전 소스 매칭",
+          "right": 513.328125,
+          "width": 477.828125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "1 kHz (기준)",
+          "right": 334.703125,
+          "width": 54.90625
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "8 kHz~10 kHz 응답",
+          "right": 414.15625,
+          "width": 79.453125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "가장 추천하는 실전 소스 매칭",
+          "right": 513.328125,
+          "width": 99.171875
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "chapterId": "brass",
+      "documentWidth": 353,
+      "offenders": [
+        {
+          "tag": "DIV",
+          "class": "card gold",
+          "text": "금관악기(Brass) 수음 시 절대적 우위\n트럼펫이나 트롬본의 벨(Bell) 바로 앞에서 뿜어져 나오는 음압은 순간 140 dB SPL을 훌쩍 넘어서며 엄청난 고조파 에너지를 가집",
+          "right": 353.078125,
+          "width": 339.078125
+        },
+        {
+          "tag": "H3",
+          "class": "",
+          "text": "금관악기(Brass) 수음 시 절대적 우위",
+          "right": 332.078125,
+          "width": 297.078125
+        },
+        {
+          "tag": "P",
+          "class": "",
+          "text": "트럼펫이나 트롬본의 벨(Bell) 바로 앞에서 뿜어져 나오는 음압은 순간 140 dB SPL을 훌쩍 넘어서며 엄청난 고조파 에너지를 가집니다. 콘덴서 마이크는 내부 헤드앰프나 다이",
+          "right": 332.078125,
+          "width": 297.078125
+        },
+        {
+          "tag": "P",
+          "class": "",
+          "text": "MD 441-U는 150 dB SPL 이상의 괴물 같은 음압을 무왜곡으로 처리하며, 금관 특유의 금속성 찌르는 소리를 음악적이고 두터운 브라스 섹션 사운드로 다듬어냅니다.",
+          "right": 332.078125,
+          "width": 297.078125
+        },
+        {
+          "tag": "B",
+          "class": "",
+          "text": "150 dB SPL 이상의 괴물 같은 음압을 무왜곡으로 처리",
+          "right": 326.890625,
+          "width": 291.890625
+        },
+        {
+          "tag": "DIV",
+          "class": "card blue",
+          "text": "악기별 마이킹 레시피\n\n\n\n악기\n거리 및 각도\n추천 스위치\n실전 사운드 포인트\n\n\n\n\nTrumpet (트럼펫)\n벨 앞 25~40 cm, 벨 중심에서 20° 비껴서 조준\nBass '",
+          "right": 353.078125,
+          "width": 339.078125
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "chapterId": "sessions",
+      "documentWidth": 491,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "아티스트 / 앨범\n스튜디오 / 엔지니어\n사용 리비전 & 파트\n세부 세팅 및 음향적 활용\n출처 / 신뢰도\n\n\n\n\nStevie WonderSongs in the Key of Life ",
+          "right": 491.296875,
+          "width": 477.296875
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "아티스트 / 앨범\n스튜디오 / 엔지니어\n사용 리비전 & 파트\n세부 세팅 및 음향적 활용\n출처 / 신뢰도",
+          "right": 490.796875,
+          "width": 476.296875
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "아티스트 / 앨범\n스튜디오 / 엔지니어\n사용 리비전 & 파트\n세부 세팅 및 음향적 활용\n출처 / 신뢰도",
+          "right": 490.796875,
+          "width": 476.296875
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "사용 리비전 & 파트",
+          "right": 323.171875,
+          "width": 87.71875
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "세부 세팅 및 음향적 활용",
+          "right": 401.140625,
+          "width": 77.96875
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "출처 / 신뢰도",
+          "right": 490.796875,
+          "width": 89.65625
+        }
+      ]
+    },
+    {
+      "index": 17,
+      "chapterId": "compare",
+      "documentWidth": 426,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "비교 항목\nSennheiser MD 441-U\nSennheiser MD 421-II\nShure SM7B\n\n\n\n\n지향 패턴 (Polar Pattern)\nSupercardioid (정",
+          "right": 426.390625,
+          "width": 412.390625
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "비교 항목\nSennheiser MD 441-U\nSennheiser MD 421-II\nShure SM7B",
+          "right": 425.890625,
+          "width": 411.390625
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "비교 항목\nSennheiser MD 441-U\nSennheiser MD 421-II\nShure SM7B",
+          "right": 425.890625,
+          "width": 411.390625
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "Sennheiser MD 421-II",
+          "right": 340.921875,
+          "width": 102.578125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "Shure SM7B",
+          "right": 425.890625,
+          "width": 84.96875
+        },
+        {
+          "tag": "TBODY",
+          "class": "",
+          "text": "지향 패턴 (Polar Pattern)\nSupercardioid (정밀 125° 널, 리어로브)\nCardioid (넓은 카디오이드 수음각)\nCardioid (전형적인 카디오이드)\n",
+          "right": 425.890625,
+          "width": 411.390625
+        }
+      ]
+    },
+    {
+      "index": 19,
+      "chapterId": "quick",
+      "documentWidth": 468,
+      "offenders": [
+        {
+          "tag": "TABLE",
+          "class": "",
+          "text": "타겟 소스\n추천 거리 & 각도\nBass Switch\nBrilliance\n외장 팝스크린\n프리앰프 권장 게인\n\n\n\n\n스튜디오 리드 보컬\n12~15 cm, 정면 또는 살짝 15° 축외\n",
+          "right": 467.78125,
+          "width": 432.78125
+        },
+        {
+          "tag": "THEAD",
+          "class": "",
+          "text": "타겟 소스\n추천 거리 & 각도\nBass Switch\nBrilliance\n외장 팝스크린\n프리앰프 권장 게인",
+          "right": 467.28125,
+          "width": 431.78125
+        },
+        {
+          "tag": "TR",
+          "class": "",
+          "text": "타겟 소스\n추천 거리 & 각도\nBass Switch\nBrilliance\n외장 팝스크린\n프리앰프 권장 게인",
+          "right": 467.28125,
+          "width": 431.78125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "Brilliance",
+          "right": 351.515625,
+          "width": 93.03125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "외장 팝스크린",
+          "right": 413.46875,
+          "width": 61.953125
+        },
+        {
+          "tag": "TH",
+          "class": "",
+          "text": "프리앰프 권장 게인",
+          "right": 467.28125,
+          "width": 53.8125
+        }
+      ]
+    }
+  ],
+  "focusAfterEscape": {
+    "activeId": "audio-guide-search",
+    "left": 14,
+    "right": 376
+  },
+  "homeNumberContrastOnWhite": 3.557116263677476
+}

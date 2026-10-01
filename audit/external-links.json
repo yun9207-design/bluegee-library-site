@@ -1,0 +1,1770 @@
+{
+  "https://help.uaudio.com/hc/en-us/articles/4419447352980-UA-1176-Classic-Limiter-Collection-Manual": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html",
+    "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/1/1/1176ln_manual.pdf": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html",
+    "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/1/1/1176ae-manual.pdf": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://purpleaudio.com/products/mc77/": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.arturia.com/products/software-effects/comp-fet76/overview": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/user-manuals/fet-compressor-mk-ii": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://docs.slatedigital.com/VMR/FG-116_Vintage.html": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://docs.slatedigital.com/VMR/FG-116_Modern.html": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/plugins/cla-76-compressor-limiter": [
+    "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419496124180-Teletronix-LA-2A-Leveler-Collection-Manual": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/l/a/la-2a_manual.pdf": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/215779663-A-History-of-the-Teletronix-LA-2A-Leveling-Amplifier": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html"
+  ],
+  "https://www.uaudio.com/products/teletronix-la-2a-classic-leveling-amplifier": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/19378009641748-LA-2A-Tube-Compressor-Manual": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/article_attachments/24802645501332": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://assets.ctfassets.net/h4x5uvaoia7v/2XOAsJN4jh3YsjgHQOWUEb/37f93618288654a821d05cc9f0ba3c6d/2021-Web-WA-2A-Manual.pdf": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://warmaudio.com/wa-2a": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/plugins/cla-2a-compressor-limiter": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ikmultimedia.com/products/trwhite2a/": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.native-instruments.com/products/vintage-compressors": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.audio-scape.com/nineteen-inch-rack/as2a": [
+    "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html",
+    "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/neve-eq-guide": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html",
+    "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2021/08/1073_1084_user_manual_issue_5_1-1-.pdf": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html",
+    "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2021/10/1081usermanualissue42.pdf": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/consoles/history-of-1073/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/1073-range/1073-mic-preamp-equaliser/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/classic-range/1084-2/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/1081-range/1081-classic/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/our-story/neve-history/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundcitystudios.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html",
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.technicalaudio.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.resolutionmag.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://auroraaudio.net/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.airstudios.com/": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33532491721364-Neve-1081-Equalizer-Manual": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33532552555412-Neve-31102-Console-EQ-Manual": [
+    "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.solidstatelogic.com/": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html",
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/ssl-eq-guide": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.solidstatelogic.com/channel-strip-guide": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html",
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.solidstatelogic.com/hc/en-gb/articles/14959276554525-SSL-4K-E-Channel-Strip-Plug-in-User-Guide": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html",
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.solidstatelogic.com/products/e-series-eq-module": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html",
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.solidstatelogic.com/products/revival4000": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.solidstatelogic.com/hc/en-gb/articles/29867540766749-Revival-4000-FAQs": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://store.solidstatelogic.com/plug-ins/ssl-4k-g-channel-strip": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.solidstatelogic.com/our-history": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.solidstatelogic.com/hc/en-gb/articles/28729404274717-SSL-4K-G-Channel-Strip-Plug-in-User-Guide": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://assets.wavescdn.com/pdf/plugins/ssl-g-equalizer.pdf": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://assets.wavescdn.com/pdf/plugins/ssl-e-channel.pdf": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://solidstatelogic.com/products/revival4000": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://solidstatelogic.com/assets/uploads/downloads/SSL_500_Series_E_EQ_Module_User_Guide.pdf": [
+    "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://pulsetechniques.com/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/compare/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/products/tube-equalizers/eqh-2/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/7183176266260-Pultec-Passive-EQ-Collection-Manual": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/products/tube-equalizers/meq-5/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/products/tube-equalizers/eqp-1a/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/products/tube-equalizers/eqp-1a3/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/solidstate-eqs/eqp-1a3-ss/": [
+    "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.apiaudio.com/products/550a/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/products/550b/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/products/560/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/equalizers/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://service.apiaudio.com/downloads": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product.php?id=106": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product.php?id=107": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product.php?id=108": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product.php?id=119": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/32524771071636-API-500-Series-EQ-Collection-Manual": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html",
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/550a-special-edition/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/550b-4-band-eq/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/docs/manuals/5500_user_2024-01-17.pdf": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/5500-dual-equalizer/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://assets.wavescdn.com/pdf/plugins/api-550.pdf": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/550a-50th-anniversary-edition/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/560-graphic-eq/": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/docs/brochures/br560.pdf": [
+    "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/wp-content/uploads/distressor_manual.pdf": [
+    "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/distressor/": [
+    "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/18741515014676-Empirical-Labs-EL8-Distressor-Manual": [
+    "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/product/arousor/": [
+    "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/s/VARIABLE-MU-MANUAL-WEB-REV-521.pdf": [
+    "guides/deep-dive/058_BLUEGEE_MANLEY_VARIABLE_MU_DEEP_DIVE_MASTER_GUIDE_v4.html",
+    "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/s/VARIABLEMU-rev2-26-04.pdf": [
+    "guides/deep-dive/058_BLUEGEE_MANLEY_VARIABLE_MU_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/pro/mnumu": [
+    "guides/deep-dive/058_BLUEGEE_MANLEY_VARIABLE_MU_DEEP_DIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/13293388042900-Fairchild-Tube-Limiter-Collection-Manual": [
+    "guides/deep-dive/059_BLUEGEE_FAIRCHILD_660_670_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://resources.avid.com/SupportFiles/PT/Audio_Plug-Ins_Guide_2024.3.pdf": [
+    "guides/deep-dive/059_BLUEGEE_FAIRCHILD_660_670_WAR_MASTER_GUIDE_v4.html",
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://www.abbeyroad.com/audio-products/78/modal": [
+    "guides/deep-dive/060_BLUEGEE_ABBEY_ROAD_RS124_SERIAL_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/1lib/pdf/plugins/rs124.pdf": [
+    "guides/deep-dive/060_BLUEGEE_ABBEY_ROAD_RS124_SERIAL_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/plugins/abbey-road-rs124-compressor": [
+    "guides/deep-dive/060_BLUEGEE_ABBEY_ROAD_RS124_SERIAL_WAR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/microphones/studio-microphones/u-47/": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/knowledge-base/u-47-history/": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-sg/products/historical/u-47": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/historical/u-47": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/knowledge-base/history-products": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html",
+    "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/faq-microphones/": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/microphones/u-47-fet-i": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html",
+    "guides/microphone/068_BLUEGEE_NEUMANN_U47_FET_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/knowledge-base/neumann-im-homestudio/homestudio-academy/what-is-the-proximity-effect": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.neumann.com/hc/en-us/articles/29486217069202-Neumann-Microphone-Maintenance": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.neumann.com/hc/en-us/articles/27811182857490-Microphones-FAQ": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.neumann.com/hc/en-us/articles/40154741271065-Warranty-Servicing-and-Repairs": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/microphones/u-67-set": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html",
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/microphones/u-87-ai": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html",
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/products/ua-sphere-dlx-modeling-microphone": [
+    "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/microphones/u-67-set/": [
+    "guides/microphone/061_BLUEGEE_NEUMANN_U67_MASTER_GUIDE_v4.html"
+  ],
+  "https://newsroom.neumann.com/u-67-return-of-a-legend": [
+    "guides/microphone/061_BLUEGEE_NEUMANN_U67_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/microphones/tlm-67": [
+    "guides/microphone/061_BLUEGEE_NEUMANN_U67_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/globalassets/digizuite/16474-en-opin0134_u87ai_06-10.pdf": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/ko-kr/products/microphones/u-87-ai": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-gb/history-products/": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html",
+    "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/ko-kr/products/historical/u-87-anniversary-set": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.coutant.org/u87i/index.html": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/neumann-u87": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://repforums.prosoundweb.com": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.recordingthebeatles.com": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.routledge.com": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/classic-tracks": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.aes.org/e-lib/": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://tapeop.com": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html",
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/historical/u-87-anniversary-set": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://manualzilla.com/doc/7003466/neumann.berlin-u-87-i-user-s-manual": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://manualsnet.com/neumann/u-87-ai": [
+    "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-us/products/microphones/m-49-v-set": [
+    "guides/microphone/063_BLUEGEE_NEUMANN_M49_MASTER_GUIDE_v4.html"
+  ],
+  "https://m49v.neumann.com/": [
+    "guides/microphone/063_BLUEGEE_NEUMANN_M49_MASTER_GUIDE_v4.html"
+  ],
+  "https://manuals.plus/neumann/m-49-v-large-diaphragm-multi-pattern-tube-condenser-microphone-manual": [
+    "guides/microphone/063_BLUEGEE_NEUMANN_M49_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/C12VR.html": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw352ce404/pdfs/AKG_C12VR_Manual.pdf": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html"
+  ],
+  "https://coutant.org/akgc12/akg-c12.pdf": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html"
+  ],
+  "https://coutant.org/akgc12/c12schem.jpg": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/product/c12/": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html",
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/product/ela-m-251e/": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html",
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/discontinued-products/": [
+    "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html",
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/product/ela-m-251t/": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/product/m-950e-tube-microphone-power-supply-ela-m-251e/": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/product/m-850e-tube-microphone-cable-ela-m-251e/": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/about/": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/telefunken-celebrates-20th-anniversary/": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.telefunken-elektroakustik.com/brian-wilson-chooses-telefunken-usa-mics-new-album/": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://unitedstudiotech.com/en/products/ut-twin87": [
+    "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw2c49da55/pdfs/AKG_C414XLS_C414XLII_Manual.pdf": [
+    "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/C414XLS.html": [
+    "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/3059X00060.html": [
+    "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html"
+  ],
+  "https://fi.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwaabcd3f2/pdfs/AKG_C414XLS_C414XLII_Manual.pdf": [
+    "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html"
+  ],
+  "https://pro.sony/ue_US/products/studio-microphones/c-800g": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://pro.sony/support/res/manuals/3755/1db7eaa23b893a64a27f392fd0f0d3f8/37555732M.pdf": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.sony.co.jp/en/Products/proaudio/en/story/story04.html": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://pro.sony/s3/2018/11/28161544/C800G_spec-sheet-final-7-07.pdf": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://patents.google.com/patent/JP3277378B2/en": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://pro.sony/s3/2020/11/17114038/C-800G_Sell-Sheet_F.pdf": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.mixonline.com/recording/josh-gudwin-and-justin-bieber-427384": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/inside-track-dave-funky-friday-black?page=2": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/stormzy-making-what-mean": [
+    "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/en-gb/products/microphones/u-47-fet-i/": [
+    "guides/microphone/068_BLUEGEE_NEUMANN_U47_FET_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.shure.com/en-US/docs/guide/SM7B": [
+    "guides/microphone/069_BLUEGEE_SHURE_SM7_SM7B_MASTER_GUIDE_v4.html"
+  ],
+  "https://fonts.googleapis.com": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://fonts.gstatic.com": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;600;800&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=Noto+Sans+KR:wght@400;500;700;900&display=swap": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.shure.com/en-US/products/microphones/sm57": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://service.shure.com/s/article/history-of-the-unidyne": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://service.shure.com/s/article/what-is-the-difference-between-the-sm58-and-the-sm57": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.shure.com/en-US/products/microphones/beta_57a": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.shure.com/en-US/performance-production/louder/sm57-at-the-white-house": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/classic-tracks-nirvana-smells-teen-spirit": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/classic-tracks-acdc-back-black": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.halleonard.com/product/332857/in-the-studio-with-michael-jackson": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/mike-clink": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://tapeop.com/interviews/65/jim-scott/": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.aes.org/e-lib/browse.cfm?elib=118": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/classic-tracks-police-every-breath-you-take": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.shure.com/en-US/docs/guide/SM57": [
+    "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.sennheiser.com/ko-kr/catalog/products/microphones/md-421-ii/md-421-ii-000984": [
+    "guides/microphone/071_BLUEGEE_SENNHEISER_MD421_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.sennheiser.com/globalassets/digizuite/41239-en-quick_guide_md_441-u_11_2022.pdf": [
+    "guides/microphone/072_BLUEGEE_SENNHEISER_MD441_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.sennheiser.com/ko-kr/catalog/products/microphones/md-441/md-441-u-000762": [
+    "guides/microphone/072_BLUEGEE_SENNHEISER_MD441_MASTER_GUIDE_v4.html"
+  ],
+  "https://products.electrovoice.com/binary/RE20_Engineering_Data_Sheet.PDF": [
+    "guides/microphone/073_BLUEGEE_ELECTRO_VOICE_RE20_MASTER_GUIDE_v4.html"
+  ],
+  "https://coutant.org/rca44bx/": [
+    "guides/microphone/074_BLUEGEE_RCA_44BX_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.elektroakustika.cz/images/fl/rca77dx.pdf": [
+    "guides/microphone/075_BLUEGEE_RCA_77DX_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.coutant.org/rca77dx/index.html": [
+    "guides/microphone/075_BLUEGEE_RCA_77DX_MASTER_GUIDE_v4.html"
+  ],
+  "https://coleselectroacoustics.com/microphone-accessories/": [
+    "guides/microphone/076_BLUEGEE_COLES_4038_MASTER_GUIDE_v4.html"
+  ],
+  "https://coleselectroacoustics.com/4038-studio-ribbon-microphone/": [
+    "guides/microphone/076_BLUEGEE_COLES_4038_MASTER_GUIDE_v4.html"
+  ],
+  "https://coleselectroacoustics.com/about-us/": [
+    "guides/microphone/076_BLUEGEE_COLES_4038_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.jsdelivr.net/npm/html2canvas-pro@2.0.4": [
+    "guides/microphone/077_BLUEGEE_ROYER_R121_MASTER_GUIDE_v4.html",
+    "guides/microphone/079_BLUEGEE_AKG_C451_CK1_MASTER_GUIDE_v4.html"
+  ],
+  "https://royerlabs.com/r-121/": [
+    "guides/microphone/077_BLUEGEE_ROYER_R121_MASTER_GUIDE_v4.html"
+  ],
+  "https://global.beyerdynamic.com/p/m-160": [
+    "guides/microphone/078_BLUEGEE_BEYERDYNAMIC_M160_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/C451B.html": [
+    "guides/microphone/079_BLUEGEE_AKG_C451_CK1_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.akg.com/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw5a8d3a21/pdfs/AKG_C451B_Manual.pdf": [
+    "guides/microphone/079_BLUEGEE_AKG_C451_CK1_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.preservationsound.com/wp-content/uploads/2010/12/Neumann_fet_80_Catalog.pdf": [
+    "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.neumann.com/globalassets/digizuite/19650-en-ubersicht_neumann-mikrofone_und_kapseln_de_2019-10.pdf": [
+    "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html"
+  ],
+  "https://pulsetechniques.com/history/": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://pulsetechniques.com/products/tube-equalizers/eqm-1a/": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.sowter.co.uk/schematics/Pultec%20EQP%201A.pdf": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.thehistoryofrecording.com/Manuals/Pultec/Pultec_EQP-1A_Manual.pdf": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/pulse-techniques-eqp-1a": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.soundonsound.com/sound-advice/hidden-dangers-vintage-eq": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/ua/pultec-collection-tips-and-tricks": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.gyraf.dk/gy_pd/pultec/pultec.htm": [
+    "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/teletronix-la-2a": [
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/206356233-Teletronix-LA-2A-Classic-Leveling-Amplifier": [
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/ua/1176-vs-la-2a-understanding-two-legendary-compressors": [
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html",
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/classic-compressors": [
+    "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html",
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/universal-audio-1176-classic-limiter-collection": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/1/1/1176ln_manual.pdf#page=30": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/1/1/1176ln_manual.pdf#page=31": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/1/1/1176ln_manual.pdf#page=33": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/ua/1176-collection-tips": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://www.uaudio.com/products/1176-collection": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/warm-audio-wa76-series": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/igs-audio-576-blue-stripe": [
+    "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html"
+  ],
+  "https://www.uaudio.com/uad-plugins/compressors-limiters/fairchild-670.html": [
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/fairchild-670": [
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://www.uaudio.com/products/fairchild-tube-limiter-collection": [
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/fairchild-660-670": [
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/heritage-audio-herchild-670": [
+    "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html"
+  ],
+  "https://www.solidstatelogic.com/products/g3-gbc": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://www.solidstatelogic.com/assets/uploads/downloads/plug-ins/SSL%20Native%20v6.5%20-%20User%20Guide.pdf": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://solidstatelogic.com/our-history": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html",
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.download.solidstatelogic.com/G-Series%20Bus%20Comp/G-Series%20Bus%20Compressor%20User%20Guide.pdf": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://www.solidstatelogic.com/assets/uploads/downloads/origin/SSL_Origin_User_Guide_V1-1_screen.pdf": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://www.solidstatelogic.com/assets/uploads/downloads/SSL_BiGSiX_User_Guide_V1.6_s.pdf": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://www.solidstatelogic.com/assets/uploads/downloads/The_Bus_User_Guide_1.1.pdf": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://support.solidstatelogic.com/hc/en-gb/articles/4408670926109-SSL-Bus-Compressor-2-Plug-in-User-Guide": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/ssl-xlogic-g-series-compressor": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://support.download.solidstatelogic.com/500%20Modules/G-Series%20Bus%20Compressor%20500%20Module%20User%20Guide.pdf": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://www.solidstatelogic.com/products/the-bus-plus": [
+    "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html"
+  ],
+  "https://dbxpro.com/": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419447352980": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html",
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html",
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html",
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html",
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html",
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html",
+    "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/products/160a": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/dbx-160": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/product_documents/dbx160a-18-2040v-cpdf": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/products/160": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/downloads/en/owners_manual": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/products/160sl/specifications": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/products/560a": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/18741620620692-dbx-160-Compressor-Manual": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://dbxpro.com/en-US/compression-quiz": [
+    "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/product/2500/": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/manuals/man2500.pdf": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/products/2500/": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/api-2500": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/2500-stereo-bus-compressor/": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/docs/manuals/2500%2B_user_23-01-09.pdf": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/about/": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html",
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/the-api-2500-plus-more/": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/2500-50th-anniversary-edition/": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419505673620-API-2500-Bus-Compressor-Manual": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/waves-api-collection": [
+    "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html",
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/1073-range/1073-classic/": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/products/1073": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/about-marinair/": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2026/06/1073SPX_1.2_User_Manual.pdf": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/bae-1073-mpf": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/dj-swivel-recording-beyonces-4": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/secrets-mix-engineers-jj-puig": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/neve-1073n": [
+    "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/550a-discrete-3-band-eq/": [
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/docs/brochures/br550b.pdf": [
+    "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/solid-state-logic-x-rack": [
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/secrets-mix-engineers-chris-lord-alge": [
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/producing-clean-bandit": [
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/inside-track-tom-lord-alge": [
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://solidstatelogic.com/products/origin-evo": [
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://solidstatelogic.com/products/super-9000": [
+    "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/emt-140-plate-reverb": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/emt-140": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.sursam.de/EMT/EMT_140_Manual.pdf": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33030978351892-EMT-140-Plate-Reverb-Manual": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/ua/emt-reverb-history": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/waves-abbey-road-reverb-plates": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/choosing-right-reverb": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html",
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/ua/the-basics-of-reverb": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/classic-tracks-bruce-springsteen-born-usa": [
+    "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419497193492-Lexicon-224-Digital-Reverb-Manual": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://lexiconpro.com/": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/advanced-reverberation-part-1": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://davidgriesinger.com/": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.aes.org/e-lib/browse.cfm?elib=3384": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://lexiconpro.com/en/product_documents": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/universal-audio-uad2-lexicon-224": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://en.wikipedia.org/wiki/Lexicon_(company)": [
+    "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.roland.com/": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/roland-re-201": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.roland.com/assets/media/pdf/RE-201_OM.pdf": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.roland.com/us/products/rc_re-201_space_echo/": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.roland.com/uk/blog/the-roland-re-201-space-echo-story/?lang=en-GB": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.roland.com/assets/media/pdf/RE-20_OM.pdf": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/music-business/history-roland-part-1": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.boss.info/us/products/re-202/": [
+    "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.studer.ch/": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/studer-a800": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/uad-plugins/tape-machines/studer-a800.html": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419513099156-Studer-A800-Multichannel-Tape-Recorder-Manual": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/360041911791-LUNA-Studer-A800-Tape-Extension-Manual": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/products/studer-a800-tape-recorder": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.aes.org/standards/b_index.cfm": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/analogue-tape-recorders": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://mrlaudio.com/": [
+    "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html"
+  ],
+  "https://museumofmagneticsoundrecording.org/": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/ampex-atr102": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/uad-plugins/tape-machines/ampex-atr-102.html": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/32491139365140-Ampex-ATR-102-Mastering-Tape-Recorder-Manual": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/classic-tracks-nirvana-smells-teen-spirit": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/nigel-godrich-producing-radiohead": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.berniegrundmanmastering.com": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/recording-random-access-memories-daft-punk": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/roger-nichols-steely-dan": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/nigel-godrich": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/chris-lord-alge": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.stevehoffman.info/recording-arcadium.html": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/butch-vig-foo-fighters-wasting-light": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://forums.stevehoffman.tv": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://museumofmagneticsoundrecording.org/ManufacturersAmpex.html": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/uad-plugins/special-processing/ampex-atr-102.html": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.aes.org/e-lib/browse.cfm?elib=2719": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.atrmagnetics.com": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://mrltapes.com": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html",
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/28281608779540-Ampex-ATR-102-Master-Tape-Recorder-Manual": [
+    "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/dynamics-range/33609-stereo-compressor/": [
+    "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33536131639956": [
+    "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html",
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/products/33609": [
+    "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/neve-33609": [
+    "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2022/01/33609N1.0usermanual.pdf": [
+    "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/support/faqs/": [
+    "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/products/pro-audio/dynamics/variable-mu": [
+    "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/products/pro-audio/mastering/variable-mu-mastering": [
+    "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/get-support": [
+    "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://chandlerlimited.com/tg1-limiter/": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/chandler-tg1": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://chandlerlimited.com/documentation/": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html",
+    "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/chandler-limited-tg1": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://chandlerlimited.com/wp-content/uploads/2013/01/tg1-limiter-brochure.pdf": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.abbeyroad.com/audio-products/65/modal": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.abbeyroad.com/audio-products/61/modal": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/user-manuals/chandler-limited-zener-limiter": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://assets.wavescdn.com/pdf/plugins/abbey-road-tg-mastering-chain.pdf": [
+    "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://store.solidstatelogic.com/plug-ins/ssl-native-channel-strip-2": [
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.solidstatelogic.com/hc/en-gb/articles/6887173070877-SSL-Channel-Strip-2-Plug-in-User-Guide": [
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://files.plugin-alliance.com/products/bx_console_ssl_4000_e/bx_console_ssl_4000_e_manual.pdf": [
+    "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/docs/manuals/512c_user_2019-05-26.pdf": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/512c-mic-pre/": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/docs/manuals/512v_user_2021-04-29.pdf": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/docs/files/512V_Block_Diagram.pdf": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/512v-discrete-mic-line-pre/": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/32684792936596-API-Preamp-Manual": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/3124v-mic-pre/": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html",
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/bundles/api-collection": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://royerlabs.com/ribbon-mics-and-phantom-power/": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/312-mic-preamp/": [
+    "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html",
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/manuals/dist_manual.pdf": [
+    "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.tube-tech.com/cl-1b-opto-compressor/": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.tube-tech.com/wp-content/uploads/2018/05/Manual-CL-1B-180515.pdf": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.tube-tech.com/cl-1b-plugin/": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.pensadosplace.tv": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/inside-track-kendrick-lamar": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.puremix.net": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://mixwiththemasters.com": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.redbullmusicacademy.com": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/people/michael-brauer": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/uk/user-manuals/tube-tech-cl-1b-and-cl-1b-mk-ii-compressors": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/uk/user-manuals/tube-tech-classic-channel-and-classic-channel-mk-ii": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/user-manuals/tube-tech-cl-1b-and-cl-1b-mk-ii-compressors": [
+    "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/dynamics-range/2254r-mono-compressor-limiter/": [
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/neve-2254": [
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2023/01/2254R_User_Manual_Iss2_4-1.pdf": [
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/limiter-compressors/2254-r-mono-limiter-compressor/": [
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/500-series-range/2264alb-mono-limiter-compressor-module/": [
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2021/08/2264albusermanualiss1.2.pdf": [
+    "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://shadowhillsindustries.com/": [
+    "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/shadow-hills-mastering-compressor": [
+    "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://files.plugin-alliance.com/products/shadow_hills_mastering_compressor/shadow_hills_mastering_compressor_manual.pdf": [
+    "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.plugin-alliance.com/products/mastering-compressor": [
+    "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.plugin-alliance.com/products/mastering-compressor-class-a": [
+    "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/en/spl-produkt/transient-designer-4/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/wp-content/uploads/Transient_Designer_4_Manual.pdf": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/en/spl-produkt/transient-designer/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/spl-transient-designer": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/wp-content/uploads/Manual-TD4-Mk2_web-1.pdf": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/en/spl-produkt/transient-designer-4-mk2/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/en/category/artists/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.pensadosplace.tv/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.puremix.net/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/wp-content/uploads/TransientDesigner4_9842_OM_E.pdf": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/en/spl-produkt/tdx/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/en/spl-produkt/transient-designer-plugin/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.plugin-alliance.com/en/products/spl_transient_designer_plus.html": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://files.plugin-alliance.com/products/spl_transient_designer_plus/spl_transient_designer_plus_manual.pdf": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://spl.audio/de/spl-tdx-transient-designer-im-test-bei-bonedo-mit-klangbeispielen/": [
+    "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/products/legacy/h3000-ultra-harmonizer/": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/eventide-h3000": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/manuals/h3000.pdf": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/plug-ins/h3000-factory/": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/rackmount/h3000/": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/uploads/2024/05/04252024113325-0001-1.pdf": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/timeline/": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/support/eclipse-h3000-presets-cross-reference/": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/uploads/2021/09/H3000-Manual.pdf": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/uploads/2021/09/H3000-Service.pdf": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/plug-ins/h3000-factory-mk-ii/": [
+    "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/products/legacy/h910-harmonizer/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/products/legacy/h949-harmonizer/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/manuals/h910.pdf": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/manuals/h949.pdf": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/plug-ins/h949-harmonizer/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/rackmount/h910-harmonizer/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/rackmount/h949-harmonizer/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://cdn.eventideaudio.com/uploads/2021/09/h910-hardware-manual.pdf": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/blog/flashback-7-2-h949-the-new-one/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.eventideaudio.com/plug-ins/h910-harmonizer/": [
+    "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/products/reverb/rmx16": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/ams-rmx16": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/500-series-range/ams-rmx16/": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/wp-content/uploads/2021/08/rmx-16-500-series-user-manual-issue-2.pdf": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/ams-neve-launches-a-new-hardware-version-of-the-iconic-rmx16/": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/support/manuals/dd/AMS%20RMX16%20Expanded%20Manual.pdf": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/products/rmx-16-expanded": [
+    "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/teletronix-la-3a": [
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419496124180": [
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/hardware/compressors/la-3a.html": [
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/13925934548884-Teletronix-LA-3A-Compressor-Manual": [
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/l/a/la-3a-manual.pdf": [
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/ua/teletronix-la-3a-origins": [
+    "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/vt-737-sp": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/vt-737-plugin": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://avalondesign.com/downloads/vt737sp.pdf": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://avalondesign.com/manuals/Vt737sp_Manual_2016.pdf": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/support": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/18741383023892-Avalon-VT-737-Tube-Channel-Strip-Manual": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/s/Compressor-Fast-Attack-Modification.pdf": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blogs/press/avalonvt-737-tube-channel-strip": [
+    "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/pro/msmp": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/s/MASSIVE-PASSIVE-MANUAL.pdf": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manleylabs.com/downloads/MPED-IOM.pdf": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/s/MSMPX_manual_2018.pdf": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manley.com/news/2023/8/15/massive-passive-xxv-anniversary-edition": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/18739889642388-Manley-Massive-Passive-EQ-Manual": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://manuals.plus/m/70f51bb8791b43cb1260ee0b32d1187979a245e014483241a2e86ff730f4d618": [
+    "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.ams-neve.com/outboard/1084-range/1084-classic/": [
+    "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33536643185556-Neve-1084-Preamp-EQ-Manual": [
+    "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/43460658366612-Managing-Latency-in-UAD-Console-for-Apollo-the-DAW": [
+    "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/product/3124v/": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/manuals/man3124v.pdf": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/products/3124plus/": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/wp-content/uploads/2025/03/3124V_user_2025-03-03.pdf": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/api-reissues-legendary-312-mic-pre/": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/2520-op-amp/": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/product/3124mv-mic-pre-w-mixer/": [
+    "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.apiaudio.com/product/560/": [
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://apiaudio.com/manuals/man560.pdf": [
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/techniques/api-eq-guide": [
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/4419513327124-API-Vision-Channel-Strip-Manual": [
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/1lib/pdf/plugins/api-560.pdf": [
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.waves.com/plugins/api-560": [
+    "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/chandler-limited-curve-bender": [
+    "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://chandlerlimited.com/wp-content/uploads/2012/12/Chandler_Limited_TG12345_Curve_Bender_User_Manual.pdf": [
+    "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://device.report/manual/2210671": [
+    "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/user-manuals/chandler-limited-curve-bender": [
+    "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/hardware/preamps/2-610.html": [
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blog/universal-audio-history/": [
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/17475989779860-UA-610-Tube-Preamp-EQ-Collection-Manual": [
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/support/downloads/2-610-manual.pdf": [
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/206356253-2-610-Dual-Channel-Tube-Preamplifier": [
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/assetlibrary/s/o/solo-610-manual.pdf": [
+    "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/hardware/channel-strips/6176.html": [
+    "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/support/manuals/hardware/6176_manual.pdf": [
+    "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/hardware/preamps/6176.html": [
+    "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://media.uaudio.com/support/downloads/6176_Manual.pdf": [
+    "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/26600175702932-LA-6176-Signature-Channel-Strip-Manual": [
+    "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blog/1176-lineage/": [
+    "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.uaudio.com/blog/1176-history/": [
+    "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/u5.html": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://avalondesign.com/downloads/u5.pdf": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://avalondesign.com/u5_manual.pdf": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesignarchive.com/manuals/U5-manual.pdf": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/u5product": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://avalondesign.com/manuals/U5-manual.pdf": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.avalondesign.com/s/U5-Manual_web.pdf": [
+    "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manleylabs.com/downloads/VBXIOM.pdf": [
+    "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/17790028958228-Manley-VOXBOX-Channel-Strip-Manual": [
+    "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://manualzz.com/doc/64424792/manley-voxbox%C2%AE-owner-s-manual": [
+    "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/article_attachments/17814195940756": [
+    "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thermionic.info/": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/thermionic-culture-vulture": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thermionicculture.com/images/stories/virtuemart/product/1.CultureVulture.pdf": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thermionicculture.com/images/stories/virtuemart/product/CV20A_ProductSheet.pdf": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thermionicculture.com/images/stories/virtuemart/product/Ultra%20Vulture%20Manual_1.pdf": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thermionicculture.com/images/stories/virtuemart/product/Culture_20Vulture_SPEC_1.pdf": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thermionicculture.com/images/stories/virtuemart/product/CV20_Manual_Iss2.pdf": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://thermionicculture.com/images/stories/virtuemart/product/CV20A_Specification.pdf": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33542576197908-Thermionic-Culture-Vulture-Manual": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://manuals.plus/thermionic-culture/ultra-vulture-stereo-valve-enhancer-manual": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.manualshelf.com/manual/thermionic-culture/the-culture-vulture-stereo-valve-enhancer/manual-english.html": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.arturia.com/products/software-effects/dist-tube-culture/resources": [
+    "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/wp-content/uploads/fatso_manual.pdf": [
+    "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/wp-content/uploads/fatso_el7x_manual.pdf": [
+    "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.empiricallabs.com/fatso/": [
+    "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33030906406676-Empirical-Labs-EL7-Fatso-Manual": [
+    "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html"
+  ],
+  "https://focusrite.com/downloads/isa-110-manual": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://customer.focusrite.com/downloads/ISA430-II_UsersGuide.pdf": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://downloads.focusrite.com/focusrite/isa-legacy/isa-430-producer-pack": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://downloads.focusrite.com/focusrite/isa-legacy/isa-430-mkii": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://us.focusrite.com/about-us": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://us.focusrite.com/isa/our-heritage-sound": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://us.focusrite.com/isa": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://us.focusrite.com/isa/focusrite-and-the-lundahl-ll1538-transformer": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://downloads.focusrite.com/focusrite/isa-legacy": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://focusrite.com/articles/emulate-the-focusrite-studio-console-in-your-daw/": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://fael-downloads-prod.focusrite.com/customer/prod/s3fs-public/downloads/isa-110-115-user-guide2.pdf": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://fael-downloads-prod.focusrite.com/customer/prod/s3fs-public/downloads/isa-430mkii-user-manual-english.pdf": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://fael-downloads-prod.focusrite.com/customer/prod/s3fs-public/downloads/430userguideeng1.pdf": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.focusrite.com/hc/de/articles/207549345-What-s-the-difference-between-ISA-430-MK-I-and-II": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://support.focusrite.com/hc/ko/articles/33244790620562-%EB%8B%A4%EB%A5%B8-ISA-%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%EB%A7%81%ED%81%AC%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%A0-%EC%88%98-%EC%9E%88%EB%82%98%EC%9A%94": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://files.plugin-alliance.com/products/bx_console_focusrite_sc/bx_console_focusrite_sc_manual.pdf": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.lundahltransformers.com/wp-content/uploads/datasheets/1538_8xl.pdf": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://eu.focusrite.com/products/isa-c8x": [
+    "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.drawmer.com/products/microphone-preamplifiers/1960/": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.drawmer.com/products/60s-series/1960-mic-pre-vacuum-tube-compressor.php": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://drawmer.com/uploads/manuals/1960_operators_manual.pdf": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.drawmer.com/uploads/manuals/1960_operators_manual.pdf": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.drawmer.com/company.php": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.drawmer.com/products/60s-series/1968-dual-channel-tube-compressor.php": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.drawmer.com/products/plugins/softube_s73.php": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/plug-ins/drawmer-s73-intelligent-master-processor": [
+    "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/trident-audio-a-range": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.tridentaudio.co.uk/": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/33542671805972-Trident-A-Range-EQ-Manual": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/user-manuals/trident-a-range": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.arturia.com/store/trida-pre": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://tridentaudiodevelopments.com/product/a-range-dual-channel-strip/": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://tridentaudiodevelopments.com/history/": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://tridentaudiodevelopments.com/wp-content/uploads/2021/02/a_range_user_guide_4.pdf": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://tridentaudiodevelopments.com/product/a-range-500/": [
+    "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/helios-type69": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://heritageaudio.net/": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/18737805108500-Helios-Type-69-Preamp-EQ-Manual": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.helios-electronics.com/history/as-told-by-rws": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://assets.wavescdn.com/pdf/plugins/kramer-hls-channel.pdf": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.helios-electronics.com/": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://h2audio.com/products/2128-helios-microphone-preamp": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://h2audio.com/products/5011-500-series-3-band-helios-eq": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://help.uaudio.com/hc/en-us/articles/23771247449620-FAQ-How-Do-I-Redeem-the-Native-UADx-Licenses-for-Helios-Type-69-Manley-Variable-Mu": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.thebeatles.com/hey-jude": [
+    "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.summitaudio.com/products/tla100a": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/summit-audio-tla100a": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.summitaudio.com/manual.php?m=tla-100a": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.summitaudio.com/tla100_specs.html": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.summitaudio.com/tla100a_features.html": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.softube.com/user-manuals/summit-audio-tla-100a": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.transaudiogroup.com/press-releases/transaudio-to-distribute-cranesong/": [
+    "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.soundonsound.com/reviews/gml-8200": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/wp-content/uploads/2020/02/GML8200man.pdf": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/model-8200/": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/about-gml/": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/wp-content/uploads/2020/02/190528_8200_Specs.pdf": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/wp-content/uploads/2020/02/120718_0_9500-specs.pdf": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.aes.org/e-lib/browse.cfm?elib=1986": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/model-9500/": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://www.massenburg.com/about-work/": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ],
+  "https://massenburgdesignworks.com/products/mdweq6/": [
+    "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html"
+  ]
+}

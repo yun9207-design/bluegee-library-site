@@ -1,0 +1,43 @@
+{
+  "checkedAt": "2026-10-01T05:55:43.038Z",
+  "stage": "Product detail introduction only",
+  "registered": 80,
+  "chapters": 2087,
+  "guideHashesUnchanged": 80,
+  "existingHomeAndStylesAndReaderUnchanged": true,
+  "modifiedGeneratedFiles": [
+    "app.js",
+    "catalog-core.js",
+    "catalog.js",
+    "products.json"
+  ],
+  "addedGeneratedFiles": [
+    "product.css",
+    "product.html",
+    "product.js"
+  ],
+  "relatedProducts": 25,
+  "masterChanges": "Only explicit relatedIds for 25 guides; no IDs, titles, category, series, paths or counts changed",
+  "checks": {
+    "lint": "passed",
+    "typecheck": "passed",
+    "validate": "passed",
+    "build": "passed",
+    "unitTests": "9 passed",
+    "browserTests": "passed",
+    "allDetailScreens": 80,
+    "brokenGuideLinks": 0,
+    "fixture081": "passed and removed"
+  },
+  "directAgentBrowserReview": {
+    "numbers": [
+      "050",
+      "068",
+      "060"
+    ],
+    "viaList": true,
+    "viaRelatedLink": true
+  },
+  "deployed": false,
+  "pushed": false
+}

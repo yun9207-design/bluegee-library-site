@@ -1,0 +1,6689 @@
+{
+  "schemaVersion": 1,
+  "categories": [
+    {
+      "id": "outboard",
+      "label": "아웃보드",
+      "description": "EQ · 컴프레서 · 프리앰프 · 공간계"
+    },
+    {
+      "id": "deep-dive",
+      "label": "엔지니어 딥다이브",
+      "description": "리비전 · 회로 · 모델별 비교"
+    },
+    {
+      "id": "microphone",
+      "label": "마이크",
+      "description": "캡슐 · 지향성 · 배치 · 레코딩"
+    }
+  ],
+  "series": [
+    {
+      "id": "classic-studio-gear",
+      "label": "Classic Studio Gear"
+    },
+    {
+      "id": "engineer-deep-dive",
+      "label": "Engineer Deep Dive / Revision War"
+    },
+    {
+      "id": "microphone-master-library",
+      "label": "Microphone Master Library"
+    }
+  ],
+  "bundles": [
+    {
+      "id": "classic-50-v4-ko",
+      "title": "Classic Gear 50",
+      "status": "planned",
+      "productIds": [
+        "audio-001",
+        "audio-002",
+        "audio-003",
+        "audio-004",
+        "audio-005",
+        "audio-006",
+        "audio-007",
+        "audio-008",
+        "audio-009",
+        "audio-010",
+        "audio-011",
+        "audio-012",
+        "audio-013",
+        "audio-014",
+        "audio-015",
+        "audio-016",
+        "audio-017",
+        "audio-018",
+        "audio-019",
+        "audio-020",
+        "audio-021",
+        "audio-022",
+        "audio-023",
+        "audio-024",
+        "audio-025",
+        "audio-026",
+        "audio-027",
+        "audio-028",
+        "audio-029",
+        "audio-030",
+        "audio-031",
+        "audio-032",
+        "audio-033",
+        "audio-034",
+        "audio-035",
+        "audio-036",
+        "audio-037",
+        "audio-038",
+        "audio-039",
+        "audio-040",
+        "audio-041",
+        "audio-042",
+        "audio-043",
+        "audio-044",
+        "audio-045",
+        "audio-046",
+        "audio-047",
+        "audio-048",
+        "audio-049",
+        "audio-050"
+      ]
+    },
+    {
+      "id": "deep-dive-10-v4-ko",
+      "title": "Engineer Deep Dive 10",
+      "status": "planned",
+      "productIds": [
+        "audio-051",
+        "audio-052",
+        "audio-053",
+        "audio-054",
+        "audio-055",
+        "audio-056",
+        "audio-057",
+        "audio-058",
+        "audio-059",
+        "audio-060"
+      ]
+    },
+    {
+      "id": "microphone-20-v4-ko",
+      "title": "Microphone Master Library 20",
+      "status": "planned",
+      "productIds": [
+        "audio-061",
+        "audio-062",
+        "audio-063",
+        "audio-064",
+        "audio-065",
+        "audio-066",
+        "audio-067",
+        "audio-068",
+        "audio-069",
+        "audio-070",
+        "audio-071",
+        "audio-072",
+        "audio-073",
+        "audio-074",
+        "audio-075",
+        "audio-076",
+        "audio-077",
+        "audio-078",
+        "audio-079",
+        "audio-080"
+      ]
+    },
+    {
+      "id": "complete-80-v4-ko",
+      "title": "Complete Audio Library 80",
+      "status": "planned",
+      "productIds": [
+        "audio-001",
+        "audio-002",
+        "audio-003",
+        "audio-004",
+        "audio-005",
+        "audio-006",
+        "audio-007",
+        "audio-008",
+        "audio-009",
+        "audio-010",
+        "audio-011",
+        "audio-012",
+        "audio-013",
+        "audio-014",
+        "audio-015",
+        "audio-016",
+        "audio-017",
+        "audio-018",
+        "audio-019",
+        "audio-020",
+        "audio-021",
+        "audio-022",
+        "audio-023",
+        "audio-024",
+        "audio-025",
+        "audio-026",
+        "audio-027",
+        "audio-028",
+        "audio-029",
+        "audio-030",
+        "audio-031",
+        "audio-032",
+        "audio-033",
+        "audio-034",
+        "audio-035",
+        "audio-036",
+        "audio-037",
+        "audio-038",
+        "audio-039",
+        "audio-040",
+        "audio-041",
+        "audio-042",
+        "audio-043",
+        "audio-044",
+        "audio-045",
+        "audio-046",
+        "audio-047",
+        "audio-048",
+        "audio-049",
+        "audio-050",
+        "audio-051",
+        "audio-052",
+        "audio-053",
+        "audio-054",
+        "audio-055",
+        "audio-056",
+        "audio-057",
+        "audio-058",
+        "audio-059",
+        "audio-060",
+        "audio-061",
+        "audio-062",
+        "audio-063",
+        "audio-064",
+        "audio-065",
+        "audio-066",
+        "audio-067",
+        "audio-068",
+        "audio-069",
+        "audio-070",
+        "audio-071",
+        "audio-072",
+        "audio-073",
+        "audio-074",
+        "audio-075",
+        "audio-076",
+        "audio-077",
+        "audio-078",
+        "audio-079",
+        "audio-080"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "audio-001",
+      "number": "001",
+      "slug": "001-pultec-eqp-1a",
+      "title": "Pultec EQP-1A",
+      "brand": "Pultec",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "패시브 EQ 회로와 저역 트릭을 실전 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/001-PULTEC_EQP1A_MASTER_MANUAL_BLUEGEE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-055"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "8. Male Lead Vocal"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "1. Kick Drum (어쿠스틱  &  전자)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "2. Bass Guitar (일렉트릭 핑거/픽)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "2. Bass Guitar (일렉트릭 핑거/픽)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "12. Grand Piano / Upright"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "14. Brass Section (트럼펫/트롬본)"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "bg-listening",
+          "heading": "믹스 버스 미세 조정과 리콜 확인"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-family",
+          "heading": "Mastering EQM-1A의 핵심 가치"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-sources",
+          "heading": "17. Podcast / Voiceover (스피치)"
+        }
+      ]
+    },
+    {
+      "id": "audio-002",
+      "number": "002",
+      "slug": "002-teletronix-la-2a",
+      "title": "Teletronix LA-2A",
+      "brand": "Teletronix",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "광학 압축 회로와 레벨링 운용을 실전 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "베이스",
+        "bass",
+        "믹스 버스",
+        "mix bus",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/002-LA2A_MASTER_REFERENCE_BLUEGEE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-052"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "bg-listening",
+          "heading": "눈금이 아니라 GR로 첫 보컬 비교"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums  &  Mix Bus: 적합성과 한계점 분석"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "5. 중후한 남성 보컬 (바리톤/베이스)  저역 두께감 보존"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums  &  Mix Bus: 적합성과 한계점 분석"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-history",
+          "heading": "Jim Lawrence의 영감: 레이더, 광학 센서, 그리고 라디오 방송국"
+        }
+      ]
+    },
+    {
+      "id": "audio-003",
+      "number": "003",
+      "slug": "003-1176-fet-limiter",
+      "title": "1176 FET Limiter",
+      "brand": "UREI / Universal Audio",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "FET 압축 회로와 어택·릴리스를 실전 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "UREI",
+        "Universal Audio",
+        "UA",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/003-BLUEGEE_PLUGIN_MASTER_1176_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-039",
+        "audio-051"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-allbuttons",
+          "heading": "3. Aggressive Rock Bass  &  Vocal"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-allbuttons",
+          "heading": "1. Drum Room  &  Ambient Mic"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass · Guitar · Instruments — 단단한 무게감과 고조파"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-allbuttons",
+          "heading": "3. Aggressive Rock Bass  &  Vocal"
+        }
+      ]
+    },
+    {
+      "id": "audio-004",
+      "number": "004",
+      "slug": "004-fairchild-660-670",
+      "title": "Fairchild 660 / 670",
+      "brand": "Fairchild",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "튜브 압축 회로와 시간상수·스테레오 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/004-BLUEGEE_PLUGIN_MASTER_004_FAIRCHILD_660_670_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-059"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "실전 보컬 프로세싱 (Lead, Female, BGV Bus)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "Bus  &  Mastering (Drum Room, Mix Bus, Lat/Vert Master)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass, Grand Piano, Guitars, Strings  &  Horns"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass, Grand Piano, Guitars, Strings  &  Horns"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass, Grand Piano, Guitars, Strings  &  Horns"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "Bus  &  Mastering (Drum Room, Mix Bus, Lat/Vert Master)"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "Bus  &  Mastering (Drum Room, Mix Bus, Lat/Vert Master)"
+        }
+      ]
+    },
+    {
+      "id": "audio-005",
+      "number": "005",
+      "slug": "005-ssl-bus-compressor",
+      "title": "SSL Bus Compressor",
+      "brand": "SSL",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "VCA 압축 회로와 버스 글루를 실전 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "Solid State Logic",
+        "드럼",
+        "drums",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/005-BLUEGEE_PLUGIN_MASTER_SSL_BUS_COMPRESSOR_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums  &  Subgroups 12대 소스별 가이드  제안 시작점"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-mixbus",
+          "heading": "Mix Bus — 4대 실전 워크플로우  &  \"Mix Into It\"  제안 시작점"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-mastering",
+          "heading": "Mastering — 초정밀 다이내믹 결속  제안 시작점"
+        }
+      ]
+    },
+    {
+      "id": "audio-006",
+      "number": "006",
+      "slug": "006-dbx-160",
+      "title": "dbx 160",
+      "brand": "dbx",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "VCA 검출 회로와 니·트랜지언트 운용 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/006_BLUEGEE_DBX160_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal  &  Acoustic Instruments — 클린 레벨 보호와 음악적 제어"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums — dbx 160의 불멸의 독무대"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-controls",
+          "heading": "OverEasy 및 기타 확장 스위치"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass — 일렉트릭, 신스, 어쿠스틱 베이스 운용"
+        }
+      ]
+    },
+    {
+      "id": "audio-007",
+      "number": "007",
+      "slug": "007-api-2500-2500",
+      "title": "API 2500 / 2500+",
+      "brand": "API",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "버스 압축 회로와 검출·링크 방식을 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/007_BLUEGEE_API2500_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼 버스 및 주요 서브그룹(Bass, Vocal, Guitar, Synth) 전술"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼 버스 및 주요 서브그룹(Bass, Vocal, Guitar, Synth) 전술"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼 버스 및 주요 서브그룹(Bass, Vocal, Guitar, Synth) 전술"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼 버스 및 주요 서브그룹(Bass, Vocal, Guitar, Synth) 전술"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-mixbus",
+          "heading": "Mix Bus 실전 프로페셔널 워크플로우: 5대 핵심 셋업 레시피"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-mastering",
+          "heading": "마스터링 엔지니어를 위한 초정밀 캘리브레이션 프로토콜"
+        }
+      ]
+    },
+    {
+      "id": "audio-008",
+      "number": "008",
+      "slug": "008-neve-1073-1084",
+      "title": "Neve 1073 / 1084",
+      "brand": "Neve",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp / EQ",
+      "equipmentType": "Preamp / EQ",
+      "description": "프리앰프·EQ 회로와 계보를 실전 비교",
+      "keywords": [
+        "프리앰프",
+        "이퀄라이저",
+        "니브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/008_BLUEGEE_NEVE1073_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-032",
+        "audio-033",
+        "audio-053"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Tracking  &  Tone Shaping Workflows 제안 시작점"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Tracking Architecture 제안 시작점  &  CASE STUDY"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Tracking Methods 제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Tracking Methods 제안 시작점"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "Piano, Keys  &  Synth Processing 제안 시작점"
+        }
+      ]
+    },
+    {
+      "id": "audio-009",
+      "number": "009",
+      "slug": "009-api-550a-550b-5500",
+      "title": "API 550A / 550B / 5500",
+      "brand": "API",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "API EQ 회로와 비례 Q·밴드 동작 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/009_BLUEGEE_API550A_550B_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-035",
+        "audio-056"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "13 Vocal 워크플로우 — 명료도와 두께감"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "11 Drums 워크플로우 — 펀치와 스냅의 상징"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass  &  Guitar 워크플로우"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass  &  Guitar 워크플로우"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-mastering",
+          "heading": "15 Mastering — API 5500 Dual EQ의 레인지 멀티플라이어"
+        }
+      ]
+    },
+    {
+      "id": "audio-010",
+      "number": "010",
+      "slug": "010-ssl-4000-e-g-eq",
+      "title": "SSL 4000 E / G EQ",
+      "brand": "SSL",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "콘솔 EQ 회로와 세대별 곡선·라우팅 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "Solid State Logic",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/outboard/010_BLUEGEE_SSL4000_EG_EQ_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-019",
+        "audio-054"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "13 Vocal (Male / Female / Rap / BGV)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "11 Drums 실전 EQ 맵  &  콘솔 사례"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass  &  Guitars"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass  &  Guitars"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "14 Piano · Synth · Strings · Brass"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "14 Piano · Synth · Strings · Brass"
+        }
+      ]
+    },
+    {
+      "id": "audio-011",
+      "number": "011",
+      "slug": "011-emt-140-plate-reverb",
+      "title": "EMT 140 Plate Reverb",
+      "brand": "EMT",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Reverb",
+      "equipmentType": "Reverb",
+      "description": "플레이트 잔향 구조와 공간감을 실전 비교",
+      "keywords": [
+        "리버브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "피아노",
+        "piano",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/011_BLUEGEE_EMT140_PLATE_REVERB_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "v4-start",
+          "heading": "EMT 140 · Plate Reverb 금속판의 밀도와, 보컬 앞뒤의 간격을 따로 듣다."
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Snare · Drums"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar · Keys"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "그랜드 피아노  &  빈티지 신스 제안 시작점"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-history",
+          "heading": "EMT 창립자와 독일 방송기술 연구소의 협력 OFFICIAL / EMT-ENDORSED"
+        }
+      ]
+    },
+    {
+      "id": "audio-012",
+      "number": "012",
+      "slug": "012-lexicon-224",
+      "title": "Lexicon 224",
+      "brand": "Lexicon",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Reverb",
+      "equipmentType": "Reverb",
+      "description": "디지털 잔향 구조와 프로그램 운용 비교",
+      "keywords": [
+        "리버브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/012_BLUEGEE_LEXICON224_DIGITAL_REVERB_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal 실전 마스터 레시피 (5 Editorial Starting-Point Recipes)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums 실전 마스터 (Snare, Toms, Drum Room, Percussion, Parallel Gated FX)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar · Piano · Synth 마스터 가이드"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-controls",
+          "heading": "Bass (Bass Reverb Time)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar · Piano · Synth 마스터 가이드"
+        }
+      ]
+    },
+    {
+      "id": "audio-013",
+      "number": "013",
+      "slug": "013-roland-re-201-space-echo",
+      "title": "Roland RE-201 Space Echo",
+      "brand": "Roland",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Delay",
+      "equipmentType": "Delay",
+      "description": "테이프 에코 구조와 반복·잔향을 실전 비교",
+      "keywords": [
+        "딜레이",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/013_BLUEGEE_ROLAND_RE201_SPACE_ECHO_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal 실전 레시피  제안 시작점"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-dub",
+          "heading": "Dub Snare Rimshot Explosion"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar 실전 레시피  제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-tone",
+          "heading": "Bass · Treble Tone Shaping"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "Warm Vintage Rhodes Electric Piano"
+        }
+      ]
+    },
+    {
+      "id": "audio-014",
+      "number": "014",
+      "slug": "014-studer-a800",
+      "title": "Studer A800",
+      "brand": "Studer",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Tape",
+      "equipmentType": "Tape",
+      "description": "멀티트랙 테이프 구조와 캘리브레이션 비교",
+      "keywords": [
+        "테이프",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus"
+      ],
+      "htmlPath": "guides/outboard/014_BLUEGEE_STUDER_A800_TAPE_MACHINE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "14 Vocal · Guitar · Instruments Tracking Recipes (7 Core Profiles)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "13 Drums  &  Bass Tracking Recipes (5 Core Profiles)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "14 Vocal · Guitar · Instruments Tracking Recipes (7 Core Profiles)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "13 Drums  &  Bass Tracking Recipes (5 Core Profiles)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "10. Grand Piano"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-mixbus",
+          "heading": "15 Modern Mix Bus Application (4 Master Styles)"
+        }
+      ]
+    },
+    {
+      "id": "audio-015",
+      "number": "015",
+      "slug": "015-ampex-atr-102",
+      "title": "Ampex ATR-102",
+      "brand": "Ampex",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Tape",
+      "equipmentType": "Tape",
+      "description": "마스터 테이프 구조와 속도·헤드룸 비교",
+      "keywords": [
+        "테이프",
+        "드럼",
+        "drums",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/015_BLUEGEE_AMPEX_ATR102_MASTERING_TAPE_RECORDER_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-mastering",
+          "heading": "3. Rock / Punch Energy (스네어 어택 라운딩과 펀치)"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-mixbus",
+          "heading": "13 Mix Bus vs Mastering Chains  제안 시작점"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "bluegee-v3-lab",
+          "heading": "Ampex ATR-102 — 마스터링 테이프 판단"
+        }
+      ]
+    },
+    {
+      "id": "audio-016",
+      "number": "016",
+      "slug": "016-neve-33609",
+      "title": "Neve 33609",
+      "brand": "Neve",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "다이오드 브리지 회로와 버스 압축 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "니브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/016_BLUEGEE_NEVE_33609_COMPRESSOR_LIMITER_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal · Keys Recipes  4 Pro Setups"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-timing",
+          "heading": "어택 시간에 따른 드럼 트랜지언트 반응"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass · Guitar Recipes  4 Pro Setups"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass · Guitar Recipes  4 Pro Setups"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "3. Acoustic Grand Piano Stem"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "Mix Bus Mastery  5 Definitive Setups"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "4. Gentle Mastering Sub-Bus"
+        }
+      ]
+    },
+    {
+      "id": "audio-017",
+      "number": "017",
+      "slug": "017-manley-variable-mu",
+      "title": "Manley Variable Mu",
+      "brand": "Manley",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "튜브 가변 뮤 회로와 압축 운용을 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/017_BLUEGEE_MANLEY_VARIABLE_MU_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-058"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Processing Recipes (최소 4종)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums  &  Keys Recipes (최소 4종)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes (최소 4종)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes (최소 4종)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "3. Grand Piano Dynamic Control (콘서트 그랜드 피아노 울림)"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-stereo",
+          "heading": "1. Stereo Link (마스터링 및 믹스 버스 기본)"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-stereo",
+          "heading": "1. Stereo Link (마스터링 및 믹스 버스 기본)"
+        }
+      ]
+    },
+    {
+      "id": "audio-018",
+      "number": "018",
+      "slug": "018-chandler-tg1",
+      "title": "Chandler TG1",
+      "brand": "Chandler Limited",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "다이오드 감쇠 회로와 리미팅 운용을 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/018_BLUEGEE_CHANDLER_TG1_LIMITER_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal  &  Keys Recipes  최소 4대 보컬/건반 스타팅 포인트"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Master Recipes  최소 5대 핵심 드럼 프로덕션 스타팅 포인트"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes  최소 4대 악기별 스타팅 포인트"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes  최소 4대 악기별 스타팅 포인트"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "3. Rock / Pop Grand Piano (비틀즈 스타일 피아노)"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "Mix Bus Master Strategies  최소 5대 마스터 버스 운용 전략"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "v4-evidence",
+          "heading": "Waves · Abbey Road TG Mastering Chain Manual"
+        }
+      ]
+    },
+    {
+      "id": "audio-019",
+      "number": "019",
+      "slug": "019-ssl-e-series-channel-strip",
+      "title": "SSL E-Series Channel Strip",
+      "brand": "SSL",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Channel Strip",
+      "equipmentType": "Channel Strip",
+      "description": "채널 EQ·다이내믹스와 라우팅을 실전 비교",
+      "keywords": [
+        "채널스트립",
+        "Solid State Logic",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/019_BLUEGEE_SSL_E_SERIES_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-010",
+        "audio-054"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "보컬  &  건반 레시피 (Vocal  &  Keys Practical Recipes) 제안 시작점 (5 RECIPES)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼 믹싱 레시피 (Drums Practical Recipes) 제안 시작점 (8 RECIPES)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "베이스  &  기타 레시피 (Bass  &  Guitar Practical Recipes) 제안 시작점 (5 RECIPES)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "베이스  &  기타 레시피 (Bass  &  Guitar Practical Recipes) 제안 시작점 (5 RECIPES)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "3. Grand Piano (Pop Mix Polish)"
+        }
+      ]
+    },
+    {
+      "id": "audio-020",
+      "number": "020",
+      "slug": "020-api-512c-312",
+      "title": "API 512c / 312",
+      "brand": "API",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp",
+      "equipmentType": "Preamp",
+      "description": "프리앰프 회로와 입력·출력 게인 운용 비교",
+      "keywords": [
+        "프리앰프",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/020_BLUEGEE_API_512C_312_PREAMP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal · Keys Recipes (최소 5개 정밀 레시피)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Tracking Recipes (최소 7개 정밀 레시피)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar Tracking Recipes (최소 5개 정밀 레시피)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass Tracking Recipes (최소 4개 정밀 레시피)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "4. Acoustic Grand Piano (Stereo Pair)"
+        }
+      ]
+    },
+    {
+      "id": "audio-021",
+      "number": "021",
+      "slug": "021-empirical-labs-distressor-el8-el8-x",
+      "title": "Empirical Labs Distressor EL8 / EL8-X",
+      "brand": "Empirical Labs",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "압축·검출 회로와 왜곡 모드를 실전 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/021_BLUEGEE_EMPIRICAL_LABS_DISTRESSOR_EL8_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-057"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "14 Vocal Recipes (최소 5개 실전 세팅)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "12 Drums Recipes (최소 8개 실전 세팅)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "15 Guitar  &  Keys Recipes (최소 5개 실전 세팅)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "13 Bass Recipes (최소 4개 실전 세팅)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Grand Piano Dynamic Leveler"
+        }
+      ]
+    },
+    {
+      "id": "audio-022",
+      "number": "022",
+      "slug": "022-tube-tech-cl-1b",
+      "title": "Tube-Tech CL 1B",
+      "brand": "Tube-Tech",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "튜브 광학 압축 회로와 보컬 레벨링 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus"
+      ],
+      "htmlPath": "guides/outboard/022_BLUEGEE_TUBE_TECH_CL1B_OPTO_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Recipes  전 세계 탑 엔지니어들의 보컬 컴프레션 6선 공식"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Recipes  공식 매뉴얼 권장값과 모던 드럼 버스 테크닉 5선"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "Guitar · Keys Recipes  어쿠스틱, 일렉트릭, 그랜드 피아노, 빈티지 건반 5선"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass Recipes  DI 베이스부터 808 서브까지 완벽한 로우엔드 앵커 4선"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "Guitar · Keys Recipes  어쿠스틱, 일렉트릭, 그랜드 피아노, 빈티지 건반 5선"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-chains",
+          "heading": "Mix Bus Gentle Opto Glue Chain"
+        }
+      ]
+    },
+    {
+      "id": "audio-023",
+      "number": "023",
+      "slug": "023-neve-2254-2264",
+      "title": "Neve 2254 / 2264",
+      "brand": "Neve",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "다이오드 브리지 회로와 모델별 압축 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "니브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/023_BLUEGEE_NEVE_2254_2264_DIODE_BRIDGE_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal  &  Keys Recipes (5선)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Master Recipes (7선)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes (5선)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes (5선)  제안 시작점"
+        }
+      ]
+    },
+    {
+      "id": "audio-024",
+      "number": "024",
+      "slug": "024-shadow-hills-mastering-compressor",
+      "title": "Shadow Hills Mastering Compressor",
+      "brand": "Shadow Hills",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "광학·VCA 압축과 트랜스포머 운용 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/024_BLUEGEE_SHADOW_HILLS_MASTERING_COMPRESSOR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Applications (보컬 체인 4종 가이드)\n     \n OFFICIAL / PLUGIN ALLIANCE-BRAINWORX"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Applications (드럼 버스  &  트랙 5종 레시피)\n     \n 제안 시작점"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Applications (베이스·기타 5종)\n     \n HARDWARE MANUAL"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Applications (베이스·기타 5종)\n     \n HARDWARE MANUAL"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-overview",
+          "heading": "SHADOW HILLS MASTERING COMPRESSOR MASTER GUIDE"
+        }
+      ]
+    },
+    {
+      "id": "audio-025",
+      "number": "025",
+      "slug": "025-spl-transient-designer",
+      "title": "SPL Transient Designer",
+      "brand": "SPL",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Transient",
+      "equipmentType": "Transient",
+      "description": "엔벌로프 처리 구조와 어택·서스테인 비교",
+      "keywords": [
+        "트랜지언트",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/025_BLUEGEE_SPL_TRANSIENT_DESIGNER_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "14 Vocal  &  Keys Recipes (6 Master Settings)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "11 Drums Recipes (10 Master Settings)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "13 Guitar Recipes (6 Master Settings)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass Recipes (4 Master Settings)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Piano Hammer Strike (피아노 해머 타격감 돌출)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Spoken / Rap Presence (랩/내레이션 발음 전달력)"
+        }
+      ]
+    },
+    {
+      "id": "audio-026",
+      "number": "026",
+      "slug": "026-eventide-h3000",
+      "title": "Eventide H3000",
+      "brand": "Eventide",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Harmonizer",
+      "equipmentType": "Harmonizer",
+      "description": "피치·딜레이 알고리즘과 공간계 운용 비교",
+      "keywords": [
+        "하모나이저",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar"
+      ],
+      "htmlPath": "guides/outboard/026_BLUEGEE_EVENTIDE_H3000_ULTRA_HARMONIZER_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-delay",
+          "heading": "6. Ducked Vocal Echo Throw"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-reverb",
+          "heading": "Preset #206: Big Snare"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar (기타 8대 공식  &  실전 레시피)"
+        }
+      ]
+    },
+    {
+      "id": "audio-027",
+      "number": "027",
+      "slug": "027-eventide-h910-h949",
+      "title": "Eventide H910 / H949",
+      "brand": "Eventide",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Harmonizer",
+      "equipmentType": "Harmonizer",
+      "description": "피치 변조 구조와 모델별 하모나이징 비교",
+      "keywords": [
+        "하모나이저",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar"
+      ],
+      "htmlPath": "guides/outboard/027_BLUEGEE_EVENTIDE_H910_H949_HARMONIZER_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "보컬 마스터 레시피 (Vocal Master Recipes - 6선)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼  &  타악기 마스터 레시피 (Drums - 5선)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "기타 마스터 레시피 (Guitar Master Recipes - 8선)"
+        }
+      ]
+    },
+    {
+      "id": "audio-028",
+      "number": "028",
+      "slug": "028-ams-rmx16",
+      "title": "AMS RMX16",
+      "brand": "AMS",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Reverb",
+      "equipmentType": "Reverb",
+      "description": "디지털 잔향 알고리즘과 게이트 공간감 비교",
+      "keywords": [
+        "리버브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar"
+      ],
+      "htmlPath": "guides/outboard/028_BLUEGEE_AMS_RMX16_DIGITAL_REVERB_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Master Recipes (7종)  제안 시작점S"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-nonlin",
+          "heading": "스네어 드럼 실전 운용 기법"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar  &  Keys Recipes (6종)  제안 시작점S"
+        }
+      ]
+    },
+    {
+      "id": "audio-029",
+      "number": "029",
+      "slug": "029-teletronix-urei-la-3a",
+      "title": "Teletronix / UREI LA-3A",
+      "brand": "Teletronix / UREI",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "솔리드스테이트 광학 압축과 소스별 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "Teletronix",
+        "UREI",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "마스터링",
+        "mastering",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/029_BLUEGEE_TELETRONIX_UREI_LA3A_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-hf",
+          "heading": "2. 스튜디오 보컬 활용: 유기적 디에서 (De-Esser)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-hf",
+          "heading": "3. 킥 / 베이스 보호: 저역 펌핑 방지"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "기타 실전 레시피 6선  OFFICIAL UA  &"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-hf",
+          "heading": "3. 킥 / 베이스 보호: 저역 펌핑 방지"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-chains",
+          "heading": "1176 → LA-3A Two-Stage Mastering Chain"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-hf",
+          "heading": "1. 역사적 기원: FM 방송 프리엠퍼시스 보호"
+        }
+      ]
+    },
+    {
+      "id": "audio-030",
+      "number": "030",
+      "slug": "030-avalon-vt-737sp",
+      "title": "Avalon VT-737SP",
+      "brand": "Avalon",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Channel Strip",
+      "equipmentType": "Channel Strip",
+      "description": "튜브 프리앰프·광학 압축·EQ 운용 비교",
+      "keywords": [
+        "채널스트립",
+        "보컬",
+        "vocal",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/030_BLUEGEE_AVALON_VT737SP_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "panel-overview",
+          "heading": "Pop  &  R & B 보컬의 독보적 스탠다드"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "panel-acoustic",
+          "heading": "5개 기타  &  어쿠스틱 악기 레시피"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "panel-bass",
+          "heading": "6개 베이스 DI  &  앰프 레시피"
+        }
+      ]
+    },
+    {
+      "id": "audio-031",
+      "number": "031",
+      "slug": "031-manley-massive-passive",
+      "title": "Manley Massive Passive",
+      "brand": "Manley",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "패시브 EQ 회로와 밴드 상호작용 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/031_BLUEGEE_MANLEY_MASSIVE_PASSIVE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-master",
+          "heading": "Vocal Presence  &  Front-to-Back Projection"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Kick Drum Sub Weight  &  Beater Snap"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass Guitar DI Warmth  &  Articulation"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass Guitar DI Warmth  &  Articulation"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Grand Piano Tonal Richness  &  Clarity"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "v4-start",
+          "heading": "03. Standard와 Mastering의 필터를 분리"
+        }
+      ]
+    },
+    {
+      "id": "audio-032",
+      "number": "032",
+      "slug": "032-neve-1084",
+      "title": "Neve 1084",
+      "brand": "Neve",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp / EQ",
+      "equipmentType": "Preamp / EQ",
+      "description": "프리앰프·EQ 회로와 필터·대역 운용 비교",
+      "keywords": [
+        "프리앰프",
+        "이퀄라이저",
+        "니브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/outboard/032_BLUEGEE_NEVE_1084_PREAMP_EQ_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-008",
+        "audio-033",
+        "audio-053"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal Recipes (최소 7개 실전 레시피)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Recipes (최소 8개 실전 레시피)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes (최소 7개 실전 레시피)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass  &  Guitar Recipes (최소 7개 실전 레시피)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "1. Grand Piano (오케스트라/팝 피아노)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "5. Brass / Horn Section (호방한 브라스 펀치)"
+        }
+      ]
+    },
+    {
+      "id": "audio-033",
+      "number": "033",
+      "slug": "033-neve-1081",
+      "title": "Neve 1081",
+      "brand": "Neve",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp / EQ",
+      "equipmentType": "Preamp / EQ",
+      "description": "프리앰프·EQ 회로와 모델 계보를 비교",
+      "keywords": [
+        "프리앰프",
+        "이퀄라이저",
+        "니브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/033_BLUEGEE_NEVE_1081_PREAMP_EQ_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-008",
+        "audio-032",
+        "audio-053"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "12 Vocal Production Recipes (7종)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "13 Drum Tracking  &  Mixing Recipes (8종)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "bass",
+          "heading": "14 Bass  &  Guitar Recipes (7종)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "bass",
+          "heading": "14 Bass  &  Guitar Recipes (7종)  제안 시작점"
+        }
+      ]
+    },
+    {
+      "id": "audio-034",
+      "number": "034",
+      "slug": "034-api-3124-3124-3124v",
+      "title": "API 3124 / 3124+ / 3124V",
+      "brand": "API",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp",
+      "equipmentType": "Preamp",
+      "description": "멀티채널 프리앰프 구조와 게인 운용 비교",
+      "keywords": [
+        "프리앰프",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/034_BLUEGEE_API_3124_3124PLUS_MIC_PREAMP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Vocal · Keys Tracking Guide (최소 6대 핵심 소스)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Drums Tracking Presets (최소 10개 소스 완벽 가이드)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Guitar Tracking Guide (최소 7대 핵심 소스)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Bass Tracking Guide (최소 5대 핵심 소스)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "5. Grand Piano (Spaced Pair / ORTF)"
+        }
+      ]
+    },
+    {
+      "id": "audio-035",
+      "number": "035",
+      "slug": "035-api-560",
+      "title": "API 560",
+      "brand": "API",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "그래픽 EQ 회로와 비례 Q·대역 운용 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/035_BLUEGEE_API_560_GRAPHIC_EQ_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-009",
+        "audio-056"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "보컬 실전 레시피 7선 (Vocal Presence  &  Air)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "드럼 실전 레시피 10선 (Drums Master Recipes)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "일렉트릭·어쿠스틱 기타 레시피 7선 (Guitar Carving)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "베이스 실전 레시피 6선 (Bass Tone Shaping)"
+        }
+      ]
+    },
+    {
+      "id": "audio-036",
+      "number": "036",
+      "slug": "036-chandler-curve-bender",
+      "title": "Chandler Curve Bender",
+      "brand": "Chandler Limited",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "마스터링 EQ 회로와 곡선·대역 운용 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "베이스",
+        "bass",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/036_BLUEGEE_CHANDLER_CURVE_BENDER_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "v4-start",
+          "heading": "06. M/S는 보컬과 악기의 자동 분리가 아님"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "14 Drums Recipes (드럼 버스  &  개별 트랙 6종) 제안 시작점"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-shelf",
+          "heading": "Bass Band: Bell vs Shelf"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-mixbus",
+          "heading": "13 Mix Bus Recipes (장르별 믹스 버스 6종) 제안 시작점"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-master",
+          "heading": "12 Mastering Recipes (마스터링 실전 레시피 8종) 제안 시작점"
+        }
+      ]
+    },
+    {
+      "id": "audio-037",
+      "number": "037",
+      "slug": "037-universal-audio-610-2-610",
+      "title": "Universal Audio 610 / 2-610",
+      "brand": "Universal Audio",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp",
+      "equipmentType": "Preamp",
+      "description": "튜브 프리앰프 회로와 임피던스·게인 비교",
+      "keywords": [
+        "프리앰프",
+        "UA",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/037_BLUEGEE_UNIVERSAL_AUDIO_610_2-610_TUBE_PREAMP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "Modern Pop Lead Vocal (Clean  &  Present)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "Punchy Tube Kick Drum (D112 / Beta 52A)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "Classic Electric Guitar Amp (SM57)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "Direct Tube DI Bass (Motown Fat Tone)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "Grand Piano Classical / Jazz (Stereo Pair)"
+        }
+      ]
+    },
+    {
+      "id": "audio-038",
+      "number": "038",
+      "slug": "038-universal-audio-6176",
+      "title": "Universal Audio 6176",
+      "brand": "Universal Audio",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Channel Strip",
+      "equipmentType": "Channel Strip",
+      "description": "튜브 프리앰프·FET 압축과 연결 운용 비교",
+      "keywords": [
+        "채널스트립",
+        "UA",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/038_BLUEGEE_UNIVERSAL_AUDIO_6176_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "11 Vocal Tracking Master Recipes (8선)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "14 Drums Tracking Recipes (7선)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "13 Guitar Tracking Recipes (6선)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass Tracking Recipes (6선)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "Acoustic Grand Piano"
+        }
+      ]
+    },
+    {
+      "id": "audio-039",
+      "number": "039",
+      "slug": "039-1176-revision-guide",
+      "title": "1176 Revision Guide",
+      "brand": "UREI / Universal Audio",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "FET 압축 회로와 리비전 계보를 실전 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "UREI",
+        "Universal Audio",
+        "UA"
+      ],
+      "htmlPath": "guides/outboard/039_BLUEGEE_1176_REVISION_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-003",
+        "audio-051"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": []
+    },
+    {
+      "id": "audio-040",
+      "number": "040",
+      "slug": "040-avalon-u5",
+      "title": "Avalon U5",
+      "brand": "Avalon",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "DI",
+      "equipmentType": "DI",
+      "description": "DI 회로와 입력 헤드룸·톤 선택을 비교",
+      "keywords": [
+        "DI",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/outboard/040_BLUEGEE_AVALON_U5_DI_PREAMP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-acoustic",
+          "heading": "1. Piezo Acoustic Guitar (Quack Elimination)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "11 Bass Studio Recipes (10선)  제안 시작점S"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-keys",
+          "heading": "5. Digital Stage Piano (Nord Piano / Yamaha CP)"
+        }
+      ]
+    },
+    {
+      "id": "audio-041",
+      "number": "041",
+      "slug": "041-manley-voxbox",
+      "title": "Manley VOXBOX",
+      "brand": "Manley",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Channel Strip",
+      "equipmentType": "Channel Strip",
+      "description": "튜브 채널 회로와 압축·EQ·디에서 비교",
+      "keywords": [
+        "채널스트립",
+        "보컬",
+        "vocal",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/041_BLUEGEE_MANLEY_VOXBOX_CHANNEL_STRIP_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-signal",
+          "heading": "1. 일반 직렬 연결 모드 (Chained Vocal Strip)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-acoustic",
+          "heading": "01. Fingerstyle Acoustic Guitar"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass Recipes (베이스 6대 실전 레시피)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-acoustic",
+          "heading": "02. Grand Piano (Mono/Stereo)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "10. Dynamic Broadcast / Voiceover (Radio Ready)"
+        }
+      ]
+    },
+    {
+      "id": "audio-042",
+      "number": "042",
+      "slug": "042-thermionic-culture-vulture",
+      "title": "Thermionic Culture Vulture",
+      "brand": "Thermionic Culture",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Saturation",
+      "equipmentType": "Saturation",
+      "description": "튜브 왜곡 회로와 바이어스·드라이브 비교",
+      "keywords": [
+        "새츄레이션",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/042_BLUEGEE_THERMIONIC_CULTURE_VULTURE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "14 Vocal 실전 레시피 (7 Recipes)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "11 Drums 실전 레시피 (10 Recipes)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "13 Guitar 실전 레시피 (7 Recipes)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass 실전 레시피 (7 Recipes)"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "32. Mastering Mix Bus Gentle Density  &  Depth"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "32. Mastering Mix Bus Gentle Density  &  Depth"
+        }
+      ]
+    },
+    {
+      "id": "audio-043",
+      "number": "043",
+      "slug": "043-empirical-labs-fatso-el7-el7x",
+      "title": "Empirical Labs FATSO EL7 / EL7X",
+      "brand": "Empirical Labs",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Saturation",
+      "equipmentType": "Saturation",
+      "description": "아날로그 색채 회로와 압축·워밍 운용 비교",
+      "keywords": [
+        "새츄레이션",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/043_BLUEGEE_EMPIRICAL_LABS_FATSO_EL7_EL7X_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "13 Vocal Master Recipes (7 Presets)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-drums",
+          "heading": "11 Drums Master Recipes (10 Presets)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "14 Guitar  &  Keys Recipes (8 Presets)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-bass",
+          "heading": "12 Bass Master Recipes (7 Presets)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "06. Grand Piano Harmonic Body"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "02. Modern Rock Mix Bus Aggression"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-bus",
+          "heading": "06. Broadcast  &  Podcasting Speech"
+        }
+      ]
+    },
+    {
+      "id": "audio-044",
+      "number": "044",
+      "slug": "044-focusrite-isa-110-isa-430",
+      "title": "Focusrite ISA 110 / ISA 430",
+      "brand": "Focusrite",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Preamp / Channel Strip",
+      "equipmentType": "Preamp / Channel Strip",
+      "description": "프리앰프·채널 회로와 모델별 라우팅 비교",
+      "keywords": [
+        "프리앰프",
+        "채널스트립",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/044_BLUEGEE_FOCUSRITE_ISA110_ISA430_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "routing",
+          "heading": "01. 보컬: 원본과 처리 결과 동시 보존"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "14 Drum Master Recipes (10가지 드럼 트래킹 세팅)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "bassgtr",
+          "heading": "15 Bass · Guitar Master Recipes (8가지 베이스/기타 레시피)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "bassgtr",
+          "heading": "15 Bass · Guitar Master Recipes (8가지 베이스/기타 레시피)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "vocal",
+          "heading": "06. Voiceover  &  Podcast Master (방송/성우 나레이션)"
+        }
+      ]
+    },
+    {
+      "id": "audio-045",
+      "number": "045",
+      "slug": "045-drawmer-1960",
+      "title": "Drawmer 1960",
+      "brand": "Drawmer",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "하이브리드 압축·프리앰프와 채널 운용 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/outboard/045_BLUEGEE_DRAWMER_1960_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal Master Recipes (10 Selections)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "acoustic",
+          "heading": "04. Drum Overheads (Spaced Pair)  제안 시작점"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "13 Guitar Master Recipes (8 Selections)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "eq",
+          "heading": "Aux Bass·Treble·Bright 의 실제 의미"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "acoustic",
+          "heading": "03. Grand Piano ORTF Stereo  제안 시작점"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "bus",
+          "heading": "05. Analog Summing Mix Bus Finish  제안 시작점"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "vocal",
+          "heading": "07. Broadcast Spoken Word / Podcast  제안 시작점"
+        }
+      ]
+    },
+    {
+      "id": "audio-046",
+      "number": "046",
+      "slug": "046-trident-a-range",
+      "title": "Trident A-Range",
+      "brand": "Trident",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "콘솔 EQ 회로와 대역·게인 운용을 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "믹스 버스",
+        "mix bus"
+      ],
+      "htmlPath": "guides/outboard/046_BLUEGEE_TRIDENT_A_RANGE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-14",
+          "heading": "14 Vocal (8 가지 실전 보컬 레시피)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-11",
+          "heading": "11 Drums (10 가지 실전 드럼 레시피)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-13",
+          "heading": "13 Guitar (10 가지 실전 기타 레시피)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-12",
+          "heading": "12 Bass (7 가지 실전 베이스 레시피)"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-15",
+          "heading": "15 Bus · Mix (8 가지 마스터 및 서브믹스 버스 레시피)"
+        }
+      ]
+    },
+    {
+      "id": "audio-047",
+      "number": "047",
+      "slug": "047-helios-type-69",
+      "title": "Helios Type 69",
+      "brand": "Helios",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "콘솔 EQ 회로와 대역별 곡선을 실전 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/outboard/047_BLUEGEE_HELIOS_TYPE69_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-15",
+          "heading": "15 Vocal·Bus: 보컬 8선  &  버스 6선 레시피 (제안 시작점)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-12",
+          "heading": "12 Drums: 드럼 소스 10선 레시피 (제안 시작점)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-13",
+          "heading": "13 Guitar: 기타 소스 10선 레시피 (제안 시작점)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "v4-start",
+          "heading": "03. Bass 삽입 게인의 과도한 단정 제거"
+        }
+      ]
+    },
+    {
+      "id": "audio-048",
+      "number": "048",
+      "slug": "048-summit-audio-tla-100a",
+      "title": "Summit Audio TLA-100A",
+      "brand": "Summit Audio",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "하이브리드 압축 회로와 레벨링 운용 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/048_BLUEGEE_SUMMIT_AUDIO_TLA100A_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11. 보컬 레시피 (Vocal Recipes — 10 Starting Points)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "13. 드럼 레시피 (Drums Recipes — 8 Starting Points)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "14. 기타·키보드 레시피 (Guitar  &  Keys Recipes — 8 Starting Points)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "bass",
+          "heading": "12. 베이스 레시피 (Bass Recipes — 8 Starting Points)"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "chains",
+          "heading": "Stereo TLA Pair → Digital Peak Limiter (Mastering / Bus Finishing)"
+        }
+      ]
+    },
+    {
+      "id": "audio-049",
+      "number": "049",
+      "slug": "049-gml-8200",
+      "title": "GML 8200",
+      "brand": "GML",
+      "series": "classic-studio-gear",
+      "category": "outboard",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "파라메트릭 EQ 회로와 Q·대역 운용 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/outboard/049_BLUEGEE_GML_8200_PARAMETRIC_EQ_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal Master Recipes (10 Sets)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "12 Drums Master Recipes (10 Sets)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "14 Guitar  &  Keys Master Recipes (8 Sets)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "bass",
+          "heading": "13 Bass Master Recipes (8 Sets)"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "bus",
+          "heading": "15 Bus  &  Mastering Master Recipes (10 Sets)"
+        }
+      ]
+    },
+    {
+      "id": "audio-050",
+      "number": "050",
+      "slug": "050-neumann-u-47",
+      "title": "Neumann U 47",
+      "brand": "Neumann",
+      "series": "classic-studio-gear",
+      "category": "microphone",
+      "subcategory": "Tube Condenser",
+      "equipmentType": "Tube Condenser",
+      "description": "튜브·캡슐 계보와 거리·패턴 운용을 비교",
+      "keywords": [
+        "진공관",
+        "튜브",
+        "콘덴서",
+        "노이만",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-068"
+      ],
+      "bundleIds": [
+        "classic-50-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal Deep Dive: 10 Core Production Scenarios"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "15 Drums  &  Room Ambience"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "acoustic",
+          "heading": "12 Acoustic Instruments (Guitar, Piano, Strings)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "vocal",
+          "heading": "Male Deep Baritone / Bass Voice"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "acoustic",
+          "heading": "12 Acoustic Instruments (Guitar, Piano, Strings)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "bass",
+          "heading": "14 Bass  &  Brass Instruments"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "myths",
+          "heading": "❌ MYTH #17: The VF14 was an ordinary radio tube pulled directly off a broadcast assembly line without inspection."
+        }
+      ]
+    },
+    {
+      "id": "audio-051",
+      "number": "051",
+      "slug": "051-1176-revision-war",
+      "title": "1176 Revision War",
+      "brand": "UREI / Universal Audio",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "리비전별 FET 회로·입출력단을 심층 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "UREI",
+        "Universal Audio",
+        "UA",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/deep-dive/051_BLUEGEE_1176_REVISION_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-003",
+        "audio-039"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "sources",
+          "heading": "🎙️ 1. Lead Vocal (모던 팝 / 발라드) D"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "sources",
+          "heading": "🥁 5. Snare Top / Snare Bottom D"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "sources",
+          "heading": "🎸 9. Electric Guitar (Clean Funk / Heavy Riff) D"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "sources",
+          "heading": "🎸 4. Electric Bass (Finger / Pick) D"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "sources",
+          "heading": "🎹 11. Analog Synth / Electric Piano (Rhodes) D"
+        }
+      ]
+    },
+    {
+      "id": "audio-052",
+      "number": "052",
+      "slug": "052-la-2a-revision-war",
+      "title": "LA-2A Revision War",
+      "brand": "Teletronix",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "리비전별 광학 압축 회로·반응을 심층 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal"
+      ],
+      "htmlPath": "guides/deep-dive/052_BLUEGEE_LA2A_REVISION_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-002"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-19",
+          "heading": "MYTH 14: 어택이 10ms로 느리기 때문에 빠른 보컬 피크를 잡지 못한다."
+        }
+      ]
+    },
+    {
+      "id": "audio-053",
+      "number": "053",
+      "slug": "053-neve-family-war",
+      "title": "Neve Family War",
+      "brand": "Neve",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Preamp / EQ",
+      "equipmentType": "Preamp / EQ",
+      "description": "Neve 프리앰프·EQ 계보와 회로를 심층 비교",
+      "keywords": [
+        "프리앰프",
+        "이퀄라이저",
+        "니브",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "베이스",
+        "bass"
+      ],
+      "htmlPath": "guides/deep-dive/053_BLUEGEE_NEVE_FAMILY_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-008",
+        "audio-032",
+        "audio-033"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-19",
+          "heading": "08. 신화: 보컬 녹음에는 무조건 1073이 최고다."
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-19",
+          "heading": "09. 신화: 1081은 드럼 전용 모듈이다."
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-17",
+          "heading": "17 Engineer  &  Session Cases (16선 검증 데이터베이스)"
+        }
+      ]
+    },
+    {
+      "id": "audio-054",
+      "number": "054",
+      "slug": "054-ssl-eq-war",
+      "title": "SSL EQ War",
+      "brand": "SSL",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "SSL 세대별 EQ 회로와 곡선을 심층 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "Solid State Logic",
+        "보컬",
+        "vocal",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/deep-dive/054_BLUEGEE_SSL_EQ_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-010",
+        "audio-019"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "orange",
+          "heading": "왜 보컬과 피아노에서 특별한가?"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "orange",
+          "heading": "왜 보컬과 피아노에서 특별한가?"
+        }
+      ]
+    },
+    {
+      "id": "audio-055",
+      "number": "055",
+      "slug": "055-pultec-family-deep-dive",
+      "title": "Pultec Family Deep Dive",
+      "brand": "Pultec",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "패시브 EQ 계열 회로와 필터를 심층 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/deep-dive/055_BLUEGEE_PULTEC_FAMILY_DEEP_DIVE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-001"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "chains",
+          "heading": "The Motown Vocal Presence Engine"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "chains",
+          "heading": "The Vintage Snare Drum Thickener"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "chains",
+          "heading": "The Dense Rock Rhythm Guitar Wall"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "chains",
+          "heading": "The Sub-Bass  &  808 Foundation Chain"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "chains",
+          "heading": "The Acoustic Grand Piano Dimensionalizer"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "chains",
+          "heading": "Brauerize Stereo Mix Bus Polish"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "chains",
+          "heading": "Mid/Side Stereo Mastering Polish (Plugin-Only)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "chains",
+          "heading": "Broadcast Lead Vocal Channel Strip"
+        }
+      ]
+    },
+    {
+      "id": "audio-056",
+      "number": "056",
+      "slug": "056-api-eq-war",
+      "title": "API EQ War",
+      "brand": "API",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "EQ",
+      "equipmentType": "EQ",
+      "description": "API EQ 계열 회로와 밴드 동작을 심층 비교",
+      "keywords": [
+        "이퀄라이저",
+        "equalizer",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/deep-dive/056_BLUEGEE_API_EQ_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-009",
+        "audio-035"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-16",
+          "heading": "Lead Vocal (Pop/R & B)  [Vocals]"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-15",
+          "heading": "Chain 3: Drum Bus → API 560 (Pair) → API 2500 Bus Comp  CONF A"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-16",
+          "heading": "Bass Guitar (DI)  [Bass]"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-16",
+          "heading": "Bass Guitar (DI)  [Bass]"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-16",
+          "heading": "Acoustic Grand Piano  [Keys/Synth]"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "tab-15",
+          "heading": "Chain 4: Stereo Mix Bus → API 5500 (0.25x Mode) → Master  CONF A"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "tab-07",
+          "heading": "3. 5500 1U 마스터링 랙"
+        }
+      ]
+    },
+    {
+      "id": "audio-057",
+      "number": "057",
+      "slug": "057-distressor-deep-dive",
+      "title": "Distressor Deep Dive",
+      "brand": "Empirical Labs",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "검출·왜곡 모드와 모델 계보를 심층 비교",
+      "keywords": [
+        "컴프레서",
+        "압축"
+      ],
+      "htmlPath": "guides/deep-dive/057_BLUEGEE_DISTRESSOR_DEEP_DIVE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-021"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": []
+    },
+    {
+      "id": "audio-058",
+      "number": "058",
+      "slug": "058-manley-variable-mu-deep-dive",
+      "title": "Manley Variable Mu Deep Dive",
+      "brand": "Manley",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "가변 뮤 튜브·개정 회로와 운용을 심층 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/deep-dive/058_BLUEGEE_MANLEY_VARIABLE_MU_DEEP_DIVE_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-017"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "sources",
+          "heading": "03. Lead Vocal Bus (보컬 서브믹스)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "sources",
+          "heading": "04. Drum Room / Overhead Crush"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "sources",
+          "heading": "05. Bass Guitar (Tube DI / Amp Bus)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "sidechain",
+          "heading": "11. Sidechain  &  HP Filtering  서브베이스 펌핑의 완벽한 통제"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "sources",
+          "heading": "06. Acoustic Grand Piano"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "sources",
+          "heading": "01. Stereo Mix Bus (Master Bus)"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "v4-start",
+          "heading": "05. Mastering·M/S는 특정 버전의 기능"
+        }
+      ]
+    },
+    {
+      "id": "audio-059",
+      "number": "059",
+      "slug": "059-fairchild-660-670-war",
+      "title": "Fairchild 660 / 670 War",
+      "brand": "Fairchild",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "튜브 압축 회로·시간상수·채널을 심층 비교",
+      "keywords": [
+        "컴프레서",
+        "압축"
+      ],
+      "htmlPath": "guides/deep-dive/059_BLUEGEE_FAIRCHILD_660_670_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-004"
+      ],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": []
+    },
+    {
+      "id": "audio-060",
+      "number": "060",
+      "slug": "060-abbey-road-rs124-serial-war",
+      "title": "Abbey Road RS124 Serial War",
+      "brand": "EMI",
+      "series": "engineer-deep-dive",
+      "category": "deep-dive",
+      "subcategory": "Compressor",
+      "equipmentType": "Compressor",
+      "description": "시리얼별 압축 회로와 릴리스 동작을 비교",
+      "keywords": [
+        "컴프레서",
+        "압축",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "베이스",
+        "bass",
+        "믹스 버스",
+        "mix bus",
+        "마스터링",
+        "mastering"
+      ],
+      "htmlPath": "guides/deep-dive/060_BLUEGEE_ABBEY_ROAD_RS124_SERIAL_WAR_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "deep-dive-10-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "60050",
+          "heading": "Serial 60050A — The Transparent Vocal Leveler"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "myths",
+          "heading": "시리얼 60070B는 어택이 느려 드럼 스네어에는 절대 쓰면 안 된다?"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "60070",
+          "heading": "Serial 60070B — The Bass Authority"
+        },
+        {
+          "keywords": [
+            "믹스 버스",
+            "mix bus"
+          ],
+          "chapterId": "myths",
+          "heading": "1960년대 비틀즈 세션에서도 스테레오 링크로 믹스 버스에 걸었다?"
+        },
+        {
+          "keywords": [
+            "마스터링",
+            "mastering"
+          ],
+          "chapterId": "myths",
+          "heading": "RS124는 최종 마스터링/커팅 룸에서만 사용되었다?"
+        }
+      ]
+    },
+    {
+      "id": "audio-061",
+      "number": "061",
+      "slug": "061-neumann-u-67",
+      "title": "Neumann U 67",
+      "brand": "Neumann",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Tube Condenser",
+      "equipmentType": "Tube Condenser",
+      "description": "튜브 회로·지향성과 거리별 마이킹을 비교",
+      "keywords": [
+        "진공관",
+        "튜브",
+        "콘덴서",
+        "노이만",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/microphone/061_BLUEGEE_NEUMANN_U67_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "c12",
+          "heading": "12. 보컬 · 거리 먼저 정하기"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "c17",
+          "heading": "17. 드럼 · 오버헤드 · 룸"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "c15",
+          "heading": "15. 어쿠스틱 기타"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "c18",
+          "heading": "18. 기타 앰프 · 베이스"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "c16",
+          "heading": "16. 피아노 · 현악기"
+        }
+      ]
+    },
+    {
+      "id": "audio-062",
+      "number": "062",
+      "slug": "062-neumann-u-87-u-87-ai",
+      "title": "Neumann U 87 / U 87 Ai",
+      "brand": "Neumann",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "FET Condenser",
+      "equipmentType": "FET Condenser",
+      "description": "FET 회로·세대별 제원과 마이킹을 비교",
+      "keywords": [
+        "FET",
+        "콘덴서",
+        "노이만",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/062_BLUEGEE_NEUMANN_U87_U87AI_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal Placements: 마이킹 셋업과 실패 징후"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "14 Drums  &  Room Placements: 드럼 오버헤드 / 룸 / FOK"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "acoustic",
+          "heading": "Steel-String Acoustic Guitar (Solo  &  Rhythm Fingerpicking)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "guitar",
+          "heading": "13 Guitar  &  Bass Placements: 일렉 기타  &  베이스 앰프"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "piano",
+          "heading": "15 Piano  &  Strings Placements: 그랜드 피아노 / 첼로 / 바이올린 / 브라스"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "piano",
+          "heading": "15 Piano  &  Strings Placements: 그랜드 피아노 / 첼로 / 바이올린 / 브라스"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "vocal",
+          "heading": "Broadcast  &  Voiceover (Commercial / Narration / Podcast)"
+        }
+      ]
+    },
+    {
+      "id": "audio-063",
+      "number": "063",
+      "slug": "063-neumann-m-49-m-49-v",
+      "title": "Neumann M 49 / M 49 V",
+      "brand": "Neumann",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Tube Condenser",
+      "equipmentType": "Tube Condenser",
+      "description": "튜브 회로·캡슐 계보와 원격 패턴을 비교",
+      "keywords": [
+        "진공관",
+        "튜브",
+        "콘덴서",
+        "노이만",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/063_BLUEGEE_NEUMANN_M49_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal Placement Matrix (Documented Starting Points)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "15 Drums, Amps  &  Room Placement Matrix"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "piano",
+          "heading": "13 Grand Piano  &  Strings Placement Matrix"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "14 Brass  &  Woodwind Placement Matrix"
+        }
+      ]
+    },
+    {
+      "id": "audio-064",
+      "number": "064",
+      "slug": "064-akg-c12-c12-vr",
+      "title": "AKG C12 / C12 VR",
+      "brand": "AKG",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Tube Condenser",
+      "equipmentType": "Tube Condenser",
+      "description": "튜브 회로·캡슐 계보와 모델별 운용 비교",
+      "keywords": [
+        "진공관",
+        "튜브",
+        "콘덴서",
+        "에이케이지",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/064_BLUEGEE_AKG_C12_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-11",
+          "heading": "11. Vocal Production Masterclass"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-15",
+          "heading": "15. Drums  &  Studio Room Ambience"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-12",
+          "heading": "12. Acoustic Guitar  &  Folk Instruments"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-13",
+          "heading": "13. Grand Piano  &  Strings Orchestration"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-14",
+          "heading": "14. Brass  &  Woodwinds (High SPL Tracking)"
+        }
+      ]
+    },
+    {
+      "id": "audio-065",
+      "number": "065",
+      "slug": "065-telefunken-ela-m-251-251e",
+      "title": "Telefunken ELA M 251 / 251E",
+      "brand": "Telefunken",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Tube Condenser",
+      "equipmentType": "Tube Condenser",
+      "description": "튜브 회로·캡슐과 모델별 마이킹을 비교",
+      "keywords": [
+        "진공관",
+        "튜브",
+        "콘덴서",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/065_BLUEGEE_TELEFUNKEN_ELA_M_251_251E_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "보컬 마이킹 기법: 4가지 보컬 소스 가이드  Male, Female, Breathy, Rock"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "drums",
+          "heading": "드럼 및 앰비언스 룸  Overhead, Front of Kit, Mono Room"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "acoustic",
+          "heading": "어쿠스틱 악기 가이드  Acoustic Guitar, Singer-Songwriter"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "piano",
+          "heading": "피아노 및 현악기 가이드  Grand Piano, Solo Strings, Cello"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "금관 및 목관 악기  Trumpet, Trombone, Saxophone, Flute"
+        }
+      ]
+    },
+    {
+      "id": "audio-066",
+      "number": "066",
+      "slug": "066-akg-c414-family",
+      "title": "AKG C414 Family",
+      "brand": "AKG",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "FET Condenser",
+      "equipmentType": "FET Condenser",
+      "description": "세대별 회로·캡슐과 지향성 운용을 비교",
+      "keywords": [
+        "FET",
+        "콘덴서",
+        "에이케이지",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/066_BLUEGEE_AKG_C414_FAMILY_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tlii",
+          "heading": "B-ULS와의 결정적 차이  &  보컬 전용 튜닝"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "instrument",
+          "heading": "Drum Overheads (Stereo)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "instrument",
+          "heading": "Acoustic Guitar"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "v4-start",
+          "heading": "03. Bass Cut 주파수와 기울기는 다릅니다"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "instrument",
+          "heading": "Grand Piano (Solo)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "instrument",
+          "heading": "Trumpet / Brass"
+        }
+      ]
+    },
+    {
+      "id": "audio-067",
+      "number": "067",
+      "slug": "067-sony-c-800g",
+      "title": "Sony C-800G",
+      "brand": "Sony",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Tube Condenser",
+      "equipmentType": "Tube Condenser",
+      "description": "튜브·냉각 구조와 거리별 보컬 마이킹 비교",
+      "keywords": [
+        "진공관",
+        "튜브",
+        "콘덴서",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/067_BLUEGEE_SONY_C800G_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11. Vocal — ‘C-800G 소리’보다 가수에게 맞추기"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "room",
+          "heading": "15. 룸 앰비언스 및 드럼 오버헤드 (Room  &  Overhead)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "acoustic",
+          "heading": "13. 어쿠스틱 악기 레코딩 (Acoustic Guitar  &  Voiceover)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "instrument",
+          "heading": "Acoustic bass"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "instrument",
+          "heading": "14. 클래식 및 앙상블 악기 (Piano, Strings, Brass)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "instrument",
+          "heading": "14. 클래식 및 앙상블 악기 (Piano, Strings, Brass)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "acoustic",
+          "heading": "오디오북 및 성우 나레이션 (Voiceover / ADR)"
+        }
+      ]
+    },
+    {
+      "id": "audio-068",
+      "number": "068",
+      "slug": "068-neumann-u-47-fet",
+      "title": "Neumann U 47 fet",
+      "brand": "Neumann",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "FET Condenser",
+      "equipmentType": "FET Condenser",
+      "description": "FET 회로·패드 경로와 고음압 마이킹 비교",
+      "keywords": [
+        "FET",
+        "콘덴서",
+        "노이만",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/068_BLUEGEE_NEUMANN_U47_FET_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [
+        "audio-050"
+      ],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "14 Vocal Applications  Rock Belters, Sibilance-Taming  &  Modern Vocal Presence"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "lowcut",
+          "heading": "킥드럼 녹음 시 로우컷은 켜야 하는가, 꺼야 하는가?"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "13 Electric Guitar Cabinet  Smoothing Harsh Top-End with Massive Iron Density"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "bass",
+          "heading": "12 Bass  &  Cabinet Deep Dive  Electric Bass Amplifiers  &  Acoustic Double Bass"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "15 Brass  &  High-SPL Instruments  Trumpet, Trombone, Floor Tom  &  Snare Bottom"
+        }
+      ]
+    },
+    {
+      "id": "audio-069",
+      "number": "069",
+      "slug": "069-shure-sm7-sm7a-sm7b",
+      "title": "Shure SM7 / SM7A / SM7B",
+      "brand": "Shure",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Dynamic",
+      "equipmentType": "Dynamic",
+      "description": "다이내믹 구조와 게인·거리별 보컬 운용 비교",
+      "keywords": [
+        "다이내믹",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/069_BLUEGEE_SHURE_SM7_SM7B_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "pattern",
+          "heading": "3. 스튜디오 컨트롤 룸 보컬 녹음의 비밀"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "bass",
+          "heading": "14 베이스 캐비닛  &  킥 드럼  Low-End Punch  &  Outside Kick Workflow"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "13 일렉트릭 기타 앰프 수음  Cabinet Center, Cone Edge  &  High-SPL Balance"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "filters",
+          "heading": "08 Bass Roll-off  &  Presence Boost 필터  Acoustic Response Contours"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "room",
+          "heading": "15 브라스, 스네어  &  라우드 룸 마이킹  Extreme SPL  &  Live Bleed Control"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "history",
+          "heading": "02 탄생과 역사  Birth  &  Broadcast Lineage"
+        }
+      ]
+    },
+    {
+      "id": "audio-070",
+      "number": "070",
+      "slug": "070-shure-sm57",
+      "title": "Shure SM57",
+      "brand": "Shure",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Dynamic",
+      "equipmentType": "Dynamic",
+      "description": "다이내믹 구조와 축·거리별 악기 마이킹 비교",
+      "keywords": [
+        "다이내믹",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/070_BLUEGEE_SHURE_SM57_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-14",
+          "heading": "14 Vocal · Talkback  록 보컬의 믹스 돌파구와 컨트롤 룸 가이드"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-11",
+          "heading": "11 Snare Deep Dive (The Definitive Snare Standard)  각도, 거리, 하이햇 널 정렬, 탑/보텀 위상"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-12",
+          "heading": "12 Guitar Amp Deep Dive  스피커 콘지 스윗스팟, 각도, 리본/콘덴서 블렌딩"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-12",
+          "heading": "일렉트릭 기타  &  베이스 앰프 3대 핵심 배치 가이드"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-13",
+          "heading": "13 Brass · Horns  트럼펫, 트롬본, 색소폰의 고음압 제어"
+        }
+      ]
+    },
+    {
+      "id": "audio-071",
+      "number": "071",
+      "slug": "071-sennheiser-md-421",
+      "title": "Sennheiser MD 421",
+      "brand": "Sennheiser",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Dynamic",
+      "equipmentType": "Dynamic",
+      "description": "다이내믹 구조와 필터·거리별 마이킹 비교",
+      "keywords": [
+        "다이내믹",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/071_BLUEGEE_SENNHEISER_MD421_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "보컬 및 방송 스피치  Broadcasting History D"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "toms",
+          "heading": "탐 드럼(Toms) 심층 엔지니어링 가이드  Studio Master Benchmark D"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "기타 앰프 캐비닛 마이킹 가이드  Classic Guitar Tone D"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "overview",
+          "heading": "5-Position Bass Contour"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "clip",
+          "heading": "애프터마켓 해결책: Wilkinson Audio  &  브라스 클립"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "vocal",
+          "heading": "보컬 및 방송 스피치  Broadcasting History D"
+        }
+      ]
+    },
+    {
+      "id": "audio-072",
+      "number": "072",
+      "slug": "072-sennheiser-md-441-u",
+      "title": "Sennheiser MD 441-U",
+      "brand": "Sennheiser",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Dynamic",
+      "equipmentType": "Dynamic",
+      "description": "다이내믹 구조와 지향성·필터 운용을 비교",
+      "keywords": [
+        "다이내믹",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/072_BLUEGEE_SENNHEISER_MD441_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal 마이킹 심층 가이드  Male, Female  &  Rock Vocals"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "snare",
+          "heading": "13 Snare · Percussion  The Ultimate Snare Top Dynamic Classic"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "14 Guitar · Bass Amp  Electric Guitar Cabs  &  Bass Reinforcement"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "bass",
+          "heading": "07 5-Step Bass Roll-off  Rotary LF Contour Physics  &  Exact Curves"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "15 Brass · Winds  Trumpet, Trombone, Saxophone  &  Woodwinds"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "speech",
+          "heading": "12 Broadcast · Speech  Podcasts, Voiceover  &  European Oratory"
+        }
+      ]
+    },
+    {
+      "id": "audio-073",
+      "number": "073",
+      "slug": "073-electro-voice-re20",
+      "title": "Electro-Voice RE20",
+      "brand": "Electro-Voice",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Dynamic",
+      "equipmentType": "Dynamic",
+      "description": "Variable-D 구조와 근접효과·마이킹 비교",
+      "keywords": [
+        "다이내믹",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/073_BLUEGEE_ELECTRO_VOICE_RE20_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-11",
+          "heading": "방송·팟캐스트·보컬 전용 마이킹 데이터시트 (5 Placements)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-08",
+          "heading": "드럼 룸 및 합주 세션에서의 위상 우수성"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-13",
+          "heading": "Bass Guitar Amplifier Cabinet 13"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-09",
+          "heading": "주파수 응답 곡선 및 베이스 틸트 필터 09"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-15",
+          "heading": "Brass  &  Controlled Voiceover 15"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-02",
+          "heading": "1960년대 방송 엔지니어링의 도전 과제"
+        }
+      ]
+    },
+    {
+      "id": "audio-074",
+      "number": "074",
+      "slug": "074-rca-44-bx",
+      "title": "RCA 44-BX",
+      "brand": "RCA",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Ribbon",
+      "equipmentType": "Ribbon",
+      "description": "리본 구조와 근접효과·거리별 마이킹 비교",
+      "keywords": [
+        "리본",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/074_BLUEGEE_RCA_44BX_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "11. Vocal Deep Dive (거리별 음향 제어와 보컬 테크닉)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-room",
+          "heading": "15. Room · Ensemble (드럼 룸, 빅밴드 1마이크 밸런스)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "14. Guitar · Amp (일렉트릭 기타 캐비닛 수음  &  위상 정렬)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-brass",
+          "heading": "6. Tenor  &  Bass Trombone  B"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-guitar",
+          "heading": "14. Grand Piano (Solo / Jazz Trio)  B"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-brass",
+          "heading": "12. Brass · Winds (트럼펫, 트롬본, 색소폰 레코딩)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-vocal",
+          "heading": "3. Jazz Club / Broadcast Vocal  A"
+        }
+      ]
+    },
+    {
+      "id": "audio-075",
+      "number": "075",
+      "slug": "075-rca-77-dx",
+      "title": "RCA 77-DX",
+      "brand": "RCA",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Ribbon",
+      "equipmentType": "Ribbon",
+      "description": "리본 구조와 가변 지향성·필터 운용 비교",
+      "keywords": [
+        "리본",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/075_BLUEGEE_RCA_77DX_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal  &  Broadcast Engineering (보컬 및 방송 수음 기법)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "room",
+          "heading": "드럼 룸 모노/스테레오 앰비언스"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "14 Guitar  &  Amp (일렉트릭 기타 앰프 캐비닛 수음)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "strings",
+          "heading": "첼로 및 콘트라베이스 (Acoustic Upright Bass)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "12 Brass  &  Winds (금관 · 목관 마이킹  &  돌풍 안전 대책)"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "vocal",
+          "heading": "11 Vocal  &  Broadcast Engineering (보컬 및 방송 수음 기법)"
+        }
+      ]
+    },
+    {
+      "id": "audio-076",
+      "number": "076",
+      "slug": "076-coles-4038",
+      "title": "Coles 4038",
+      "brand": "Coles",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Ribbon",
+      "equipmentType": "Ribbon",
+      "description": "리본 구조와 축·거리별 악기 마이킹 비교",
+      "keywords": [
+        "리본",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass",
+        "방송",
+        "broadcast"
+      ],
+      "htmlPath": "guides/microphone/076_BLUEGEE_COLES_4038_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-15",
+          "heading": "Voice · Ensemble (보컬 및 오케스트라/합창단 앙상블)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-01",
+          "heading": "왜 아직도 드럼/브라스의 기준인가?"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-13",
+          "heading": "Guitar Amp (일렉트릭 기타 캐비닛 및 SM57 블렌딩)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "tab-12",
+          "heading": "Trombone / Bass Trombone"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-14",
+          "heading": "Strings · Piano (현악기 및 그랜드 피아노)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-01",
+          "heading": "왜 아직도 드럼/브라스의 기준인가?"
+        },
+        {
+          "keywords": [
+            "방송",
+            "broadcast"
+          ],
+          "chapterId": "tab-02",
+          "heading": "1. BBC의 요구: Type A의 한계와 새로운 방송 마이크의 필요성"
+        }
+      ]
+    },
+    {
+      "id": "audio-077",
+      "number": "077",
+      "slug": "077-royer-r-121",
+      "title": "Royer R-121",
+      "brand": "Royer",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Ribbon",
+      "equipmentType": "Ribbon",
+      "description": "리본 구조와 전후면·캐비닛 마이킹 비교",
+      "keywords": [
+        "리본",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/077_BLUEGEE_ROYER_R121_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "tab-15",
+          "heading": "15. 보컬  &  브로드캐스트 (치찰음 없는 빈티지 온기)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-13",
+          "heading": "13. 드럼  &  룸 앰비언스 (Overhead / Room / Kick / Snare)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-11",
+          "heading": "11. 일렉트릭 기타 앰프 딥다이브 (스피커 구역별 마이킹 맵)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "tab-12",
+          "heading": "12. 브라스  &  관악기 딥다이브 (Trumpet / Trombone / Horns)"
+        }
+      ]
+    },
+    {
+      "id": "audio-078",
+      "number": "078",
+      "slug": "078-beyerdynamic-m-160",
+      "title": "Beyerdynamic M 160",
+      "brand": "Beyerdynamic",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "Ribbon",
+      "equipmentType": "Ribbon",
+      "description": "듀얼 리본 구조와 지향성·악기 마이킹 비교",
+      "keywords": [
+        "리본",
+        "보컬",
+        "vocal",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/078_BLUEGEE_BEYERDYNAMIC_M160_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "보컬",
+            "vocal"
+          ],
+          "chapterId": "vocal",
+          "heading": "14 Vocal Deep Dive (친밀한 빈티지 질감  &  치찰음 제어)"
+        },
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "rear",
+          "heading": "2. 드럼 하이햇 누음(Bleed) 완벽 차단"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "guitar",
+          "heading": "11 Guitar Amp Deep Dive (황금 스위트스팟  &  57 블렌드)"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "13 Brass  &  Woodwinds Deep Dive (관악기 마이킹)"
+        }
+      ]
+    },
+    {
+      "id": "audio-079",
+      "number": "079",
+      "slug": "079-akg-c451-ck1",
+      "title": "AKG C451 / CK1",
+      "brand": "AKG",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "SDC",
+      "equipmentType": "SDC",
+      "description": "모듈형 캡슐 계보와 소형 콘덴서 운용 비교",
+      "keywords": [
+        "소구경",
+        "콘덴서",
+        "에이케이지",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "베이스",
+        "bass",
+        "피아노",
+        "piano",
+        "브라스",
+        "brass"
+      ],
+      "htmlPath": "guides/microphone/079_BLUEGEE_AKG_C451_CK1_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "overheads",
+          "heading": "11. Drum Overheads Deep Dive (Stereo Geometry  &  Phasing)"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "acoustic",
+          "heading": "12. Acoustic Guitar Deep Dive (Placement  &  Attack)"
+        },
+        {
+          "keywords": [
+            "베이스",
+            "bass"
+          ],
+          "chapterId": "piano",
+          "heading": "Cello / Double Bass"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "piano",
+          "heading": "13. Piano  &  Strings Recording Techniques"
+        },
+        {
+          "keywords": [
+            "브라스",
+            "brass"
+          ],
+          "chapterId": "brass",
+          "heading": "14. Brass  &  Woodwinds Recording"
+        }
+      ]
+    },
+    {
+      "id": "audio-080",
+      "number": "080",
+      "slug": "080-neumann-km-84",
+      "title": "Neumann KM 84",
+      "brand": "Neumann",
+      "series": "microphone-master-library",
+      "category": "microphone",
+      "subcategory": "SDC",
+      "equipmentType": "SDC",
+      "description": "FET·캡슐 구조와 축외·페어 마이킹 비교",
+      "keywords": [
+        "소구경",
+        "콘덴서",
+        "노이만",
+        "드럼",
+        "drums",
+        "기타",
+        "guitar",
+        "피아노",
+        "piano"
+      ],
+      "htmlPath": "guides/microphone/080_BLUEGEE_NEUMANN_KM84_MASTER_GUIDE_v4.html",
+      "pdfPath": null,
+      "coverImage": null,
+      "status": "published",
+      "featured": false,
+      "relatedIds": [],
+      "bundleIds": [
+        "microphone-20-v4-ko",
+        "complete-80-v4-ko"
+      ],
+      "createdAt": null,
+      "updatedAt": null,
+      "keywordSources": [
+        {
+          "keywords": [
+            "드럼",
+            "drums"
+          ],
+          "chapterId": "tab-overheads",
+          "heading": "12 Drum Overheads  &  Stereo Geometry"
+        },
+        {
+          "keywords": [
+            "기타",
+            "guitar"
+          ],
+          "chapterId": "tab-acoustic",
+          "heading": "11 Acoustic Guitar Deep Dive (어쿠스틱 기타 궁극 가이드)"
+        },
+        {
+          "keywords": [
+            "피아노",
+            "piano"
+          ],
+          "chapterId": "tab-piano",
+          "heading": "13 Grand Piano (콘서트 그랜드 레코딩)"
+        }
+      ]
+    }
+  ]
+}

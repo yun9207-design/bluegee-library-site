@@ -1,0 +1,64 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "BlueGEE product master v1",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["schemaVersion", "categories", "series", "bundles", "products"],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "categories": { "type": "array", "minItems": 1, "items": { "$ref": "#/definitions/category" } },
+    "series": { "type": "array", "items": { "$ref": "#/definitions/label" } },
+    "bundles": { "type": "array", "items": { "$ref": "#/definitions/bundle" } },
+    "products": { "type": "array", "items": { "$ref": "#/definitions/product" } }
+  },
+  "definitions": {
+    "nullableText": { "type": ["string", "null"], "minLength": 1 },
+    "strings": { "type": "array", "uniqueItems": true, "items": { "type": "string", "minLength": 1 } },
+    "date": { "type": ["string", "null"], "pattern": "^\\d{4}-\\d{2}-\\d{2}$" },
+    "label": {
+      "type": "object", "additionalProperties": false, "required": ["id", "label"],
+      "properties": { "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" }, "label": { "type": "string", "minLength": 1 } }
+    },
+    "category": {
+      "type": "object", "additionalProperties": false, "required": ["id", "label", "description"],
+      "properties": { "id": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" }, "label": { "type": "string", "minLength": 1 }, "description": { "type": "string" } }
+    },
+    "bundle": {
+      "type": "object", "additionalProperties": false, "required": ["id", "title", "status", "productIds"],
+      "properties": { "id": { "type": "string", "minLength": 1 }, "title": { "type": "string", "minLength": 1 }, "status": { "enum": ["planned", "published"] }, "productIds": { "$ref": "#/definitions/strings" } }
+    },
+    "keywordSource": {
+      "type": "object", "additionalProperties": false, "required": ["keywords", "chapterId", "heading"],
+      "properties": { "keywords": { "$ref": "#/definitions/strings" }, "chapterId": { "type": "string", "minLength": 1 }, "heading": { "type": "string", "minLength": 1 } }
+    },
+    "product": {
+      "type": "object", "additionalProperties": false,
+      "required": ["id", "number", "slug", "title", "brand", "series", "category", "subcategory", "equipmentType", "description", "keywords", "htmlPath", "pdfPath", "coverImage", "status", "featured", "relatedIds", "bundleIds", "createdAt", "updatedAt", "keywordSources"],
+      "properties": {
+        "id": { "type": "string", "pattern": "^audio-[0-9]{3}$" },
+        "number": { "type": "string", "pattern": "^(?!000)[0-9]{3}$" },
+        "slug": { "type": "string", "pattern": "^[a-z0-9]+(?:-[a-z0-9]+)*$" },
+        "title": { "type": "string", "minLength": 1 },
+        "brand": { "$ref": "#/definitions/nullableText" },
+        "series": { "$ref": "#/definitions/nullableText" },
+        "category": { "type": "string", "minLength": 1 },
+        "subcategory": { "$ref": "#/definitions/nullableText" },
+        "equipmentType": { "$ref": "#/definitions/nullableText" },
+        "description": { "type": ["string", "null"] },
+        "keywords": { "$ref": "#/definitions/strings" },
+        "htmlPath": { "$ref": "#/definitions/nullableText" },
+        "pdfPath": { "$ref": "#/definitions/nullableText" },
+        "coverImage": { "$ref": "#/definitions/nullableText" },
+        "status": { "enum": ["published", "draft", "unknown"] },
+        "featured": { "type": "boolean" },
+        "relatedIds": { "$ref": "#/definitions/strings" },
+        "bundleIds": { "$ref": "#/definitions/strings" },
+        "createdAt": { "$ref": "#/definitions/date" },
+        "updatedAt": { "$ref": "#/definitions/date" },
+        "keywordSources": { "type": "array", "items": { "$ref": "#/definitions/keywordSource" } },
+        "highlights": { "$ref": "#/definitions/strings" },
+        "whyItMatters": { "$ref": "#/definitions/nullableText" }
+      }
+    }
+  }
+}
