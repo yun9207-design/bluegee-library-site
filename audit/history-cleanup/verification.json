@@ -1,0 +1,98 @@
+{
+  "checkedAt": "2026-10-02T05:26:18+09:00",
+  "status": "partial_external_github_cache_remaining",
+  "scope": "Security cleanup only; application/Auth/API/reader/RLS unchanged",
+  "backup": {
+    "fullWorkspacePreserved": true,
+    "trackedFilesByteVerified": 283,
+    "privateOriginalsPreserved": 80,
+    "outsideProjectAndGit": true
+  },
+  "before": {
+    "allLocalObjects": 685,
+    "allLocalBlobs": 589,
+    "allLocalCommits": 11,
+    "fullBodyObjects": 328,
+    "fullBodyBlobs": 328,
+    "fullGuides": 80,
+    "affectedPaths": 160
+  },
+  "gitRewrite": {
+    "tool": "git-filter-repo 2.47.0",
+    "mode": "strip actual full-body blob IDs across all refs",
+    "removedFullBodyBlobs": 328,
+    "remoteMainRewritten": true,
+    "rewrittenCodeTip": "6e026fecd18ccbeee53d131d7e12ddc7acc7dd7e",
+    "latestTreeUnchanged": "59563b930aefca2c9e0826b242f518d0953c94ce",
+    "allObjectsAtRewriteCheckpoint": 329,
+    "fullBodyObjectsAfter": 0,
+    "freshRemoteMirrorFullBodyObjectsAfter": 0
+  },
+  "github": {
+    "branches": 1,
+    "tags": 0,
+    "releases": 0,
+    "releaseAssets": 0,
+    "pullRequests": 0,
+    "forks": 0,
+    "actionRuns": 0,
+    "actionArtifacts": 0,
+    "knownRepositoryAttachmentUrls": 0,
+    "pages": false,
+    "currentRefsFullBodies": 0,
+    "oldCachedRawUrlsChecked": 80,
+    "oldCachedFullGuidesRemaining": 80,
+    "supportRequestPreparedPrivately": true,
+    "supportRequestSent": false
+  },
+  "vercel": {
+    "fullBodyDeploymentsDeleted": 4,
+    "deletedGuideUrlsChecked": 320,
+    "deletedGuideUrls404": 320,
+    "remainingOldAccessibleFullBodies": 0,
+    "originalProtectedProductionPreserved": true,
+    "safeDeploymentsAuthenticatedSamples": 6,
+    "safeDeploymentFullBodySamples": 0,
+    "previewDeploymentsAtAudit": 0
+  },
+  "filesystem": {
+    "projectFilesScanned": 3427,
+    "fullBodyFiles": 0,
+    "publicBuildFullBodies": 0,
+    "privateBackupsExcludedFromPublicScope": true
+  },
+  "secrets": {
+    "allHistorySecretCandidates": 0,
+    "serviceRoleSecretKeysFound": 0,
+    "dbPasswordsFound": 0,
+    "publicPublishableAnonKeysAreNotSecrets": true,
+    "credentialRotationRequiredByThisAudit": false,
+    "method": "Known key patterns, JWT role/session classification, DB URLs and sensitive named assignments; commits/tags/trees/blobs incl unreachable/ZIP/gzip/base64-gzip"
+  },
+  "verification": {
+    "productionSmokePassed": true,
+    "products": 80,
+    "publicLockedGuideUrls": 80,
+    "chapters": 2087,
+    "publicFullBodies": 0,
+    "brokenCheckedLinks": 0,
+    "apiUnitTestsPassed": 2,
+    "apiProductIdsCovered": 80,
+    "anonymousStatus": 401,
+    "noEntitlementStatusInIsolatedTests": 403,
+    "isolatedBrowserReaderGuides": [
+      "audio-001",
+      "audio-051",
+      "audio-080"
+    ],
+    "isolatedBrowserReaderPassed": true,
+    "productionSignedInReaderReverified": false,
+    "realAccountLoginRequests": 0,
+    "buildCheckPassed": true,
+    "generatedFilesChecked": 94
+  },
+  "pending": [
+    "GitHub server-side old commit/raw cache removal; 80 original full guides still accessible",
+    "Live signed-in reader/no-entitlement check was not repeated; isolated checks passed"
+  ]
+}
