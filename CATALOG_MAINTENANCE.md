@@ -259,3 +259,8 @@ keywords는 text[] 또는 별도 태그 관계로, 날짜 null은 그대로 null
 상품 원본과 추가 절차는 그대로다. 로그인은 상품 수·검색·분류·원본 URL을 바꾸지 않으며 로그인하지 않아도 공개 가이드를 읽을 수 있다. 빌드는 기존 카탈로그 8개에 로그인/SDK/스타일/공개 설정 4개를 더한 12개 파일을 생성한다. `dist/auth-config.js`는 Git에서 제외한 빌드 생성물이고 직접 수정하지 않는다. SDK 연결값은 상품 마스터에 넣지 않는다. 설정과 테스트 방법은 [AUTH_IMPLEMENTATION.md](AUTH_IMPLEMENTATION.md)를 따른다.
 
 **현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.**
+# U47 보호 파일럿 유지관리
+
+`audio-050`만 마스터의 `access:"entitlement"`를 사용한다. 기존 27개 장의 제목·ID를 `chapters` 필드로 보존하고 URL·분류·시리즈는 변경하지 않는다. 다른 상품의 신규 등록 절차는 기존 방법을 따른다.
+
+보호 상품의 전체 원문을 `dist/`, root `guides/`, JSON, migration, 테스트 fixture나 Git에 넣지 않는다. `npm run build`가 잠금 화면을 생성한다. 현재 파일럿 외의 상품을 entitlement로 바꾸면 빌드가 실패한다. 원문 업데이트는 관리자가 private DB 자산과 SHA-256/바이트 수를 함께 갱신하고, 목차가 바뀔 때만 마스터와 root 잠금 사본을 함께 재생성한다. 상세 절차와 grant/확장 경계는 [ENTITLEMENT_IMPLEMENTATION.md](ENTITLEMENT_IMPLEMENTATION.md)를 따른다.

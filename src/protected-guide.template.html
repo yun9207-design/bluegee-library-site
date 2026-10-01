@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{{title}} — BlueGEE Audio Library</title><meta name="robots" content="noindex"><meta name="referrer" content="no-referrer">
+<link rel="stylesheet" href="/protected-guide.css"><script defer src="/auth-config.js"></script><script defer src="/protected-guide.js"></script>
+</head><body>
+<div id="guide-gate"><header class="gate-header"><a href="/index.html">BlueGEE Audio Library</a><a href="/product.html?id={{productId}}">가이드 소개로 돌아가기</a></header>
+<main class="gate-main"><p class="gate-number">{{number}} · GUIDE</p><h1>{{title}}</h1><p>{{chapterCount}}개 장으로 구성된 전문 오디오 가이드입니다.</p>
+<p id="gate-status" role="status" aria-live="polite">열람 권한을 확인하고 있습니다.</p>
+<a id="gate-login" class="gate-button" href="/login.html" hidden>로그인</a><button id="gate-retry" type="button" hidden>권한 다시 확인</button>
+<p class="gate-note">전체 가이드는 이 자료의 열람 권한이 있는 계정으로 이용할 수 있습니다.</p>
+<details><summary>가이드 목차</summary><ol>{{chapterAnchors}}</ol></details>
+<noscript><p>전체 가이드를 읽으려면 JavaScript를 켜 주세요.</p></noscript>
+</main></div>
+<div id="protected-reader" hidden><nav class="reader-bar" aria-label="가이드 탐색"><a href="/product.html?id={{productId}}">← 가이드 소개</a><span>{{title}}</span><button id="reader-close" type="button">가이드 닫기</button></nav>
+<iframe id="guide-frame" title="{{title}} 전체 가이드" sandbox="allow-scripts allow-same-origin allow-top-navigation-by-user-activation" referrerpolicy="no-referrer"></iframe></div>
+<script id="audio-guide-config" type="application/json">{{guideConfig}}</script>
+</body></html>

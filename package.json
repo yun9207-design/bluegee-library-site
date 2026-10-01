@@ -7,7 +7,7 @@
     "node": ">=22.13"
   },
   "scripts": {
-    "lint": "eslint src scripts tests eslint.config.mjs",
+    "lint": "eslint src api server scripts tests eslint.config.mjs",
     "typecheck": "tsc --noEmit",
     "type-check": "npm run typecheck",
     "validate": "node scripts/validate-catalog.cjs",
@@ -17,7 +17,9 @@
     "test:browser": "node tests/e2e/catalog-browser.cjs",
     "dev": "node scripts/serve.cjs",
     "test:auth": "node --test tests/auth.test.cjs",
-    "test:auth:browser": "node tests/e2e/auth-browser.cjs"
+    "test:auth:browser": "node tests/e2e/auth-browser.cjs",
+    "test:entitlement": "node --test tests/entitlement.test.cjs",
+    "test:entitlement:browser": "node tests/e2e/entitlement-browser.cjs"
   },
   "devDependencies": {
     "@types/node": "24.19.0",

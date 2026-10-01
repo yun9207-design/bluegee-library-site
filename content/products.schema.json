@@ -57,7 +57,9 @@
         "updatedAt": { "$ref": "#/definitions/date" },
         "keywordSources": { "type": "array", "items": { "$ref": "#/definitions/keywordSource" } },
         "highlights": { "$ref": "#/definitions/strings" },
-        "whyItMatters": { "$ref": "#/definitions/nullableText" }
+        "whyItMatters": { "$ref": "#/definitions/nullableText" },
+        "access": { "enum": ["public", "entitlement"] },
+        "chapters": { "type": "array", "items": { "type": "object", "additionalProperties": false, "required": ["id", "title"], "properties": { "id": { "type": "string", "minLength": 1 }, "title": { "type": "string", "minLength": 1 } } } }
       }
     }
   }

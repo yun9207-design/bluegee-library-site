@@ -3,5 +3,14 @@
   "framework": null,
   "installCommand": "npm ci",
   "buildCommand": "npm run build",
-  "outputDirectory": "dist"
+  "outputDirectory": "dist",
+  "functions": {
+    "api/guide.js": { "maxDuration": 30 }
+  },
+  "headers": [
+    { "source": "/guides/microphone/050_BLUEGEE_NEUMANN_U47_MASTER_GUIDE_v4.html", "headers": [
+      { "key": "Cache-Control", "value": "private, no-store, max-age=0" },
+      { "key": "X-Frame-Options", "value": "SAMEORIGIN" }
+    ] }
+  ]
 }

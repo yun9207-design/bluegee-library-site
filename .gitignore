@@ -8,3 +8,5 @@ node_modules/
 dist/auth-config.js
 
 .vercel
+supabase/.temp/
+supabase/.branches/

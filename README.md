@@ -2,7 +2,7 @@
 
 80종 오디오 엔지니어링 전문 가이드의 정적 Library다. 마스터는 `content/products.json`, 화면 소스는 `src/`, Vercel 배포 출력은 `dist/`다. Next.js 앱이 아니다.
 
-현재 상품 분류는 Outboard 49 / Engineer Deep Dive 10 / Microphone 21이다. 050 U47은 Classic 시리즈의 Microphone 분류를 유지한다. 기존 80개 원본 URL과 2,087개 목차를 보존한다. 루트에 남은 이전 업로드용 HTML/JS/`guides/`는 그대로 보관하며 운영 빌드는 `dist`를 사용한다.
+현재 상품 분류는 Outboard 49 / Engineer Deep Dive 10 / Microphone 21이다. 050 U47은 Classic 시리즈의 Microphone 분류를 유지한다. 기존 80개 URL과 2,087개 목차를 보존한다. U47 한 종은 전체 본문 대신 권한 확인 화면을 제공하며 나머지 79개는 공개다. 운영 빌드는 `dist`를 사용한다.
 
 ## 로컬 실행
 
@@ -20,7 +20,7 @@ npm.cmd run dev
 
 Auth 1단계는 `login.html` → 로그인 → Library 이동 → 이메일 표시 → 세션 유지 → 로그아웃을 제공한다. 회원가입·OAuth·결제·구매권한은 포함하지 않는다.
 
-**현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.** 비로그인 사용자도 공개 Library와 원본 가이드를 계속 이용한다.
+**현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.** 별도 Entitlement 파일럿이 `audio-050`만 실제 보호한다. 비로그인 사용자도 Library·상품 소개·나머지 공개 79종을 계속 이용한다. [ENTITLEMENT_IMPLEMENTATION.md](ENTITLEMENT_IMPLEMENTATION.md)에 서버·RLS·관리 절차와 과거 공개 사본의 한계를 기록했다.
 
 실제 Supabase 설정값은 Git에 저장하지 않는다. `.env.example`을 `.env.local`로 복사하여 공개 `SUPABASE_URL`, `SUPABASE_PUBLISHABLE_KEY` 두 값만 입력하고 다시 빌드한다. `service_role`/secret key는 사용하지 않는다. 값이 둘 다 없으면 로그인 준비 안내가 표시되며 공개 Library는 계속 동작한다. 사용자가 제공한 실제 공개 설정을 Git 제외 로컬 파일에 연결했다. Auth health 응답은 HTTP 200이며 사용자가 실계정 로그인 1회·이메일 표시·새로고침 세션 유지·로그아웃 성공을 확인했다.
 
@@ -45,4 +45,4 @@ npm.cmd run test:auth:browser
 
 `vercel.json`: `npm ci` → `npm run build` → `dist`. Auth 이전 안정 Production 기준 commit은 `784d4170421271787a6e14fd9bd2928bb1a0efb0`이다. Auth 릴리즈는 GitHub main push와 연동된 Production 자동 배포를 사용한다. Vercel Production Build 환경변수에 두 공개 설정을 등록했다. 서비스 주소는 `https://bluegee-library-site.vercel.app/`를 유지한다.
 
-이전 감사·인벤토리·상품/번들·로드맵·배포 체크포인트 문서는 보존한다. 이번 배포 검증은 비로그인 자동 smoke test로 한정한다. 추가 실계정 로그인, 구매권한, 가이드 차단은 수행하지 않는다.
+이전 감사·인벤토리·상품/번들·로드맵·배포 체크포인트 문서는 보존한다. Auth 릴리즈 이후 U47 Entitlement 파일럿만 추가한다. 정적 구조에 Vercel Function `/api/guide`를 더하며 추가 환경변수나 service key는 없다. `npm run test:entitlement`는 로그인 없는 서버 프로토콜 테스트, `npm run test:entitlement:browser`는 격리된 세션/DB 응답과 Git 외부의 원문을 사용하는 브라우저 테스트다. 구매/결제 연동과 79종 확대는 하지 않는다.

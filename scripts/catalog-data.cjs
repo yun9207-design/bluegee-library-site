@@ -5,6 +5,7 @@ const path = require('node:path');
 const { Ajv } = require('ajv');
 const { createCatalog } = require('../src/catalog-core.js');
 const { authShell, renderAuthOutputs } = require('./auth-build.cjs');
+const { renderProtectedOutputs } = require('./protected-build.cjs');
 /** @typedef {import('../src/catalog-types').CatalogSource} CatalogSource */
 /** @typedef {import('../src/catalog-types').RuntimeCatalog} RuntimeCatalog */
 /** @typedef {import('../src/catalog-types').Chapter} Chapter */
@@ -90,10 +91,17 @@ function validateAndEnrich(raw, directory = path.join(ROOT, 'dist')) {
     }
     ensure(product.status !== 'published' || product.htmlPath || product.pdfPath, `${product.id}: published product needs an available HTML/PDF`);
     let config = null;
+    if (product.access === 'entitlement') {
+      ensure(product.id === 'audio-050', 'This pilot may protect only audio-050');
+      ensure(product.chapters && product.chapters.length > 0, 'Protected guide needs its public chapter metadata');
+    }
     if (product.htmlPath) {
       ensure(product.htmlPath.endsWith('.html'), `${product.id}: htmlPath must end in .html`);
       const source = fs.readFileSync(resolveAsset(product.htmlPath, directory), 'utf8');
       config = documentConfig(source);
+      if (product.access === 'entitlement') {
+        ensure(config && JSON.stringify(config.chapters) === JSON.stringify(product.chapters), 'Protected chapter metadata mismatch');
+      }
       if (config) {
         ensure(config.id === product.number && config.title === product.title, `${product.id}: HTML config number/title mismatch`);
         ensure(config.category === product.category, `${product.id}: HTML category mismatch`);
@@ -147,6 +155,7 @@ function renderOutputs(data) {
     ['product.js', fs.readFileSync(path.join(ROOT, 'src/product.js'), 'utf8')],
     ['product.css', fs.readFileSync(path.join(ROOT, 'src/product.css'), 'utf8')],
     ...renderAuthOutputs(),
+    ...renderProtectedOutputs(data),
   ]);
 }
 

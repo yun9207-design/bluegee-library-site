@@ -3,6 +3,10 @@ const http = require('node:http');
 const fs = require('node:fs');
 const path = require('node:path');
 const { ROOT, loadMaster, renderOutputs } = require('./catalog-data.cjs');
+const { readAuthConfig } = require('./auth-build.cjs');
+const { createGuideHandler } = require('../server/guide-handler.cjs');
+const publicConfig = readAuthConfig();
+const guideHandler = createGuideHandler({ environment: { SUPABASE_URL: publicConfig.url ?? '', SUPABASE_PUBLISHABLE_KEY: publicConfig.publishableKey ?? '' } });
 const outputs = renderOutputs(loadMaster());
 for (const [name, content] of outputs) { fs.writeFileSync(path.join(ROOT, 'dist', name), content, 'utf8'); }
 const directory = path.join(ROOT, 'dist');
@@ -12,6 +16,7 @@ const types = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; ch
 http.createServer((request, response) => {
   try {
     const pathname = decodeURIComponent(new URL(request.url ?? '/', 'http://127.0.0.1').pathname);
+    if (pathname === '/api/guide') { guideHandler(request, response).catch(() => { if (!response.headersSent) { response.writeHead(503); } response.end(); }); return; }
     const target = path.resolve(directory, '.' + pathname + (pathname.endsWith('/') ? 'index.html' : ''));
     const relative = path.relative(directory, target);
     if (relative.startsWith('..') || path.isAbsolute(relative) || !fs.existsSync(target) || !fs.statSync(target).isFile()) {

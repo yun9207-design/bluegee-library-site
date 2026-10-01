@@ -1,4 +1,4 @@
-# 보안 범위 — Auth 1단계
+# 보안 범위 — U47 Entitlement 파일럿
 
 작성일: 2026-10-01.
 
@@ -6,9 +6,9 @@
 
 ## 현재 공개되는 자료
 
-Vercel에 배포되는 `dist/guides/`의 80개 HTML은 public static 파일이다. 로그인하지 않아도 기존 URL로 열 수 있다. Library, 상품 상세, `products.json`, 목차, 기존 reader도 공개 상태를 유지한다. 원본 주소를 숨기거나 JavaScript에서 로그인 여부를 검사하는 것만으로 파일을 보호할 수 없다.
+Library, 상품 상세, `products.json`, 2,087개 목차와 나머지 79개 HTML은 공개 상태다. `audio-050`의 기존 public URL에는 잠금 화면만 남으며 전체 원문은 public static 산출물/현재 root 사본에 포함하지 않는다. 원본 주소를 숨기거나 JavaScript에서 버튼만 감추는 방식은 쓰지 않는다.
 
-현재 로그인 상태나 표시 이메일은 구입 여부·라이선스·다운로드 권한의 증거가 아니다. 원본 가이드에 로그인 차단, URL 변경, HTML/PDF 이동을 적용하지 않았다.
+표시 이메일은 권한의 증거가 아니다. U47은 Vercel Function이 실제 사용자와 DB entitlement를 확인하고 private content RLS가 독립적으로 재확인한다. 권한 없는 API 요청에는 본문을 반환하지 않는다. 파일명·상품 URL·기존 읽기 URL은 유지하며 결제/구매 이력과 연동하지 않는다.
 
 ## 공개 설정과 secret 경계
 
@@ -16,7 +16,7 @@ Vercel에 배포되는 `dist/guides/`의 80개 HTML은 public static 파일이�
 - `scripts/auth-build.cjs`는 두 값만 허용하며 `service_role`과 `sb_secret_...` key를 거부한다. 환경변수 전체를 bundle하지 않는다.
 - 실제 값은 `.env.local` 또는 향후 Vercel Build 환경변수로 관리한다. `.env*`와 생성된 `dist/auth-config.js`는 Git에서 제외한다. 빈 `.env.example`은 공개한다.
 - 생성한 공개 설정은 배포 시 누구나 읽을 수 있다. 이를 비밀 key 저장소로 취급하지 않는다.
-- 향후 DB/Storage를 추가할 때에는 RLS 및 서버의 권한 검사를 별도로 설계해야 한다. publishable key가 공개 사용 가능한 점이 모든 데이터 공개를 허용한다는 뜻은 아니다. [Supabase API key 안내](https://supabase.com/docs/guides/getting-started/api-keys)
+- U47 서버도 publishable key + 사용자 JWT만 사용하며 service_role/secret key는 없다. `library_entitlements`는 자기 행 SELECT만 허용하고, `library_guide_contents`는 활성 HTML 권한을 확인하는 RLS를 적용한다. 공개 key만으로 private 본문을 읽거나 권한을 발급할 수 없다. [Supabase API key 안내](https://supabase.com/docs/guides/getting-started/api-keys)
 
 ## 세션과 화면 처리
 
@@ -24,12 +24,18 @@ SDK의 세션 유지에는 origin별 localStorage를 사용한다. 같은 origin
 
 이메일은 `textContent`로 출력한다. 비밀번호는 localStorage에 직접 저장하지 않으며 요청 완료 후 입력 필드를 비운다. 오류 안내에 원본 오류·token·비밀번호·설정값을 넣지 않는다. 로그인 후 이동은 고정 Library 경로다.
 
-초기 사용자 확인에 `getUser()`를 호출하지만 이번 단계에는 서버의 콘텐츠 권한 검사가 없다. 로그아웃은 현재 브라우저 세션 종료이며 여러 기기 전체의 세션을 종료하는 기능은 아니다.
+U47 API는 bearer token을 `getUser(token)`으로 검증하고 user_id를 이 결과에서 얻는다. 브라우저의 query, 이메일, user_metadata, 단순 JWT decode 결과로 권한을 판정하지 않는다. Auth 로그인 코드는 변경하지 않았다. 로그아웃은 현재 브라우저 세션 종료이며 여러 기기 전체의 세션을 종료하는 기능은 아니다.
 
-## 이후 실제 접근통제의 조건
+## 현재 접근통제와 공개 이력
 
-유료 또는 보호 자료를 제공하는 단계에서는 private Supabase Storage, 서버/Vercel Function의 검증된 사용자 확인, `purchases`/`entitlements`에 근거한 권한 검사, 짧은 유효기간의 권한 있는 전달 경로를 함께 구현해야 한다. 그때 public 원본의 배포 방식도 따로 검토해야 한다. 이번 단계에서는 이 기능이나 테이블을 구현하지 않는다.
+U47 본문은 무손실 압축으로 RLS 테이블에 저장하고 서버가 권한 확인 후 전달한다. `Cache-Control`/`CDN-Cache-Control`/`Vercel-CDN-Cache-Control`은 `no-store`, `Vary`는 `Authorization`이다. bearer token은 헤더에서만 받으며 URL token·쓰기 메서드·다른 상품은 거부한다. 오류는 권한을 열어 주지 않는 방향으로 처리한다. 무결성 확인 후 검토된 원문만 reader iframe에서 실행하며 외부 업로드 문서는 허용하지 않는다.
+
+이 자료는 이미 공개된 적이 있고 GitHub 저장소도 public이다. 현재 commit과 운영 URL에서 원문을 제거했어도 과거 Git raw URL, 이전 Vercel/Sites 배포, 다운로드 사본은 소급 보호하지 못한다. 본 작업은 과거 배포 삭제·Git 이력 재작성·저장소 공개 범위 변경을 포함하지 않는다. 향후 판매용 비공개 신판과 과거 공개 자료를 구분해야 한다. 권한 있는 사용자에게 이미 전달한 본문을 회수하거나 복사를 막는 DRM도 제공하지 않는다.
+
+다른 79종 확대, private Storage/PDF, 결제·purchases 연동은 별도 단계다. 상세 관리 방법은 [ENTITLEMENT_IMPLEMENTATION.md](ENTITLEMENT_IMPLEMENTATION.md)를 따른다.
 
 ## 검증 상태
 
-설정 누락·secret/service_role 거부·브라우저 세션 흐름을 테스트한다. 사용자가 제공한 실제 공개 설정을 Git 제외 파일에 연결했으며 공개 Auth health 응답을 확인했다. 실계정 로그인 1회·이메일 표시·새로고침 세션 유지·로그아웃 성공은 사용자가 직접 확인했다. 추가 실계정 로그인은 반복하지 않는다. 상세 절차와 격리된 테스트의 한계는 `AUTH_IMPLEMENTATION.md`에 기록한다.
+Auth의 기존 실계정 로그인 1회 확인을 유지하고 로그인 반복 검증은 하지 않는다. U47은 실제 DB의 RLS/GRANT, 고정 SDK/서버의 격리된 HTTP 테스트, 원문 기반 브라우저 테스트로 검증한다. DB 테스트의 임시 만료는 rollback으로 복원한다. Production 익명 smoke와 실계정의 전체 열람 확인은 구분하여 기록한다.
+
+Supabase Security Advisor의 기존 경고는 Leaked Password Protection Disabled 한 건이다. 파일럿 테이블의 RLS/정책 신규 경고는 없다. Auth 설정을 동결하므로 기존 경고를 이번 작업에서 변경하지 않았다. [기존 경고의 공식 안내](https://supabase.com/docs/guides/auth/password-security#password-strength-and-leaked-password-protection).

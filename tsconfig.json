@@ -17,10 +17,13 @@
     "skipLibCheck": true
   },
   "include": [
+    "api/**/*.js",
+    "server/**/*.cjs",
     "src/**/*.js",
     "src/**/*.d.ts",
     "scripts/**/*.cjs",
     "tests/catalog.test.cjs",
-    "tests/auth.test.cjs"
+    "tests/auth.test.cjs",
+    "tests/entitlement.test.cjs"
   ]
 }

@@ -4,6 +4,8 @@
 
 **현재 Auth는 사용자 식별만 제공하며 public static guides의 보안 접근통제는 제공하지 않는다.**
 
+후속 U47 Entitlement 파일럿은 [ENTITLEMENT_IMPLEMENTATION.md](ENTITLEMENT_IMPLEMENTATION.md)를 참고한다. 아래는 완료된 Auth 1단계의 기록이며 로그인 코드는 동결했다. 현재 공개 상태를 유지하는 원본은 79종이고 `audio-050`은 별도 서버/RLS 권한 검사를 거친다.
+
 ## 구현 범위
 
 `login.html`에서 이메일·비밀번호로 로그인하면 `index.html`로 이동한다. Library, 상품 상세 소개, 로그인 페이지의 헤더에 사용자 이메일과 로그아웃 버튼을 표시한다. 로그인하지 않은 사용자도 기존 Library·상품 상세·원본 가이드·reader를 그대로 이용한다.

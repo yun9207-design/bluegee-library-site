@@ -52,8 +52,10 @@
     element('product-keywords').append(item);
   }
   if (product.htmlPath) { link('original-read', product.htmlPath); }
+  if (product.access === 'entitlement') { text('original-read', '권한 확인 후 가이드 읽기 →'); }
   if (product.pdfPath) { link('pdf-read', product.pdfPath); }
   text('reading-summary', product.chapterCount ? `${product.chapterCount}개 장으로 구성된 웹 가이드입니다. 필요한 장을 골라 읽어보세요.` : '제공되는 원본 자료에서 전체 내용을 확인해 보세요.');
+  if (product.access === 'entitlement') { text('reading-summary', `${product.chapterCount}개 장으로 구성된 웹 가이드입니다. 전체 열람에는 이 자료의 권한이 필요합니다.`); }
   text('contents-count', product.chapterCount ? `${product.chapterCount}장` : '목차 미등록');
   if (product.chapters.length && product.htmlPath) {
     link('toc-jump', '#contents-section');

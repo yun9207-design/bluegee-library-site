@@ -1,0 +1,14 @@
+{
+  "scope": "Loopback-only real SDK/server + original U47 HTML; no live login",
+  "noSession": true,
+  "noEntitlement": true,
+  "entitledFullGuide": true,
+  "deepLink": true,
+  "chapters": 27,
+  "mobile": true,
+  "revocation": true,
+  "logoutRemoval": true,
+  "passwordRequests": 0,
+  "errors": [],
+  "passed": true
+}

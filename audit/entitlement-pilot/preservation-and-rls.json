@@ -1,0 +1,16 @@
+{
+  "publicGuideHashesUnchanged": 79,
+  "authSourceUnchanged": true,
+  "products": 80,
+  "chapters": 2087,
+  "newTablesRlsEnabled": true,
+  "selfGrantAllowed": false,
+  "realDbNoGrantRows": 0,
+  "realDbEntitledRows": 1,
+  "realDbOtherUserRows": 0,
+  "realDbExpiredRows": 0,
+  "testEntitlements": 1,
+  "privateBodies": 1,
+  "privatePayloadMd5": "70669363272c6bc12911e5b908d516af",
+  "manualLoginsRequested": 0
+}

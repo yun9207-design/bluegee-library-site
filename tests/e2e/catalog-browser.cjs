@@ -49,6 +49,11 @@ async function serve(directory) {
   try {
     browser = await chromium.launch({ headless: true, executablePath });
     const context = await browser.newContext({ viewport: { width: 1440, height: 1000 }, reducedMotion: 'reduce' });
+    // Catalogue regression stays offline; fonts/network providers are outside this fixture.
+    await context.route('**/*', route => {
+      const url = new URL(route.request().url());
+      return ['127.0.0.1', 'localhost'].includes(url.hostname) ? route.continue() : route.abort();
+    });
     const page = await context.newPage();
     const errors = [];
     page.on('pageerror', error => errors.push(error.message));
@@ -116,8 +121,10 @@ async function serve(directory) {
     await page.waitForSelector('#product-view:not([hidden])');
     assert.equal(await page.locator('#product-title').textContent(), library.getProduct('002').title);
     await page.locator('#next-product a').click();
+    await page.waitForSelector('#product-view:not([hidden])');
     assert.equal(await page.locator('#product-number').textContent(), '003');
     await page.locator('#previous-product a').click();
+    await page.waitForSelector('#product-view:not([hidden])');
     assert.equal(await page.locator('#product-number').textContent(), '002');
     await page.locator('#back-to-list').click();
     await page.waitForSelector('.guide-entry');
@@ -151,12 +158,13 @@ async function serve(directory) {
       }
     }
     await page.goto(new URL('product.html?id=audio-050', server.base).href);
+    await page.waitForSelector('#product-view:not([hidden])');
     await page.locator('#contents-details summary').click();
     const firstChapter = library.getProduct('050').chapters[0];
     await page.locator('#product-contents a').first().click();
-    await page.waitForFunction(() => window.AudioGuide);
+    await page.waitForSelector('#guide-gate');
     assert.equal(new URL(page.url()).hash, '#' + firstChapter.id);
-    assert.equal(await page.locator('.audio-guide-current').getAttribute('id'), firstChapter.id);
+    assert.equal(await page.locator('#protected-reader').isVisible(), false);
     report.tocReadLink = true;
     assert.deepEqual(errors, []);
     await page.close();
@@ -207,6 +215,15 @@ async function serve(directory) {
         const onError = error => jsErrors.push(error.message);
         guidePage.on('pageerror', onError);
         await guidePage.goto(new URL(product.htmlPath, server.base).href, { waitUntil: 'domcontentloaded' });
+        if (product.access === 'entitlement') {
+          await guidePage.waitForSelector('#guide-gate');
+          assert.equal(await guidePage.locator('#protected-reader').isVisible(), false);
+          assert.equal(await guidePage.locator('#audio-guide-config').count(), 1);
+          assert.deepEqual(jsErrors, []);
+          report.guides.push({ number: product.number, chapters: product.chapterCount, lockedPilot: true, jsErrors });
+          guidePage.off('pageerror', onError);
+          continue;
+        }
         await guidePage.waitForFunction(() => window.AudioGuide);
         const check = await guidePage.evaluate(() => {
           const failedChapters = [];

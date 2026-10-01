@@ -27,6 +27,8 @@ export interface Product {
   keywordSources: KeywordSource[];
   highlights?: string[];
   whyItMatters?: string | null;
+  access?: 'public' | 'entitlement';
+  chapters?: Chapter[];
 }
 export interface RuntimeProduct extends Product { chapters: Chapter[]; chapterCount: number; }
 export interface CatalogSource { schemaVersion: 1; categories: Category[]; series: Series[]; bundles: Bundle[]; products: Product[]; }
